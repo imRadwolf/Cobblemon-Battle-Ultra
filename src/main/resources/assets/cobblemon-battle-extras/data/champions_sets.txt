@@ -1,0 +1,729 @@
+aegislash|Champions OU Bulky Swords Dance|Adamant|204|252|0|0|0|60|31|Colbur Berry|Stance Change|swordsdance,poltergeist,closecombat/sacredsword/kingsshield,shadowsneak/ironhead
+aegislash|Champions OU Bulky Swords Dance|Adamant|204|252|0|0|0|60|31|Spell Tag|Stance Change|swordsdance,poltergeist,closecombat/sacredsword/kingsshield,shadowsneak/ironhead
+aegislash|Champions OU Bulky Swords Dance|Adamant|204|252|0|0|0|60|31|Leftovers|Stance Change|swordsdance,poltergeist,closecombat/sacredsword/kingsshield,shadowsneak/ironhead
+aegislash|Champions OU Bulky Swords Dance|Adamant|204|252|0|0|0|60|31|Shuca Berry|Stance Change|swordsdance,poltergeist,closecombat/sacredsword/kingsshield,shadowsneak/ironhead
+aegislash|Champions OU Special Attacker|Rash|180|0|0|252|0|84|31|Spell Tag|Stance Change|shadowball,shadowsneak,closecombat,kingsshield
+aegislash|Champions BSS Physical Attacker|Adamant|252|252|12|0|0|0|31|Spell Tag|Stance Change|poltergeist,shadowsneak,swordsdance/kingsshield,closecombat/sacredsword
+aegislash|Champions BSS Physical Attacker|Adamant|252|252|12|0|0|0|31|Leftovers|Stance Change|poltergeist,shadowsneak,swordsdance/kingsshield,closecombat/sacredsword
+aegislash|Champions BSS Mixed Attacker|Quiet|252|12|0|252|0|0|31|Leftovers|Stance Change|shadowball,shadowsneak,kingsshield,closecombat
+aegislash|Champions BSS Mixed Attacker|Quiet|252|12|0|252|0|0|31|Spell Tag|Stance Change|shadowball,shadowsneak,kingsshield,closecombat
+aegislash|Champions VGC26-M-A Bulky Attacker|Adamant|212|252|0|0|0|52|31|Spell Tag|Stance Change|poltergeist,shadowsneak,ironhead/closecombat/sacredsword,kingsshield/wideguard
+aegislash|Champions VGC26-M-A Bulky Attacker|Adamant|212|252|0|0|0|52|31|Focus Sash|Stance Change|poltergeist,shadowsneak,ironhead/closecombat/sacredsword,kingsshield/wideguard
+aegislash|Champions VGC26-M-A Bulky Attacker|Adamant|12|252|0|0|0|252|31|Spell Tag|Stance Change|poltergeist,shadowsneak,ironhead/closecombat/sacredsword,kingsshield/wideguard
+aegislash|Champions VGC26-M-A Bulky Attacker|Adamant|12|252|0|0|0|252|31|Focus Sash|Stance Change|poltergeist,shadowsneak,ironhead/closecombat/sacredsword,kingsshield/wideguard
+aerodactyl|Champions VGC26-M-A Focus Sash Offensive Support|Jolly|12|252|0|0|0|252|31|Focus Sash|Unnerve|rockslide,tailwind,dualwingbeat/wideguard,protect
+aerodactyl|Champions VGC26-M-A Tailwind Setter|Jolly|12|252|0|0|0|252|31|Aerodactylite|Unnerve|rockslide,dualwingbeat,tailwind,protect
+aerodactyl|Champions VGC26-M-B Offensive Tailwind Setter|Jolly|12|252|0|0|0|252|31|Aerodactylite|Unnerve|rockslide,dualwingbeat,icefang,tailwind
+alakazam|Champions OU Focus Sash|Timid|12|0|0|252|0|252|31|Focus Sash|Magic Guard|psyshock,focusblast,shadowball,nastyplot/thunderwave
+annihilape|Champions OU Bulky Sweeper|Careful|252|0|0|0|244|20|31|Leftovers|Defiant|bulkup,drainpunch,ragefist,taunt/substitute/rest
+annihilape|Champions OU Bulky Sweeper|Careful|252|0|0|0|244|20|31|Sitrus Berry|Defiant|bulkup,drainpunch,ragefist,taunt/substitute/rest
+annihilape|Champions OU Bulky Sweeper|Careful|252|0|0|0|244|20|31|Chesto Berry|Defiant|bulkup,drainpunch,ragefist,taunt/substitute/rest
+annihilape|Champions OU Fast Bulk Up|Jolly|252|0|12|0|0|252|31|Chesto Berry|Defiant|bulkup,drainpunch,ragefist,rest
+annihilape|Champions VGC26-M-B Glass Cannon|Jolly|12|252|0|0|0|252|31|Focus Sash|Defiant|phantomforce,closecombat,rocktomb/ragefist,protect
+araquanid|Champions OU Sticky Web|Quiet|252|12|0|252|0|0|31|Sitrus Berry|Water Bubble|stickyweb,lunge,surf,endeavor
+araquanid|Champions OU Sticky Web|Quiet|252|12|0|252|0|0|31|Focus Sash|Water Bubble|stickyweb,lunge,surf,endeavor
+arcaninehisui|Champions VGC26-M-B Fast Attacker|Jolly|12|252|0|0|0|252|31|Focus Sash|Rock Head|flareblitz,headsmash,extremespeed,protect
+archaludon|Champions OU Rain Attacker|Modest|204|0|0|252|0|60|31|Chople Berry|Stamina|electroshot,dracometeor/dragonpulse,flashcannon/stealthrock,aurasphere
+archaludon|Champions OU Rain Attacker|Modest|204|0|0|252|0|60|31|Shuca Berry|Stamina|electroshot,dracometeor/dragonpulse,flashcannon/stealthrock,aurasphere
+archaludon|Champions OU Rain Attacker|Modest|204|0|0|252|0|60|31|Leftovers|Stamina|electroshot,dracometeor/dragonpulse,flashcannon/stealthrock,aurasphere
+archaludon|Champions OU Bulky Attacker|Modest|204|0|0|252|0|60|31|Leftovers|Stamina|flashcannon,dracometeor,thunderbolt/dragontail,stealthrock/aurasphere
+archaludon|Champions OU Bulky Attacker|Modest|204|0|0|252|0|60|31|Sitrus Berry|Stamina|flashcannon,dracometeor,thunderbolt/dragontail,stealthrock/aurasphere
+archaludon|Champions BSS Bulky Entry Hazard Setter|Bold|252|0|180|0|84|0|31|Sitrus Berry|Stamina|stealthrock,dracometeor,thunderbolt/flashcannon/mirrorcoat,roar/dragontail/flashcannon/mirrorcoat
+archaludon|Champions BSS Bulky Entry Hazard Setter|Bold|252|0|180|0|84|0|31|Leftovers|Stamina|stealthrock,dracometeor,thunderbolt/flashcannon/mirrorcoat,roar/dragontail/flashcannon/mirrorcoat
+archaludon|Champions BSS Bulky Entry Hazard Setter|Calm|252|0|180|0|84|0|31|Sitrus Berry|Stamina|stealthrock,dracometeor,thunderbolt/flashcannon/mirrorcoat,roar/dragontail/flashcannon/mirrorcoat
+archaludon|Champions BSS Bulky Entry Hazard Setter|Calm|252|0|180|0|84|0|31|Leftovers|Stamina|stealthrock,dracometeor,thunderbolt/flashcannon/mirrorcoat,roar/dragontail/flashcannon/mirrorcoat
+archaludon|Champions BSS Bulky Entry Hazard Setter|Bold|252|0|12|0|252|0|31|Sitrus Berry|Stamina|stealthrock,dracometeor,thunderbolt/flashcannon/mirrorcoat,roar/dragontail/flashcannon/mirrorcoat
+archaludon|Champions BSS Bulky Entry Hazard Setter|Bold|252|0|12|0|252|0|31|Leftovers|Stamina|stealthrock,dracometeor,thunderbolt/flashcannon/mirrorcoat,roar/dragontail/flashcannon/mirrorcoat
+archaludon|Champions BSS Bulky Entry Hazard Setter|Calm|252|0|12|0|252|0|31|Sitrus Berry|Stamina|stealthrock,dracometeor,thunderbolt/flashcannon/mirrorcoat,roar/dragontail/flashcannon/mirrorcoat
+archaludon|Champions BSS Bulky Entry Hazard Setter|Calm|252|0|12|0|252|0|31|Leftovers|Stamina|stealthrock,dracometeor,thunderbolt/flashcannon/mirrorcoat,roar/dragontail/flashcannon/mirrorcoat
+archaludon|Champions BSS Pseudo-Focus Sash|Timid|12|0|0|252|0|252|31|White Herb|Sturdy|dracometeor,thunderbolt/flashcannon/steelbeam,flashcannon/steelbeam/aurasphere/roar,stealthrock/roar
+archaludon|Champions BSS Pseudo-Focus Sash|Timid|12|0|0|252|0|252|31|Sitrus Berry|Sturdy|dracometeor,thunderbolt/flashcannon/steelbeam,flashcannon/steelbeam/aurasphere/roar,stealthrock/roar
+archaludon|Champions BSS Pseudo-Focus Sash|Modest|12|0|0|252|0|252|31|White Herb|Sturdy|dracometeor,thunderbolt/flashcannon/steelbeam,flashcannon/steelbeam/aurasphere/roar,stealthrock/roar
+archaludon|Champions BSS Pseudo-Focus Sash|Modest|12|0|0|252|0|252|31|Sitrus Berry|Sturdy|dracometeor,thunderbolt/flashcannon/steelbeam,flashcannon/steelbeam/aurasphere/roar,stealthrock/roar
+archaludon|Champions BSS Rain Sweeper|Timid|12|0|0|252|0|252|31|Choice Scarf|Stamina|electroshot,dracometeor,flashcannon,aurasphere/thunderbolt
+archaludon|Champions BSS Rain Sweeper|Timid|12|0|0|252|0|252|31|Sitrus Berry|Stamina|electroshot,dracometeor,flashcannon,aurasphere/thunderbolt
+archaludon|Champions BSS Rain Sweeper|Modest|12|0|0|252|0|252|31|Choice Scarf|Stamina|electroshot,dracometeor,flashcannon,aurasphere/thunderbolt
+archaludon|Champions BSS Rain Sweeper|Modest|12|0|0|252|0|252|31|Sitrus Berry|Stamina|electroshot,dracometeor,flashcannon,aurasphere/thunderbolt
+archaludon|Champions BSS Rain Sweeper|Timid|252|0|84|116|0|60|31|Choice Scarf|Stamina|electroshot,dracometeor,flashcannon,aurasphere/thunderbolt
+archaludon|Champions BSS Rain Sweeper|Timid|252|0|84|116|0|60|31|Sitrus Berry|Stamina|electroshot,dracometeor,flashcannon,aurasphere/thunderbolt
+archaludon|Champions BSS Rain Sweeper|Modest|252|0|84|116|0|60|31|Choice Scarf|Stamina|electroshot,dracometeor,flashcannon,aurasphere/thunderbolt
+archaludon|Champions BSS Rain Sweeper|Modest|252|0|84|116|0|60|31|Sitrus Berry|Stamina|electroshot,dracometeor,flashcannon,aurasphere/thunderbolt
+archaludon|Champions BSS Focus Energy|Modest|252|0|0|252|0|12|31|Scope Lens|Stamina|focusenergy,dracometeor,flashcannon/thunderbolt,thunderbolt/substitute
+archaludon|Champions BSS Focus Energy|Modest|252|0|0|252|0|12|31|Scope Lens|Sturdy|focusenergy,dracometeor,flashcannon/thunderbolt,thunderbolt/substitute
+archaludon|Champions BSS Focus Energy|Timid|252|0|0|252|0|12|31|Scope Lens|Stamina|focusenergy,dracometeor,flashcannon/thunderbolt,thunderbolt/substitute
+archaludon|Champions BSS Focus Energy|Timid|252|0|0|252|0|12|31|Scope Lens|Sturdy|focusenergy,dracometeor,flashcannon/thunderbolt,thunderbolt/substitute
+archaludon|Champions BSS Focus Energy|Modest|12|0|0|252|0|252|31|Scope Lens|Stamina|focusenergy,dracometeor,flashcannon/thunderbolt,thunderbolt/substitute
+archaludon|Champions BSS Focus Energy|Modest|12|0|0|252|0|252|31|Scope Lens|Sturdy|focusenergy,dracometeor,flashcannon/thunderbolt,thunderbolt/substitute
+archaludon|Champions BSS Focus Energy|Timid|12|0|0|252|0|252|31|Scope Lens|Stamina|focusenergy,dracometeor,flashcannon/thunderbolt,thunderbolt/substitute
+archaludon|Champions BSS Focus Energy|Timid|12|0|0|252|0|252|31|Scope Lens|Sturdy|focusenergy,dracometeor,flashcannon/thunderbolt,thunderbolt/substitute
+archaludon|Champions VGC26-M-A Bulky Rain Sweeper|Modest|252|0|4|36|196|20|31|Leftovers|Stamina|electroshot,dragonpulse,flashcannon,protect
+archaludon|Champions VGC26-M-B Bulky Rain Sweeper|Calm|212|0|36|36|204|20|31|Leftovers|Stamina|electroshot,dragonpulse,flashcannon,protect
+archaludon|Champions VGC26-M-B Bulky Rain Sweeper|Modest|212|0|36|36|204|20|31|Leftovers|Stamina|electroshot,dragonpulse,flashcannon,protect
+archaludon|Champions VGC26-M-B Bulky Rain Sweeper|Calm|252|0|4|36|196|20|31|Leftovers|Stamina|electroshot,dragonpulse,flashcannon,protect
+archaludon|Champions VGC26-M-B Bulky Rain Sweeper|Modest|252|0|4|36|196|20|31|Leftovers|Stamina|electroshot,dragonpulse,flashcannon,protect
+archaludon|Champions VGC26-M-C Bulky Rain Sweeper|Calm|252|0|4|4|196|52|31|Leftovers|Stamina|electroshot,dragonpulse,flashcannon/snarl,protect
+archaludon|Champions VGC26-M-C Bulky Rain Sweeper|Bold|252|0|4|4|196|52|31|Leftovers|Stamina|electroshot,dragonpulse,flashcannon/snarl,protect
+archaludon|Champions VGC26-M-C Bulky Rain Sweeper|Calm|252|0|4|4|252|0|31|Leftovers|Stamina|electroshot,dragonpulse,flashcannon/snarl,protect
+archaludon|Champions VGC26-M-C Bulky Rain Sweeper|Bold|252|0|4|4|252|0|31|Leftovers|Stamina|electroshot,dragonpulse,flashcannon/snarl,protect
+armarouge|Champions VGC26-M-C Psychic Terrain Attacker|Modest|0|0|12|252|0|252|31|Focus Sash|Flash Fire|expandingforce,armorcannon,protect/trickroom,trickroom/wideguard
+armarouge|Champions VGC26-M-C Psychic Terrain Attacker|Modest|0|0|12|252|0|252|31|Life Orb|Flash Fire|expandingforce,armorcannon,protect/trickroom,trickroom/wideguard
+armarouge|Champions VGC26-M-C Psychic Terrain Attacker|Modest|228|0|156|4|124|0|31|Focus Sash|Flash Fire|expandingforce,armorcannon,protect/trickroom,trickroom/wideguard
+armarouge|Champions VGC26-M-C Psychic Terrain Attacker|Modest|228|0|156|4|124|0|31|Life Orb|Flash Fire|expandingforce,armorcannon,protect/trickroom,trickroom/wideguard
+barbaracle|Champions OU Shell Smash|Adamant|12|252|0|0|0|252|31|Barbaracite|Tough Claws|shellsmash,closecombat,stoneedge,shadowclaw/earthquake
+barbaracle|Champions OU Shell Smash|Jolly|12|252|0|0|0|252|31|Barbaracite|Tough Claws|shellsmash,closecombat,stoneedge,shadowclaw/earthquake
+basculegionf|Champions VGC26-M-C Rain Sweeper|Modest|12|0|0|252|0|252|31|Focus Sash|Swift Swim|shadowball,muddywater,icebeam,protect
+basculegion|Champions BSS Choice Scarf|Jolly|12|252|0|0|0|252|31|Choice Scarf|Adaptability|wavecrash,lastrespects,flipturn,aquajet
+basculegion|Champions BSS Offensive|Adamant|12|252|0|0|0|252|31|Mystic Water|Adaptability|wavecrash,lastrespects,aquajet,agility
+basculegion|Champions BSS Offensive|Adamant|12|252|0|0|0|252|31|Spell Tag|Adaptability|wavecrash,lastrespects,aquajet,agility
+basculegion|Champions BSS Offensive|Adamant|12|252|0|0|0|252|31|Focus Sash|Adaptability|wavecrash,lastrespects,aquajet,agility
+basculegion|Champions VGC26-M-A Revenge Killer|Jolly|12|252|0|0|0|252|31|Choice Scarf|Adaptability|wavecrash,flipturn,lastrespects,aquajet
+basculegion|Champions VGC26-M-A Revenge Killer|Adamant|12|252|0|0|0|252|31|Choice Scarf|Adaptability|wavecrash,flipturn,lastrespects,aquajet
+basculegion|Champions VGC26-M-A Bulky Attacker|Adamant|124|188|44|0|0|156|31|Mystic Water|Adaptability|wavecrash,lastrespects,aquajet,protect
+basculegion|Champions VGC26-M-A Bulky Attacker|Adamant|124|188|44|0|0|156|31|Sitrus Berry|Adaptability|wavecrash,lastrespects,aquajet,protect
+basculegion|Champions VGC26-M-A Focus Sash Attacker|Adamant|12|252|0|0|0|252|31|Focus Sash|Adaptability|liquidation,lastrespects,aquajet,protect
+basculegion|Champions VGC26-M-B Choice Scarf|Jolly|12|252|0|0|0|252|31|Choice Scarf|Adaptability|wavecrash,lastrespects,flipturn,aquajet
+basculegion|Champions VGC26-M-B Glass Cannon|Adamant|0|252|108|0|0|156|31|Life Orb|Adaptability|wavecrash,lastrespects,aquajet,protect
+basculegion|Champions VGC26-M-B Glass Cannon|Adamant|0|252|108|0|0|156|31|Mystic Water|Adaptability|wavecrash,lastrespects,aquajet,protect
+bellibolt|Champions OU Defensive Pivot|Relaxed|244|0|252|20|0|0|31|Sitrus Berry|Electromorphosis|voltswitch,muddywater,recover,toxic
+bellibolt|Champions OU Defensive Pivot|Relaxed|244|0|252|20|0|0|31|Sitrus Berry|Static|voltswitch,muddywater,recover,toxic
+bellibolt|Champions OU Defensive Pivot|Relaxed|244|0|252|20|0|0|31|Shuca Berry|Electromorphosis|voltswitch,muddywater,recover,toxic
+bellibolt|Champions OU Defensive Pivot|Relaxed|244|0|252|20|0|0|31|Shuca Berry|Static|voltswitch,muddywater,recover,toxic
+bellibolt|Champions BSS Special Wall|Calm|228|0|28|12|220|20|31|Sitrus Berry|Electromorphosis|voltswitch,paraboliccharge,soak/toxic/acidspray,slackoff
+bellibolt|Champions BSS Special Wall|Calm|228|0|28|12|220|20|31|Magnet|Electromorphosis|voltswitch,paraboliccharge,soak/toxic/acidspray,slackoff
+bellibolt|Champions BSS Special Wall|Calm|228|0|28|12|220|20|31|Leftovers|Electromorphosis|voltswitch,paraboliccharge,soak/toxic/acidspray,slackoff
+blastoise|Champions BSS Half-Shell Hero (Shell Smash Sweeper)|Modest|4|0|4|252|0|252|31|Blastoisinite|Torrent|shellsmash,aurasphere,darkpulse/icebeam,waterpulse/hydropump/icebeam
+blastoise|Champions BSS Turtle Power! (Bulky Attacker)|Modest|252|0|12|252|0|0|31|Blastoisinite|Torrent|aurasphere,darkpulse/icebeam,waterpulse/hydropump/icebeam,aquajet/waterpulse/hydropump
+blastoise|Champions VGC26-M-A Setup Sweeper|Modest|12|0|0|252|0|252|31|Blastoisinite|Rain Dish|shellsmash,waterspout,darkpulse,protect/fakeout
+blastoise|Champions VGC26-M-A Setup Sweeper|Modest|252|0|12|252|0|0|31|Blastoisinite|Rain Dish|shellsmash,waterspout,darkpulse,protect/fakeout
+blastoise|Champions VGC26-M-B Setup Sweeper|Modest|100|0|0|220|0|196|31|Blastoisinite|Rain Dish|waterspout,darkpulse,shellsmash,protect
+blaziken|Champions OU Life Orb|Adamant|12|252|0|0|0|252|31|Life Orb|Speed Boost|swordsdance,flareblitz,closecombat,knockoff/earthquake/protect
+blaziken|Champions OU Focus Sash|Adamant|12|252|0|0|0|252|31|Focus Sash|Speed Boost|swordsdance,protect,blazekick,closecombat
+blaziken|Champions VGC26-M-B Glass Cannon|Adamant|12|252|0|0|0|252|31|Blazikenite|Speed Boost|flareblitz,closecombat,rockslide,detect
+blaziken|Champions VGC26-M-B Glass Cannon|Jolly|12|252|0|0|0|252|31|Blazikenite|Speed Boost|flareblitz,closecombat,rockslide,detect
+ceruledge|Champions OU Fast Swords Dance|Jolly|4|252|0|0|4|252|31|Focus Sash|Weak Armor|swordsdance,poltergeist,bitterblade,shadowsneak
+ceruledge|Champions OU Fast Swords Dance|Jolly|4|252|0|0|4|252|31|Life Orb|Weak Armor|swordsdance,poltergeist,bitterblade,shadowsneak
+ceruledge|Champions OU Fast Swords Dance|Adamant|4|252|0|0|4|252|31|Focus Sash|Weak Armor|swordsdance,poltergeist,bitterblade,shadowsneak
+ceruledge|Champions OU Fast Swords Dance|Adamant|4|252|0|0|4|252|31|Life Orb|Weak Armor|swordsdance,poltergeist,bitterblade,shadowsneak
+ceruledge|Champions OU Bulky Swords Dance|Adamant|204|252|0|0|0|60|31|Shuca Berry|Weak Armor|swordsdance,poltergeist,bitterblade,shadowsneak
+ceruledge|Champions OU Bulky Swords Dance|Adamant|204|252|0|0|0|60|31|Colbur Berry|Weak Armor|swordsdance,poltergeist,bitterblade,shadowsneak
+ceruledge|Champions BSS Focus Sash|Adamant|4|252|4|0|0|252|31|Focus Sash|Weak Armor|shadowsneak,poltergeist/closecombat,bitterblade/closecombat,swordsdance
+ceruledge|Champions VGC26-M-A Setup Sweeper|Adamant|252|180|20|0|60|0|31|Colbur Berry|Flash Fire|bitterblade,shadowsneak,bulkup,protect
+ceruledge|Champions VGC26-M-B Setup Sweeper|Adamant|252|180|20|0|60|0|31|Colbur Berry|Flash Fire|bitterblade,shadowsneak,bulkup,protect
+charizard|Champions OU Dragon Dance|Jolly|12|252|0|0|0|252|31|Charizardite X|Blaze|dragondance/swordsdance,roost,dragonclaw,flareblitz
+charizard|Champions OU Dragon Dance|Adamant|12|252|0|0|0|252|31|Charizardite X|Blaze|dragondance/swordsdance,roost,dragonclaw,flareblitz
+charizard|Champions OU Drought Wallbreaker|Timid|12|0|0|252|0|252|31|Charizardite Y|Blaze|weatherball/fireblast,solarbeam,dragonpulse,roost
+charizard|Champions OU Drought Wallbreaker|Modest|12|0|0|252|0|252|31|Charizardite Y|Blaze|weatherball/fireblast,solarbeam,dragonpulse,roost
+charizard|Champions BSS Drought Offense|Timid|12|0|0|252|0|252|31|Charizardite Y|Blaze|flamethrower/weatherball,solarbeam,overheat,flamecharge/airslash
+charizard|Champions BSS Drought Offense|Timid|12|0|0|252|0|252|31|Charizardite Y|Solar Power|flamethrower/weatherball,solarbeam,overheat,flamecharge/airslash
+charizard|Champions BSS Drought Offense|Modest|12|0|0|252|0|252|31|Charizardite Y|Blaze|flamethrower/weatherball,solarbeam,overheat,flamecharge/airslash
+charizard|Champions BSS Drought Offense|Modest|12|0|0|252|0|252|31|Charizardite Y|Solar Power|flamethrower/weatherball,solarbeam,overheat,flamecharge/airslash
+charizard|Champions BSS Dragon Dance|Jolly|92|228|20|0|4|164|31|Charizardite X|Blaze|flareblitz,dragonclaw,roost/thunderpunch/earthquake,dragondance
+charizard|Champions BSS Dragon Dance|Adamant|92|228|20|0|4|164|31|Charizardite X|Blaze|flareblitz,dragonclaw,roost/thunderpunch/earthquake,dragondance
+charizard|Champions BSS Dragon Dance|Jolly|124|236|68|0|0|84|31|Charizardite X|Blaze|flareblitz,dragonclaw,roost/thunderpunch/earthquake,dragondance
+charizard|Champions BSS Dragon Dance|Adamant|124|236|68|0|0|84|31|Charizardite X|Blaze|flareblitz,dragonclaw,roost/thunderpunch/earthquake,dragondance
+charizard|Champions BSS Double Dance|Jolly|92|228|20|0|4|164|31|Charizardite X|Blaze|flareblitz,scaleshot/flamecharge,roost/dragonclaw/thunderpunch,swordsdance
+charizard|Champions BSS Double Dance|Adamant|92|228|20|0|4|164|31|Charizardite X|Blaze|flareblitz,scaleshot/flamecharge,roost/dragonclaw/thunderpunch,swordsdance
+charizard|Champions BSS Double Dance|Jolly|252|92|20|0|4|140|31|Charizardite X|Blaze|flareblitz,scaleshot/flamecharge,roost/dragonclaw/thunderpunch,swordsdance
+charizard|Champions BSS Double Dance|Adamant|252|92|20|0|4|140|31|Charizardite X|Blaze|flareblitz,scaleshot/flamecharge,roost/dragonclaw/thunderpunch,swordsdance
+charizard|Champions BSS Tank|Impish|236|0|228|0|0|52|31|Charizardite X|Blaze|dragontail/breakingswipe/dragonclaw,flamecharge,roost,willowisp
+charizard|Champions VGC26-M-A Bulky Sweeper|Modest|108|0|220|84|0|100|31|Charizardite Y|Blaze|weatherball,solarbeam,heatwave,protect
+charizard|Champions VGC26-M-B Sun Sweeper|Modest|124|0|196|92|0|100|31|Charizardite Y|Blaze|heatwave,weatherball,solarbeam,protect
+cinderace|Champions OU Air Balloon|Jolly|0|252|12|0|0|252|31|Air Balloon|Libero|pyroball,uturn,highjumpkick/suckerpunch/gunkshot/willowisp,courtchange/willowisp
+cinderace|Champions OU Choice Scarf|Jolly|0|252|12|0|0|252|31|Choice Scarf|Libero|pyroball,gunkshot,highjumpkick,uturn
+cinderace|Champions BSS All-out Attacker|Jolly|12|252|0|0|0|252|31|Wide Lens|Libero|pyroball,gunkshot,highjumpkick,suckerpunch/uturn/willowisp
+cinderace|Champions BSS All-out Attacker|Jolly|12|252|0|0|0|252|31|Focus Sash|Libero|pyroball,gunkshot,highjumpkick,suckerpunch/uturn/willowisp
+cinderace|Champions BSS All-out Attacker|Jolly|12|252|0|0|0|252|31|Life Orb|Libero|pyroball,gunkshot,highjumpkick,suckerpunch/uturn/willowisp
+cinderace|Champions BSS All-out Attacker|Jolly|156|172|0|0|0|188|31|Wide Lens|Libero|pyroball,gunkshot,highjumpkick,suckerpunch/uturn/willowisp
+cinderace|Champions BSS All-out Attacker|Jolly|156|172|0|0|0|188|31|Focus Sash|Libero|pyroball,gunkshot,highjumpkick,suckerpunch/uturn/willowisp
+cinderace|Champions BSS All-out Attacker|Jolly|156|172|0|0|0|188|31|Life Orb|Libero|pyroball,gunkshot,highjumpkick,suckerpunch/uturn/willowisp
+cinderace|Champions BSS Choice Scarf|Jolly|12|252|0|0|0|252|31|Choice Scarf|Libero|pyroball,gunkshot,highjumpkick,uturn
+clefable|Champions OU Magic Guard Utility|Bold|252|0|252|0|12|0|31|Leftovers|Magic Guard|moonblast,flamethrower,moonlight,stealthrock
+clefable|Champions OU Magic Guard Utility|Bold|252|0|252|0|12|0|31|Rocky Helmet|Magic Guard|moonblast,flamethrower,moonlight,stealthrock
+clefable|Champions OU Unaware Wall|Bold|252|0|252|0|12|0|31|Leftovers|Unaware|calmmind,moonblast,flamethrower,moonlight
+clefable|Champions OU Mega Utility|Modest|164|0|0|252|0|100|31|Clefablite|Magic Bounce|moonblast,moonlight,calmmind/stealthrock,flamethrower
+corviknight|Champions OU IronPress|Impish|252|0|252|0|12|0|31|Leftovers|Pressure|irondefense,bodypress,roost,defog/bravebird
+corviknight|Champions OU IronPress|Impish|252|0|252|0|12|0|31|Sitrus Berry|Pressure|irondefense,bodypress,roost,defog/bravebird
+corviknight|Champions OU IronPress|Impish|252|0|252|0|12|0|31|Occa Berry|Pressure|irondefense,bodypress,roost,defog/bravebird
+corviknight|Champions OU Defog|Relaxed|252|0|252|0|12|0|31|Leftovers|Pressure|defog,bravebird/bodypress,roost,uturn
+corviknight|Champions OU Defog|Relaxed|252|0|252|0|12|0|31|Sitrus Berry|Pressure|defog,bravebird/bodypress,roost,uturn
+corviknight|Champions OU Defog|Relaxed|252|0|252|0|12|0|31|Occa Berry|Pressure|defog,bravebird/bodypress,roost,uturn
+corviknight|Champions BSS Physically Defensive|Impish|252|0|252|0|12|0|31|Leftovers|Pressure|roost,bodypress,uturn/ironhead,irondefense/ironhead/taunt
+corviknight|Champions BSS Physically Defensive|Impish|252|0|252|0|12|0|31|Leftovers|Mirror Armor|roost,bodypress,uturn/ironhead,irondefense/ironhead/taunt
+corviknight|Champions BSS Physically Defensive|Impish|252|0|252|0|12|0|31|Sitrus Berry|Pressure|roost,bodypress,uturn/ironhead,irondefense/ironhead/taunt
+corviknight|Champions BSS Physically Defensive|Impish|252|0|252|0|12|0|31|Sitrus Berry|Mirror Armor|roost,bodypress,uturn/ironhead,irondefense/ironhead/taunt
+corviknight|Champions BSS Physically Defensive|Relaxed|252|0|252|0|12|0|31|Leftovers|Pressure|roost,bodypress,uturn/ironhead,irondefense/ironhead/taunt
+corviknight|Champions BSS Physically Defensive|Relaxed|252|0|252|0|12|0|31|Leftovers|Mirror Armor|roost,bodypress,uturn/ironhead,irondefense/ironhead/taunt
+corviknight|Champions BSS Physically Defensive|Relaxed|252|0|252|0|12|0|31|Sitrus Berry|Pressure|roost,bodypress,uturn/ironhead,irondefense/ironhead/taunt
+corviknight|Champions BSS Physically Defensive|Relaxed|252|0|252|0|12|0|31|Sitrus Berry|Mirror Armor|roost,bodypress,uturn/ironhead,irondefense/ironhead/taunt
+corviknight|Champions BSS Specially Defensive|Careful|252|0|12|0|252|0|31|Leftovers|Pressure|roost,uturn,bodypress/bravebird,irondefense/taunt
+corviknight|Champions BSS Specially Defensive|Careful|252|0|12|0|252|0|31|Leftovers|Mirror Armor|roost,uturn,bodypress/bravebird,irondefense/taunt
+corviknight|Champions BSS Specially Defensive|Careful|252|0|12|0|252|0|31|Sitrus Berry|Pressure|roost,uturn,bodypress/bravebird,irondefense/taunt
+corviknight|Champions BSS Specially Defensive|Careful|252|0|12|0|252|0|31|Sitrus Berry|Mirror Armor|roost,uturn,bodypress/bravebird,irondefense/taunt
+corviknight|Champions BSS Specially Defensive|Sassy|252|0|12|0|252|0|31|Leftovers|Pressure|roost,uturn,bodypress/bravebird,irondefense/taunt
+corviknight|Champions BSS Specially Defensive|Sassy|252|0|12|0|252|0|31|Leftovers|Mirror Armor|roost,uturn,bodypress/bravebird,irondefense/taunt
+corviknight|Champions BSS Specially Defensive|Sassy|252|0|12|0|252|0|31|Sitrus Berry|Pressure|roost,uturn,bodypress/bravebird,irondefense/taunt
+corviknight|Champions BSS Specially Defensive|Sassy|252|0|12|0|252|0|31|Sitrus Berry|Mirror Armor|roost,uturn,bodypress/bravebird,irondefense/taunt
+corviknight|Champions VGC26-M-A Bulk Up|Careful|148|76|228|0|60|0|31|Leftovers|Mirror Armor|bravebird,tailwind,roost,bulkup
+delphox|Champions OU Wallbreaker|Timid|4|0|4|252|0|252|31|Delphoxite|Blaze|flamethrower/fireblast,psyshock,dazzlinggleam/substitute,nastyplot/substitute
+delphox|Champions BSS Crimson Maiden (Offensive Mega)|Timid|12|0|0|252|0|252|31|Delphoxite|Blaze|flamethrower,psychic/psyshock/psychicnoise,encore/dazzlinggleam,dazzlinggleam/nastyplot/substitute
+delphox|Champions BSS Crimson Maiden (Offensive Mega)|Timid|4|0|28|228|0|252|31|Delphoxite|Blaze|flamethrower,psychic/psyshock/psychicnoise,encore/dazzlinggleam,dazzlinggleam/nastyplot/substitute
+delphox|Champions VGC26-M-A Glass Cannon|Timid|36|0|0|252|0|228|31|Delphoxite|Blaze|heatwave,psyshock/psychic,nastyplot/encore,protect
+delphox|Champions VGC26-M-B Glass Cannon|Timid|36|0|0|252|0|228|31|Delphoxite|Blaze|heatwave,psyshock/psychic,nastyplot,protect
+ditto|Champions OU Among Us (Revenge Killer)|Quiet|244|20|0|252|0|0|31|Choice Scarf|Imposter|transform
+dragalge|Champions OU Defensive Pivot|Sassy|252|0|132|0|132|0|31|Dragalgite|Poison Point|flipturn,sludgebomb,dracometeor,scald/toxic
+dragalge|Champions BSS Regenerator Tank|Sassy|244|0|148|0|132|0|31|Dragalgite|Adaptability|dracometeor,flipturn,toxic/toxicspikes,sludgewave/sludgebomb/toxicspikes/thunderbolt
+dragapult|Champions OU Hex|Timid|0|0|12|252|0|252|31|Spell Tag|Clear Body|hex,dracometeor/dragondarts,willowisp/thunderwave,uturn
+dragapult|Champions OU Hex|Timid|0|0|12|252|0|252|31|Spell Tag|Infiltrator|hex,dracometeor/dragondarts,willowisp/thunderwave,uturn
+dragapult|Champions OU Hex|Timid|0|0|12|252|0|252|31|Dragon Fang|Clear Body|hex,dracometeor/dragondarts,willowisp/thunderwave,uturn
+dragapult|Champions OU Hex|Timid|0|0|12|252|0|252|31|Dragon Fang|Infiltrator|hex,dracometeor/dragondarts,willowisp/thunderwave,uturn
+dragapult|Champions OU Hex|Timid|0|0|12|252|0|252|31|Colbur Berry|Clear Body|hex,dracometeor/dragondarts,willowisp/thunderwave,uturn
+dragapult|Champions OU Hex|Timid|0|0|12|252|0|252|31|Colbur Berry|Infiltrator|hex,dracometeor/dragondarts,willowisp/thunderwave,uturn
+dragapult|Champions OU Hex|Naive|0|0|12|252|0|252|31|Spell Tag|Clear Body|hex,dracometeor/dragondarts,willowisp/thunderwave,uturn
+dragapult|Champions OU Hex|Naive|0|0|12|252|0|252|31|Spell Tag|Infiltrator|hex,dracometeor/dragondarts,willowisp/thunderwave,uturn
+dragapult|Champions OU Hex|Naive|0|0|12|252|0|252|31|Dragon Fang|Clear Body|hex,dracometeor/dragondarts,willowisp/thunderwave,uturn
+dragapult|Champions OU Hex|Naive|0|0|12|252|0|252|31|Dragon Fang|Infiltrator|hex,dracometeor/dragondarts,willowisp/thunderwave,uturn
+dragapult|Champions OU Hex|Naive|0|0|12|252|0|252|31|Colbur Berry|Clear Body|hex,dracometeor/dragondarts,willowisp/thunderwave,uturn
+dragapult|Champions OU Hex|Naive|0|0|12|252|0|252|31|Colbur Berry|Infiltrator|hex,dracometeor/dragondarts,willowisp/thunderwave,uturn
+dragapult|Champions OU Hex|Timid|0|12|0|252|0|252|31|Spell Tag|Clear Body|hex,dracometeor/dragondarts,willowisp/thunderwave,uturn
+dragapult|Champions OU Hex|Timid|0|12|0|252|0|252|31|Spell Tag|Infiltrator|hex,dracometeor/dragondarts,willowisp/thunderwave,uturn
+dragapult|Champions OU Hex|Timid|0|12|0|252|0|252|31|Dragon Fang|Clear Body|hex,dracometeor/dragondarts,willowisp/thunderwave,uturn
+dragapult|Champions OU Hex|Timid|0|12|0|252|0|252|31|Dragon Fang|Infiltrator|hex,dracometeor/dragondarts,willowisp/thunderwave,uturn
+dragapult|Champions OU Life Orb|Timid|0|0|12|252|0|252|31|Life Orb|Clear Body|dracometeor,shadowball,flamethrower/fireblast,uturn
+dragapult|Champions OU Choice Scarf|Modest|12|0|0|252|0|252|31|Choice Scarf|Clear Body|shadowball,dracometeor,uturn,flamethrower/dragondarts
+dragapult|Champions OU Choice Scarf|Modest|12|0|0|252|0|252|31|Choice Scarf|Infiltrator|shadowball,dracometeor,uturn,flamethrower/dragondarts
+dragapult|Champions OU Choice Scarf|Rash|12|0|0|252|0|252|31|Choice Scarf|Clear Body|shadowball,dracometeor,uturn,flamethrower/dragondarts
+dragapult|Champions OU Choice Scarf|Rash|12|0|0|252|0|252|31|Choice Scarf|Infiltrator|shadowball,dracometeor,uturn,flamethrower/dragondarts
+dragapult|Champions OU Choice Scarf|Modest|0|12|0|252|0|252|31|Choice Scarf|Clear Body|shadowball,dracometeor,uturn,flamethrower/dragondarts
+dragapult|Champions OU Choice Scarf|Modest|0|12|0|252|0|252|31|Choice Scarf|Infiltrator|shadowball,dracometeor,uturn,flamethrower/dragondarts
+dragapult|Champions OU Choice Scarf|Rash|0|12|0|252|0|252|31|Choice Scarf|Clear Body|shadowball,dracometeor,uturn,flamethrower/dragondarts
+dragapult|Champions OU Choice Scarf|Rash|0|12|0|252|0|252|31|Choice Scarf|Infiltrator|shadowball,dracometeor,uturn,flamethrower/dragondarts
+dragapult|Champions OU Dragon Dance|Adamant|0|252|12|0|0|252|31|Leftovers|Clear Body|dragondance,substitute,dragondarts,phantomforce
+dragapult|Champions OU Dragon Dance|Adamant|0|252|12|0|0|252|31|Sitrus Berry|Clear Body|dragondance,substitute,dragondarts,phantomforce
+dragapult|Champions OU Dragon Dance|Jolly|0|252|12|0|0|252|31|Leftovers|Clear Body|dragondance,substitute,dragondarts,phantomforce
+dragapult|Champions OU Dragon Dance|Jolly|0|252|12|0|0|252|31|Sitrus Berry|Clear Body|dragondance,substitute,dragondarts,phantomforce
+dragapult|Champions VGC26-M-C Fast Attacker|Timid|12|0|0|252|0|252|31|Life Orb|Infiltrator|dracometeor,shadowball,willowisp,protect
+dragonite|Champions OU Dragon Dance|Jolly|12|252|0|0|0|252|31|Leftovers|Multiscale|dragondance,earthquake/firepunch,icespinner/dragonclaw/outrage,extremespeed/roost
+dragonite|Champions OU Dragon Dance|Jolly|12|252|0|0|0|252|31|Lum Berry|Multiscale|dragondance,earthquake/firepunch,icespinner/dragonclaw/outrage,extremespeed/roost
+dragonite|Champions OU Dragon Dance|Jolly|12|252|0|0|0|252|31|Silk Scarf|Multiscale|dragondance,earthquake/firepunch,icespinner/dragonclaw/outrage,extremespeed/roost
+dragonite|Champions OU Dragon Dance|Adamant|12|252|0|0|0|252|31|Leftovers|Multiscale|dragondance,earthquake/firepunch,icespinner/dragonclaw/outrage,extremespeed/roost
+dragonite|Champions OU Dragon Dance|Adamant|12|252|0|0|0|252|31|Lum Berry|Multiscale|dragondance,earthquake/firepunch,icespinner/dragonclaw/outrage,extremespeed/roost
+dragonite|Champions OU Dragon Dance|Adamant|12|252|0|0|0|252|31|Silk Scarf|Multiscale|dragondance,earthquake/firepunch,icespinner/dragonclaw/outrage,extremespeed/roost
+dragonite|Champions OU Special Attacker|Timid|0|0|0|252|12|252|31|Dragoninite|Multiscale|dracometeor,hurricane/thunderbolt,flamethrower/thunderbolt,roost
+dragonite|Champions BSS Special Attacker|Modest|4|0|4|252|0|252|31|Dragoninite|Multiscale|dracometeor,thunderbolt,flamethrower/airslash,icebeam/airslash/roost
+dragonite|Champions BSS Special Attacker|Timid|4|0|4|252|0|252|31|Dragoninite|Multiscale|dracometeor,thunderbolt,flamethrower/airslash,icebeam/airslash/roost
+dragonite|Champions BSS Special Attacker|Modest|244|0|4|252|0|4|31|Dragoninite|Multiscale|dracometeor,thunderbolt,flamethrower/airslash,icebeam/airslash/roost
+dragonite|Champions BSS Special Attacker|Timid|244|0|4|252|0|4|31|Dragoninite|Multiscale|dracometeor,thunderbolt,flamethrower/airslash,icebeam/airslash/roost
+dragonite|Champions BSS Dragon Dance|Jolly|4|252|4|0|0|252|31|Lum Berry|Multiscale|dragondance,scaleshot/outrage,earthquake,extremespeed/roost
+dragonite|Champions BSS Dragon Dance|Jolly|4|252|4|0|0|252|31|Dragoninite|Multiscale|dragondance,scaleshot/outrage,earthquake,extremespeed/roost
+dragonite|Champions BSS Dragon Dance|Adamant|4|252|4|0|0|252|31|Lum Berry|Multiscale|dragondance,scaleshot/outrage,earthquake,extremespeed/roost
+dragonite|Champions BSS Dragon Dance|Adamant|4|252|4|0|0|252|31|Dragoninite|Multiscale|dragondance,scaleshot/outrage,earthquake,extremespeed/roost
+dragonite|Champions VGC26-M-A Bulky Attacker|Modest|12|0|0|252|0|252|31|Dragoninite|Multiscale|dragonpulse,flamethrower/heatwave,tailwind/thunderbolt,protect
+dragonite|Champions VGC26-M-B Bulky Attacker|Adamant|12|252|0|0|0|252|31|Life Orb|Inner Focus|dragonclaw,extremespeed,lowkick/firepunch,protect
+dragonite|Champions VGC26-M-B Bulky Attacker|Adamant|12|252|0|0|0|252|31|Life Orb|Multiscale|dragonclaw,extremespeed,lowkick/firepunch,protect
+dragonite|Champions VGC26-M-B Bulky Attacker|Adamant|12|252|0|0|0|252|31|Dragon Fang|Inner Focus|dragonclaw,extremespeed,lowkick/firepunch,protect
+dragonite|Champions VGC26-M-B Bulky Attacker|Adamant|12|252|0|0|0|252|31|Dragon Fang|Multiscale|dragonclaw,extremespeed,lowkick/firepunch,protect
+dragonite|Champions VGC26-M-B Bulky Attacker|Adamant|140|252|0|0|0|124|31|Life Orb|Inner Focus|dragonclaw,extremespeed,lowkick/firepunch,protect
+dragonite|Champions VGC26-M-B Bulky Attacker|Adamant|140|252|0|0|0|124|31|Life Orb|Multiscale|dragonclaw,extremespeed,lowkick/firepunch,protect
+dragonite|Champions VGC26-M-B Bulky Attacker|Adamant|140|252|0|0|0|124|31|Dragon Fang|Inner Focus|dragonclaw,extremespeed,lowkick/firepunch,protect
+dragonite|Champions VGC26-M-B Bulky Attacker|Adamant|140|252|0|0|0|124|31|Dragon Fang|Multiscale|dragonclaw,extremespeed,lowkick/firepunch,protect
+dragonite|Champions VGC26-M-B Bulky Attacker|Modest|12|0|0|252|0|252|31|Dragoninite|Multiscale|dragonpulse,heatwave,extremespeed/thunderbolt,protect
+espathra|Champions OU Calm Mind|Modest|116|0|0|252|0|148|31|Colbur Berry|Speed Boost|calmmind,protect/substitute/roost,storedpower,dazzlinggleam
+espathra|Champions OU Calm Mind|Modest|116|0|0|252|0|148|31|Leftovers|Speed Boost|calmmind,protect/substitute/roost,storedpower,dazzlinggleam
+espathra|Champions BSS Baton Pass|Timid|252|0|212|0|0|52|31|Sitrus Berry|Speed Boost|luminacrash,calmmind,protect,batonpass
+espathra|Champions BSS Baton Pass|Timid|252|0|212|0|0|52|31|Mental Herb|Speed Boost|luminacrash,calmmind,protect,batonpass
+espathra|Champions BSS Baton Pass|Timid|252|0|212|0|0|52|31|Kasib Berry|Speed Boost|luminacrash,calmmind,protect,batonpass
+espathra|Champions BSS Baton Pass|Bold|252|0|212|0|0|52|31|Sitrus Berry|Speed Boost|luminacrash,calmmind,protect,batonpass
+espathra|Champions BSS Baton Pass|Bold|252|0|212|0|0|52|31|Mental Herb|Speed Boost|luminacrash,calmmind,protect,batonpass
+espathra|Champions BSS Baton Pass|Bold|252|0|212|0|0|52|31|Kasib Berry|Speed Boost|luminacrash,calmmind,protect,batonpass
+excadrill|Champions OU Lead|Jolly|0|164|0|0|100|252|31|Focus Sash|Mold Breaker|stealthrock,rapidspin,earthquake,steelbeam/rocktomb
+excadrill|Champions OU Rapid Spin|Jolly|12|252|0|0|0|252|31|Shuca Berry|Mold Breaker|rapidspin,earthquake,ironhead,stealthrock/swordsdance
+excadrill|Champions OU Rapid Spin|Jolly|12|252|0|0|0|252|31|Leftovers|Mold Breaker|rapidspin,earthquake,ironhead,stealthrock/swordsdance
+excadrill|Champions OU Rapid Spin|Adamant|12|252|0|0|0|252|31|Shuca Berry|Mold Breaker|rapidspin,earthquake,ironhead,stealthrock/swordsdance
+excadrill|Champions OU Rapid Spin|Adamant|12|252|0|0|0|252|31|Leftovers|Mold Breaker|rapidspin,earthquake,ironhead,stealthrock/swordsdance
+excadrill|Champions OU Rapid Spin|Jolly|252|68|0|0|0|196|31|Shuca Berry|Mold Breaker|rapidspin,earthquake,ironhead,stealthrock/swordsdance
+excadrill|Champions OU Rapid Spin|Jolly|252|68|0|0|0|196|31|Leftovers|Mold Breaker|rapidspin,earthquake,ironhead,stealthrock/swordsdance
+excadrill|Champions OU Rapid Spin|Adamant|252|68|0|0|0|196|31|Shuca Berry|Mold Breaker|rapidspin,earthquake,ironhead,stealthrock/swordsdance
+excadrill|Champions OU Rapid Spin|Adamant|252|68|0|0|0|196|31|Leftovers|Mold Breaker|rapidspin,earthquake,ironhead,stealthrock/swordsdance
+excadrill|Champions OU Sand Sweeper|Adamant|12|252|0|0|0|252|31|Life Orb|Sand Rush|swordsdance,earthquake,ironhead,rockslide/rapidspin
+excadrill|Champions VGC26-M-A Sand Sweeper|Adamant|12|252|0|0|0|252|31|Focus Sash|Sand Rush|earthquake/highhorsepower,ironhead,rockslide,protect
+excadrill|Champions VGC26-M-B Sand Sweeper|Adamant|12|252|0|0|0|252|31|Focus Sash|Sand Rush|ironhead,protect,rockslide,highhorsepower/earthquake
+farigiraf|Champions VGC26-M-A Trick Room Support|Bold|236|0|188|0|92|0|31|Sitrus Berry|Armor Tail|trickroom,psychic,thunderbolt/hypervoice/helpinghand,protect/helpinghand
+farigiraf|Champions VGC26-M-A Trick Room Support|Bold|236|0|188|0|92|0|31|Colbur Berry|Armor Tail|trickroom,psychic,thunderbolt/hypervoice/helpinghand,protect/helpinghand
+farigiraf|Champions VGC26-M-A Trick Room Support|Modest|236|0|188|0|92|0|31|Sitrus Berry|Armor Tail|trickroom,psychic,thunderbolt/hypervoice/helpinghand,protect/helpinghand
+farigiraf|Champions VGC26-M-A Trick Room Support|Modest|236|0|188|0|92|0|31|Colbur Berry|Armor Tail|trickroom,psychic,thunderbolt/hypervoice/helpinghand,protect/helpinghand
+farigiraf|Champions VGC26-M-A Trick Room Support|Bold|92|0|188|212|20|0|31|Sitrus Berry|Armor Tail|trickroom,psychic,thunderbolt/hypervoice/helpinghand,protect/helpinghand
+farigiraf|Champions VGC26-M-A Trick Room Support|Bold|92|0|188|212|20|0|31|Colbur Berry|Armor Tail|trickroom,psychic,thunderbolt/hypervoice/helpinghand,protect/helpinghand
+farigiraf|Champions VGC26-M-A Trick Room Support|Modest|92|0|188|212|20|0|31|Sitrus Berry|Armor Tail|trickroom,psychic,thunderbolt/hypervoice/helpinghand,protect/helpinghand
+farigiraf|Champions VGC26-M-A Trick Room Support|Modest|92|0|188|212|20|0|31|Colbur Berry|Armor Tail|trickroom,psychic,thunderbolt/hypervoice/helpinghand,protect/helpinghand
+farigiraf|Champions VGC26-M-B Trick Room Support|Bold|196|0|204|0|116|0|31|Sitrus Berry|Armor Tail|protect/helpinghand,psychic/twinbeam,thunderbolt/helpinghand,trickroom
+farigiraf|Champions VGC26-M-B Trick Room Support|Calm|196|0|204|0|116|0|31|Sitrus Berry|Armor Tail|protect/helpinghand,psychic/twinbeam,thunderbolt/helpinghand,trickroom
+farigiraf|Champions VGC26-M-B Trick Room Support|Bold|228|0|108|0|180|0|31|Sitrus Berry|Armor Tail|protect/helpinghand,psychic/twinbeam,thunderbolt/helpinghand,trickroom
+farigiraf|Champions VGC26-M-B Trick Room Support|Calm|228|0|108|0|180|0|31|Sitrus Berry|Armor Tail|protect/helpinghand,psychic/twinbeam,thunderbolt/helpinghand,trickroom
+floetteeternal|Champions OU Offensive Calm Mind|Timid|0|0|0|252|12|252|31|Floettite|Flower Veil|calmmind,moonblast,drainingkiss/lightofruin,substitute/synthesis
+floetteeternal|Champions OU Bulky Calm Mind|Bold|252|0|252|0|12|0|31|Floettite|Flower Veil|calmmind,drainingkiss,synthesis,moonblast
+floetteeternal|Champions BSS X: Life Giver (Bulky Setup)|Modest|252|0|228|36|0|0|31|Floettite|Flower Veil|calmmind,drainingkiss,moonblast/lightofruin,synthesis
+floetteeternal|Champions BSS Y: Life Taker (Offensive)|Timid|0|0|0|252|12|252|31|Floettite|Flower Veil|calmmind,moonblast/drainingkiss,lightofruin/psychic,synthesis/substitute/psychic
+floetteeternal|Champions VGC26-M-A Offensive|Modest|252|0|124|116|0|20|31|Floettite|Flower Veil|moonblast,dazzlinggleam,calmmind/lightofruin,protect
+floetteeternal|Champions VGC26-M-A Offensive|Timid|252|0|124|116|0|20|31|Floettite|Flower Veil|moonblast,dazzlinggleam,calmmind/lightofruin,protect
+floetteeternal|Champions VGC26-M-A Offensive|Modest|12|0|0|252|0|252|31|Floettite|Flower Veil|moonblast,dazzlinggleam,calmmind/lightofruin,protect
+floetteeternal|Champions VGC26-M-A Offensive|Timid|12|0|0|252|0|252|31|Floettite|Flower Veil|moonblast,dazzlinggleam,calmmind/lightofruin,protect
+floetteeternal|Champions VGC26-M-B Offensive|Modest|76|0|252|116|0|68|31|Floettite|Flower Veil|dazzlinggleam,moonblast/drainingkiss,calmmind/lightofruin,protect
+froslass|Champions OU Special Attacker|Timid|12|0|0|252|0|252|31|Froslassite|Cursed Body|nastyplot,blizzard,shadowball,thunderbolt/auroraveil/willowisp
+froslass|Champions VGC26-M-A Aurora Veil Setter|Modest|12|0|0|252|0|252|31|Froslassite|Cursed Body|blizzard,shadowball,auroraveil,protect
+froslass|Champions VGC26-M-A Aurora Veil Setter|Timid|12|0|0|252|0|252|31|Froslassite|Cursed Body|blizzard,shadowball,auroraveil,protect
+froslass|Champions VGC26-M-B Snow Attacker|Timid|236|0|0|100|0|180|31|Froslassite|Cursed Body|blizzard,shadowball,auroraveil,protect
+garchomp|Champions OU Mixed Life Orb|Naive|0|12|0|252|0|252|31|Life Orb|Rough Skin|dracometeor,earthquake,flamethrower,stealthrock/poisonjab
+garchomp|Champions OU TankChomp|Impish|252|0|252|0|12|0|31|Leftovers|Rough Skin|stealthrock,earthquake,dragontail,spikes/protect/endure/stoneedge
+garchomp|Champions OU TankChomp|Impish|252|0|252|0|12|0|31|Rocky Helmet|Rough Skin|stealthrock,earthquake,dragontail,spikes/protect/endure/stoneedge
+garchomp|Champions OU TankChomp|Impish|252|0|252|0|12|0|31|Sitrus Berry|Rough Skin|stealthrock,earthquake,dragontail,spikes/protect/endure/stoneedge
+garchomp|Champions OU TankChomp|Careful|252|0|252|0|12|0|31|Leftovers|Rough Skin|stealthrock,earthquake,dragontail,spikes/protect/endure/stoneedge
+garchomp|Champions OU TankChomp|Careful|252|0|252|0|12|0|31|Rocky Helmet|Rough Skin|stealthrock,earthquake,dragontail,spikes/protect/endure/stoneedge
+garchomp|Champions OU TankChomp|Careful|252|0|252|0|12|0|31|Sitrus Berry|Rough Skin|stealthrock,earthquake,dragontail,spikes/protect/endure/stoneedge
+garchomp|Champions OU TankChomp|Impish|252|0|12|0|252|0|31|Leftovers|Rough Skin|stealthrock,earthquake,dragontail,spikes/protect/endure/stoneedge
+garchomp|Champions OU TankChomp|Impish|252|0|12|0|252|0|31|Rocky Helmet|Rough Skin|stealthrock,earthquake,dragontail,spikes/protect/endure/stoneedge
+garchomp|Champions OU TankChomp|Impish|252|0|12|0|252|0|31|Sitrus Berry|Rough Skin|stealthrock,earthquake,dragontail,spikes/protect/endure/stoneedge
+garchomp|Champions OU TankChomp|Careful|252|0|12|0|252|0|31|Leftovers|Rough Skin|stealthrock,earthquake,dragontail,spikes/protect/endure/stoneedge
+garchomp|Champions OU TankChomp|Careful|252|0|12|0|252|0|31|Rocky Helmet|Rough Skin|stealthrock,earthquake,dragontail,spikes/protect/endure/stoneedge
+garchomp|Champions OU TankChomp|Careful|252|0|12|0|252|0|31|Sitrus Berry|Rough Skin|stealthrock,earthquake,dragontail,spikes/protect/endure/stoneedge
+garchomp|Champions OU Swords Dance|Jolly|12|252|0|0|0|252|31|Life Orb|Rough Skin|swordsdance,scaleshot,earthquake,firefang
+garchomp|Champions OU Swords Dance|Jolly|12|252|0|0|0|252|31|Garchompite|Rough Skin|swordsdance,scaleshot,earthquake,firefang
+garchomp|Champions OU Swords Dance|Jolly|12|252|0|0|0|252|31|Lum Berry|Rough Skin|swordsdance,scaleshot,earthquake,firefang
+garchomp|Champions OU Choice Scarf|Jolly|12|252|0|0|0|252|31|Choice Scarf|Rough Skin|earthquake,outrage,stoneedge/rocktomb,poisonjab/stealthrock
+garchomp|Champions BSS Offensive Stealth Rock|Jolly|12|252|0|0|0|252|31|Focus Sash|Rough Skin|stealthrock,earthquake,outrage,rocktomb
+garchomp|Champions BSS Swords Dance|Jolly|12|252|0|0|0|252|31|Focus Sash|Rough Skin|swordsdance,earthquake,scaleshot,poisonjab/firefang
+garchomp|Champions BSS Swords Dance|Jolly|12|252|0|0|0|252|31|Lum Berry|Rough Skin|swordsdance,earthquake,scaleshot,poisonjab/firefang
+garchomp|Champions BSS Choice Scarf|Jolly|12|252|0|0|0|252|31|Choice Scarf|Rough Skin|earthquake,outrage,poisonjab,rocktomb/dragonclaw
+garchomp|Champions BSS Choice Scarf|Adamant|12|252|0|0|0|252|31|Choice Scarf|Rough Skin|earthquake,outrage,poisonjab,rocktomb/dragonclaw
+garchomp|Champions BSS Chonky Chomp (Phazer)|Jolly|252|0|84|0|92|84|31|Sitrus Berry|Rough Skin|stealthrock,dragontail,earthquake,spikes/rockslide
+garchomp|Champions VGC26-M-A Bulky Attacker|Jolly|148|204|0|0|0|164|31|Sitrus Berry|Rough Skin|dragonclaw,earthquake,rockslide/stompingtantrum,protect/poisonjab
+garchomp|Champions VGC26-M-A Bulky Attacker|Jolly|148|204|0|0|0|164|31|Roseli Berry|Rough Skin|dragonclaw,earthquake,rockslide/stompingtantrum,protect/poisonjab
+garchomp|Champions VGC26-M-A Choice Scarf|Adamant|0|228|0|0|116|172|31|Choice Scarf|Rough Skin|earthquake,stompingtantrum,dragonclaw,rockslide
+garchomp|Champions VGC26-M-A Choice Scarf|Adamant|12|252|0|0|0|252|31|Choice Scarf|Rough Skin|earthquake,stompingtantrum,dragonclaw,rockslide
+garchomp|Champions VGC26-M-B Fast Attacker|Jolly|12|252|0|0|0|252|31|Life Orb|Rough Skin|earthquake,dragonclaw,rockslide,protect
+garchomp|Champions VGC26-M-B Bulky Attacker|Adamant|180|140|0|0|20|172|31|Sitrus Berry|Rough Skin|earthquake/stompingtantrum,dragonclaw,rockslide,protect
+garchomp|Champions VGC26-M-B Bulky Attacker|Adamant|180|140|0|0|20|172|31|Roseli Berry|Rough Skin|earthquake/stompingtantrum,dragonclaw,rockslide,protect
+garchomp|Champions VGC26-M-B Bulky Attacker|Adamant|132|212|0|0|0|172|31|Sitrus Berry|Rough Skin|earthquake/stompingtantrum,dragonclaw,rockslide,protect
+garchomp|Champions VGC26-M-B Bulky Attacker|Adamant|132|212|0|0|0|172|31|Roseli Berry|Rough Skin|earthquake/stompingtantrum,dragonclaw,rockslide,protect
+garchomp|Champions VGC26-M-C Fast Attacker|Modest|12|0|0|252|0|252|31|Garchompite Z|Rough Skin|dragonpulse/dracometeor,powergem,earthpower/flamethrower,protect
+gardevoir|Champions VGC26-M-A Bulky Attacker|Modest|252|0|12|252|0|0|31|Gardevoirite|Trace|hypervoice,protect,psyshock/psychic,trickroom/calmmind
+gardevoir|Champions VGC26-M-A Bulky Attacker|Modest|252|0|12|252|0|0|31|Gardevoirite|Telepathy|hypervoice,protect,psyshock/psychic,trickroom/calmmind
+gardevoir|Champions VGC26-M-A Bulky Attacker|Modest|124|0|12|252|0|124|31|Gardevoirite|Trace|hypervoice,protect,psyshock/psychic,trickroom/calmmind
+gardevoir|Champions VGC26-M-A Bulky Attacker|Modest|124|0|12|252|0|124|31|Gardevoirite|Telepathy|hypervoice,protect,psyshock/psychic,trickroom/calmmind
+gengar|Champions BSS Focus Sash|Timid|12|0|0|252|0|252|31|Focus Sash|Cursed Body|shadowball,icywind,sludgewave,destinybond/focusblast/thunderbolt/willowisp
+gengar|Champions VGC26-M-A Perish Trapper|Timid|252|0|228|0|0|36|31|Gengarite|Cursed Body|shadowball,perishsong,disable/sludgebomb,protect
+gengar|Champions VGC26-M-B Fast Attacker|Timid|12|0|0|252|0|252|31|Gengarite|Cursed Body|shadowball,sludgebomb/disable,substitute/perishsong,protect
+gengar|Champions VGC26-M-B Fast Attacker|Modest|12|0|0|252|0|252|31|Gengarite|Cursed Body|shadowball,sludgebomb/disable,substitute/perishsong,protect
+gengar|Champions VGC26-M-B Fast Attacker|Timid|236|0|52|20|148|52|31|Gengarite|Cursed Body|shadowball,sludgebomb/disable,substitute/perishsong,protect
+gengar|Champions VGC26-M-B Fast Attacker|Modest|236|0|52|20|148|52|31|Gengarite|Cursed Body|shadowball,sludgebomb/disable,substitute/perishsong,protect
+gholdengo|Champions BSS Nasty Plot|Modest|244|0|0|252|0|20|31|Air Balloon|Good as Gold|nastyplot,makeitrain,shadowball,recover
+gholdengo|Champions BSS Nasty Plot|Modest|244|0|0|252|0|20|31|Leftovers|Good as Gold|nastyplot,makeitrain,shadowball,recover
+gholdengo|Champions BSS Nasty Plot|Bold|244|0|0|252|0|20|31|Air Balloon|Good as Gold|nastyplot,makeitrain,shadowball,recover
+gholdengo|Champions BSS Nasty Plot|Bold|244|0|0|252|0|20|31|Leftovers|Good as Gold|nastyplot,makeitrain,shadowball,recover
+gholdengo|Champions BSS Nasty Plot|Modest|252|0|252|0|0|12|31|Air Balloon|Good as Gold|nastyplot,makeitrain,shadowball,recover
+gholdengo|Champions BSS Nasty Plot|Modest|252|0|252|0|0|12|31|Leftovers|Good as Gold|nastyplot,makeitrain,shadowball,recover
+gholdengo|Champions BSS Nasty Plot|Bold|252|0|252|0|0|12|31|Air Balloon|Good as Gold|nastyplot,makeitrain,shadowball,recover
+gholdengo|Champions BSS Nasty Plot|Bold|252|0|252|0|0|12|31|Leftovers|Good as Gold|nastyplot,makeitrain,shadowball,recover
+gholdengo|Champions BSS Choice Scarf|Timid|12|0|0|252|0|252|31|Choice Scarf|Good as Gold|makeitrain,shadowball,trick/thunderbolt/powergem,thunderbolt/powergem
+gholdengo|Champions BSS Choice Scarf|Modest|12|0|0|252|0|252|31|Choice Scarf|Good as Gold|makeitrain,shadowball,trick/thunderbolt/powergem,thunderbolt/powergem
+gholdengo|Champions VGC26-M-B Setup Sweeper|Timid|252|0|60|52|20|124|31|Life Orb|Good as Gold|makeitrain,shadowball,nastyplot,protect
+gholdengo|Champions VGC26-M-B Setup Sweeper|Timid|252|0|60|52|20|124|31|Spell Tag|Good as Gold|makeitrain,shadowball,nastyplot,protect
+gholdengo|Champions VGC26-M-B Setup Sweeper|Timid|252|0|60|52|20|124|31|Metal Coat|Good as Gold|makeitrain,shadowball,nastyplot,protect
+gholdengo|Champions VGC26-M-C Setup Sweeper|Modest|124|0|0|132|4|252|31|Life Orb|Good as Gold|nastyplot,makeitrain,shadowball,protect
+gholdengo|Champions VGC26-M-C Setup Sweeper|Modest|124|0|0|132|4|252|31|Grassy Seed|Good as Gold|nastyplot,makeitrain,shadowball,protect
+gholdengo|Champions VGC26-M-C Setup Sweeper|Timid|124|0|0|132|4|252|31|Life Orb|Good as Gold|nastyplot,makeitrain,shadowball,protect
+gholdengo|Champions VGC26-M-C Setup Sweeper|Timid|124|0|0|132|4|252|31|Grassy Seed|Good as Gold|nastyplot,makeitrain,shadowball,protect
+glimmora|Champions OU Focus Sash Lead|Timid|0|0|0|252|12|252|31|Focus Sash|Toxic Debris|stealthrock,powergem,mortalspin,earthpower/mudshot
+glimmora|Champions OU Red Card|Bold|252|0|212|0|0|52|31|Red Card|Toxic Debris|stealthrock,powergem,mortalspin,earthpower
+glimmora|Champions OU Special Sweeper|Timid|4|0|0|252|4|252|31|Glimmoranite|Toxic Debris|powergem,sludgebomb,earthpower,mortalspin/rockpolish/substitute
+glimmora|Champions BSS Entry Hazards Lead|Timid|12|0|0|252|0|252|31|Focus Sash|Toxic Debris|stealthrock,powergem,mudshot/earthpower,mortalspin/sludgewave/energyball
+glimmora|Champions BSS Entry Hazards Lead|Timid|12|0|0|252|0|252|31|Air Balloon|Toxic Debris|stealthrock,powergem,mudshot/earthpower,mortalspin/sludgewave/energyball
+glimmora|Champions BSS Mega Offensive|Timid|12|0|0|252|0|252|31|Glimmoranite|Toxic Debris|sludgewave,powergem,earthpower,energyball/dazzlinggleam/rockpolish
+glimmora|Champions BSS Mega Offensive|Modest|12|0|0|252|0|252|31|Glimmoranite|Toxic Debris|sludgewave,powergem,earthpower,energyball/dazzlinggleam/rockpolish
+glimmora|Champions VGC26-M-A Offensive|Modest|12|0|0|252|0|252|31|Focus Sash|Toxic Debris|powergem,sludgebomb,earthpower,spikyshield
+glimmora|Champions VGC26-M-B Fast Attacker|Modest|4|0|4|252|0|252|31|Glimmoranite|Toxic Debris|powergem,sludgebomb,spikyshield,earthpower
+glimmora|Champions VGC26-M-B Fast Attacker|Timid|4|0|4|252|0|252|31|Glimmoranite|Toxic Debris|powergem,sludgebomb,spikyshield,earthpower
+golisopod|Champions OU Swords Dance|Adamant|252|252|0|0|12|0|31|Golisopite|Emergency Exit|swordsdance,leechlife,ironhead/closecombat,aquajet/suckerpunch
+golisopod|Champions VGC26-M-C Bulky Attacker|Adamant|252|252|0|0|12|0|31|Golisopite|Emergency Exit|leechlife,ironhead/suckerpunch,swordsdance/drillrun/suckerpunch,protect/suckerpunch
+greninja|Champions OU Choice Scarf|Naive|0|12|0|252|0|252|31|Choice Scarf|Protean|hydropump,uturn,icebeam/darkpulse,gunkshot/darkpulse
+greninja|Champions OU Offensive Pivot|Timid|12|0|0|252|0|252|31|Greninjite|Protean|hydropump,uturn,icebeam/darkpulse,sludgewave/darkpulse
+greninja|Champions BSS Torrent Focus Sash|Modest|12|0|0|252|0|252|31|Focus Sash|Torrent|darkpulse,surf/hydropump/watershuriken,watershuriken/icebeam,toxicspikes/taunt/counter
+greninja|Champions BSS Torrent Focus Sash|Timid|12|0|0|252|0|252|31|Focus Sash|Torrent|darkpulse,surf/hydropump/watershuriken,watershuriken/icebeam,toxicspikes/taunt/counter
+greninja|Champions BSS Protean Focus Sash|Modest|12|0|0|252|0|252|31|Focus Sash|Protean|darkpulse,icebeam,sludgewave,surf/mudshot/watershuriken/toxicspikes
+greninja|Champions BSS Protean Focus Sash|Timid|12|0|0|252|0|252|31|Focus Sash|Protean|darkpulse,icebeam,sludgewave,surf/mudshot/watershuriken/toxicspikes
+greninja|Champions BSS All-out Attacker|Timid|60|0|0|252|0|204|31|Greninjite|Protean|icebeam,sludgewave,darkpulse/hydropump/surf,hydropump/lowkick/grassknot/uturn
+greninja|Champions BSS All-out Attacker|Timid|60|0|0|252|0|204|31|Choice Scarf|Protean|icebeam,sludgewave,darkpulse/hydropump/surf,hydropump/lowkick/grassknot/uturn
+greninja|Champions BSS All-out Attacker|Naive|60|0|0|252|0|204|31|Greninjite|Protean|icebeam,sludgewave,darkpulse/hydropump/surf,hydropump/lowkick/grassknot/uturn
+greninja|Champions BSS All-out Attacker|Naive|60|0|0|252|0|204|31|Choice Scarf|Protean|icebeam,sludgewave,darkpulse/hydropump/surf,hydropump/lowkick/grassknot/uturn
+grimmsnarl|Champions BSS Dual Screens|Impish|252|0|252|0|12|0|31|Light Clay|Prankster|reflect,lightscreen,spiritbreak,partingshot/taunt/foulplay
+grimmsnarl|Champions BSS Dual Screens|Careful|252|0|252|0|12|0|31|Light Clay|Prankster|reflect,lightscreen,spiritbreak,partingshot/taunt/foulplay
+grimmsnarl|Champions BSS Dual Screens|Impish|252|0|140|0|124|0|31|Light Clay|Prankster|reflect,lightscreen,spiritbreak,partingshot/taunt/foulplay
+grimmsnarl|Champions BSS Dual Screens|Careful|252|0|140|0|124|0|31|Light Clay|Prankster|reflect,lightscreen,spiritbreak,partingshot/taunt/foulplay
+grimmsnarl|Champions VGC26-M-B Prankster Support|Careful|252|0|108|0|156|0|31|Light Clay|Prankster|lightscreen,reflect,partingshot,spiritbreak/foulplay
+gyarados|Champions OU Dragon Dance|Jolly|4|252|0|0|4|252|31|Lum Berry|Intimidate|dragondance,waterfall,powerwhip,icefang
+gyarados|Champions OU Dragon Dance|Jolly|4|252|0|0|4|252|31|Sitrus Berry|Intimidate|dragondance,waterfall,powerwhip,icefang
+gyarados|Champions OU Dragon Dance|Jolly|12|252|0|0|0|252|31|Gyaradosite|Intimidate|dragondance,waterfall,crunch,powerwhip
+gyarados|Champions BSS Sweeper|Jolly|4|252|4|0|0|252|31|Gyaradosite|Intimidate|dragondance,waterfall,earthquake/powerwhip,icefang/crunch/taunt
+hatterene|Champions OU Healing Wish|Bold|252|0|204|0|0|60|31|Sitrus Berry|Magic Bounce|healingwish,psychicnoise,drainingkiss,nuzzle/mysticalfire
+hatterene|Champions OU Healing Wish|Bold|252|0|204|0|0|60|31|Leftovers|Magic Bounce|healingwish,psychicnoise,drainingkiss,nuzzle/mysticalfire
+hatterene|Champions VGC26-M-C Trick Room Sweeper|Quiet|252|0|12|252|0|0|31|Life Orb|Magic Bounce|expandingforce,trickroom,dazzlinggleam,protect
+hawlucha|Champions OU Grassy Terrain Sweeper|Adamant|212|252|0|0|0|52|31|Grassy Seed|Unburden|swordsdance,acrobatics,closecombat,substitute
+hippowdon|Champions OU Mixed Wall|Impish|252|0|52|0|212|0|31|Leftovers|Sand Stream|stealthrock,earthquake,slackoff,whirlwind
+hippowdon|Champions OU Mixed Wall|Impish|252|0|52|0|212|0|31|Sitrus Berry|Sand Stream|stealthrock,earthquake,slackoff,whirlwind
+hippowdon|Champions OU Mixed Wall|Impish|252|0|52|0|212|0|31|No Item|Sand Stream|stealthrock,earthquake,slackoff,whirlwind
+hippowdon|Champions BSS Stealth Rock|Impish|252|0|252|0|12|0|31|Sitrus Berry|Sand Stream|stealthrock,earthquake,yawn,slackoff/whirlwind
+hippowdon|Champions BSS Stealth Rock|Impish|252|0|252|0|12|0|31|Leftovers|Sand Stream|stealthrock,earthquake,yawn,slackoff/whirlwind
+hippowdon|Champions BSS Stealth Rock|Careful|252|0|252|0|12|0|31|Sitrus Berry|Sand Stream|stealthrock,earthquake,yawn,slackoff/whirlwind
+hippowdon|Champions BSS Stealth Rock|Careful|252|0|252|0|12|0|31|Leftovers|Sand Stream|stealthrock,earthquake,yawn,slackoff/whirlwind
+hippowdon|Champions BSS Stealth Rock|Impish|252|0|36|0|228|0|31|Sitrus Berry|Sand Stream|stealthrock,earthquake,yawn,slackoff/whirlwind
+hippowdon|Champions BSS Stealth Rock|Impish|252|0|36|0|228|0|31|Leftovers|Sand Stream|stealthrock,earthquake,yawn,slackoff/whirlwind
+hippowdon|Champions BSS Stealth Rock|Careful|252|0|36|0|228|0|31|Sitrus Berry|Sand Stream|stealthrock,earthquake,yawn,slackoff/whirlwind
+hippowdon|Champions BSS Stealth Rock|Careful|252|0|36|0|228|0|31|Leftovers|Sand Stream|stealthrock,earthquake,yawn,slackoff/whirlwind
+hydreigon|Champions OU Choice Scarf|Timid|12|0|0|252|0|252|31|Choice Scarf|Levitate|darkpulse,dracometeor,flamethrower,uturn/flashcannon
+hydreigon|Champions BSS Choice Scarf|Timid|12|0|0|252|0|252|31|Choice Scarf|Levitate|dracometeor,darkpulse,uturn,flamethrower
+hydreigon|Champions BSS Choice Scarf|Modest|12|0|0|252|0|252|31|Choice Scarf|Levitate|dracometeor,darkpulse,uturn,flamethrower
+hydreigon|Champions BSS Offensive|Modest|12|0|0|252|0|252|31|Focus Sash|Levitate|dracometeor,darkpulse,flamethrower,uturn/taunt/nastyplot
+hydreigon|Champions BSS Offensive|Modest|12|0|0|252|0|252|31|White Herb|Levitate|dracometeor,darkpulse,flamethrower,uturn/taunt/nastyplot
+hydreigon|Champions BSS Offensive|Modest|12|0|0|252|0|252|31|Lum Berry|Levitate|dracometeor,darkpulse,flamethrower,uturn/taunt/nastyplot
+hydreigon|Champions BSS Offensive|Timid|12|0|0|252|0|252|31|Focus Sash|Levitate|dracometeor,darkpulse,flamethrower,uturn/taunt/nastyplot
+hydreigon|Champions BSS Offensive|Timid|12|0|0|252|0|252|31|White Herb|Levitate|dracometeor,darkpulse,flamethrower,uturn/taunt/nastyplot
+hydreigon|Champions BSS Offensive|Timid|12|0|0|252|0|252|31|Lum Berry|Levitate|dracometeor,darkpulse,flamethrower,uturn/taunt/nastyplot
+hydreigon|Champions VGC26-M-A Choice Scarf|Modest|12|0|0|252|0|252|31|Choice Scarf|Levitate|dracometeor,darkpulse,earthpower/heatwave,snarl
+incineroar|Champions VGC26-M-A Fake Out Pivot|Careful|252|0|156|0|92|12|31|Sitrus Berry|Intimidate|fakeout,flareblitz,throatchop/darkestlariat,partingshot
+incineroar|Champions VGC26-M-A Fake Out Pivot|Careful|252|0|156|0|92|12|31|Chople Berry|Intimidate|fakeout,flareblitz,throatchop/darkestlariat,partingshot
+incineroar|Champions VGC26-M-B Pivot Support|Impish|252|0|0|0|84|180|31|Sitrus Berry|Intimidate|flareblitz,throatchop,fakeout,partingshot
+incineroar|Champions VGC26-M-B Pivot Support|Careful|252|0|0|0|84|180|31|Sitrus Berry|Intimidate|flareblitz,throatchop,fakeout,partingshot
+incineroar|Champions VGC26-M-B Pivot Support|Impish|252|0|180|0|84|0|31|Sitrus Berry|Intimidate|flareblitz,throatchop,fakeout,partingshot
+incineroar|Champions VGC26-M-B Pivot Support|Careful|252|0|180|0|84|0|31|Sitrus Berry|Intimidate|flareblitz,throatchop,fakeout,partingshot
+indeedeef|Champions VGC26-M-C Redirection Support|Relaxed|252|0|252|0|12|0|31|Psychic Seed|Psychic Surge|followme,trickroom,helpinghand,psychic/terrainpulse/imprison
+indeedeef|Champions VGC26-M-C Redirection Support|Relaxed|252|0|252|0|12|0|31|Rocky Helmet|Psychic Surge|followme,trickroom,helpinghand,psychic/terrainpulse/imprison
+indeedeef|Champions VGC26-M-C Redirection Support|Relaxed|252|0|252|0|12|0|31|Sitrus Berry|Psychic Surge|followme,trickroom,helpinghand,psychic/terrainpulse/imprison
+indeedeef|Champions VGC26-M-C Redirection Support|Relaxed|252|0|252|0|12|0|31|Colbur Berry|Psychic Surge|followme,trickroom,helpinghand,psychic/terrainpulse/imprison
+indeedee|Champions OU Choice Scarf|Timid|0|0|12|252|0|252|31|Choice Scarf|Psychic Surge|expandingforce,hypervoice,mysticalfire,trick/healingwish
+indeedee|Champions VGC26-M-C Spread Sweeper|Modest|0|0|12|252|0|252|31|Choice Scarf|Psychic Surge|expandingforce,mysticalfire/imprison,trick/trickroom/helpinghand,protect/imprison
+indeedee|Champions VGC26-M-C Spread Sweeper|Modest|0|0|12|252|0|252|31|Focus Sash|Psychic Surge|expandingforce,mysticalfire/imprison,trick/trickroom/helpinghand,protect/imprison
+indeedee|Champions VGC26-M-C Spread Sweeper|Timid|0|0|12|252|0|252|31|Choice Scarf|Psychic Surge|expandingforce,mysticalfire/imprison,trick/trickroom/helpinghand,protect/imprison
+indeedee|Champions VGC26-M-C Spread Sweeper|Timid|0|0|12|252|0|252|31|Focus Sash|Psychic Surge|expandingforce,mysticalfire/imprison,trick/trickroom/helpinghand,protect/imprison
+kingambit|Champions OU Bulky Swords Dance|Adamant|252|252|0|0|12|0|31|Leftovers|Supreme Overlord|swordsdance,suckerpunch,kowtowcleave,ironhead
+kingambit|Champions OU Bulky Swords Dance|Adamant|252|252|0|0|12|0|31|Black Glasses|Supreme Overlord|swordsdance,suckerpunch,kowtowcleave,ironhead
+kingambit|Champions OU Bulky Swords Dance|Adamant|252|252|0|0|12|0|31|Chople Berry|Supreme Overlord|swordsdance,suckerpunch,kowtowcleave,ironhead
+kingambit|Champions OU Bulky Swords Dance|Adamant|252|252|0|0|12|0|31|Lum Berry|Supreme Overlord|swordsdance,suckerpunch,kowtowcleave,ironhead
+kingambit|Champions OU Fast Swords Dance|Adamant|0|252|12|0|0|252|31|Black Glasses|Supreme Overlord|swordsdance,kowtowcleave,lowkick,suckerpunch
+kingambit|Champions OU Fast Swords Dance|Adamant|0|252|12|0|0|252|31|Lum Berry|Supreme Overlord|swordsdance,kowtowcleave,lowkick,suckerpunch
+kingambit|Champions BSS Swords Dance|Adamant|252|252|0|0|0|12|31|Black Glasses|Supreme Overlord|suckerpunch,kowtowcleave,swordsdance,ironhead/lowkick
+kingambit|Champions BSS Swords Dance|Adamant|252|252|0|0|0|12|31|Lum Berry|Supreme Overlord|suckerpunch,kowtowcleave,swordsdance,ironhead/lowkick
+kingambit|Champions VGC26-M-A Bulky Attacker|Adamant|252|252|12|0|0|0|31|Chople Berry|Defiant|kowtowcleave,suckerpunch,ironhead/lowkick,protect
+kingambit|Champions VGC26-M-A Bulky Attacker|Adamant|252|252|12|0|0|0|31|Black Glasses|Defiant|kowtowcleave,suckerpunch,ironhead/lowkick,protect
+kingambit|Champions VGC26-M-B Bulky Attacker|Adamant|252|252|12|0|0|0|31|Black Glasses|Defiant|kowtowcleave,suckerpunch,ironhead/swordsdance/lowkick,protect/lowkick
+kingambit|Champions VGC26-M-B Bulky Attacker|Adamant|252|252|12|0|0|0|31|Focus Sash|Defiant|kowtowcleave,suckerpunch,ironhead/swordsdance/lowkick,protect/lowkick
+kingambit|Champions VGC26-M-B Bulky Attacker|Adamant|252|252|12|0|0|0|31|Chople Berry|Defiant|kowtowcleave,suckerpunch,ironhead/swordsdance/lowkick,protect/lowkick
+kingambit|Champions VGC26-M-B Bulky Attacker|Adamant|12|252|0|0|0|252|31|Black Glasses|Defiant|kowtowcleave,suckerpunch,ironhead/swordsdance/lowkick,protect/lowkick
+kingambit|Champions VGC26-M-B Bulky Attacker|Adamant|12|252|0|0|0|252|31|Focus Sash|Defiant|kowtowcleave,suckerpunch,ironhead/swordsdance/lowkick,protect/lowkick
+kingambit|Champions VGC26-M-B Bulky Attacker|Adamant|12|252|0|0|0|252|31|Chople Berry|Defiant|kowtowcleave,suckerpunch,ironhead/swordsdance/lowkick,protect/lowkick
+kommoo|Champions VGC26-M-A Setup Sweeper|Modest|0|0|60|228|0|228|31|Leftovers|Soundproof|clangingscales,aurasphere,clangoroussoul,protect
+kommoo|Champions VGC26-M-A Setup Sweeper|Timid|0|0|60|228|0|228|31|Leftovers|Soundproof|clangingscales,aurasphere,clangoroussoul,protect
+kommoo|Champions VGC26-M-A Setup Sweeper|Modest|12|0|0|252|0|252|31|Leftovers|Soundproof|clangingscales,aurasphere,clangoroussoul,protect
+kommoo|Champions VGC26-M-A Setup Sweeper|Timid|12|0|0|252|0|252|31|Leftovers|Soundproof|clangingscales,aurasphere,clangoroussoul,protect
+lopunny|Champions OU All-out Attacker|Jolly|12|252|0|0|0|252|31|Lopunnite|Limber|closecombat,fakeout/uturn,machpunch/uturn/megakick,tripleaxel/uturn/megakick
+lopunny|Champions OU All-out Attacker|Adamant|12|252|0|0|0|252|31|Lopunnite|Limber|closecombat,fakeout/uturn,machpunch/uturn/megakick,tripleaxel/uturn/megakick
+lopunny|Champions OU Swords Dance|Jolly|12|252|0|0|0|252|31|Lopunnite|Limber|swordsdance,closecombat,machpunch,tripleaxel/megakick/facade
+lopunny|Champions BSS All-out Attacker|Jolly|12|252|0|0|0|252|31|Lopunnite|Scrappy|fakeout,closecombat,tripleaxel,uturn
+lopunny|Champions BSS Swords Dance|Jolly|12|252|0|0|0|252|31|Lopunnite|Scrappy|swordsdance,closecombat,fakeout/machpunch,tripleaxel/facade/machpunch
+lucario|Champions BSS Swords Dance|Jolly|12|252|0|0|0|252|31|Lucarionite||swordsdance,closecombat,meteormash/earthquake,extremespeed/bulletpunch
+lucario|Champions BSS Special Sweeper|Timid|12|0|0|252|0|252|31|Lucarionite|Inner Focus|nastyplot,aurasphere,flashcannon,vacuumwave
+lycanrocdusk|Champions VGC26-M-A Glass Cannon|Adamant|12|252|0|0|0|252|31|Focus Sash|Tough Claws|accelerock,rockslide,closecombat,protect
+lycanrocdusk|Champions VGC26-M-B Glass Cannon|Adamant|12|252|0|0|0|252|31|Focus Sash|Tough Claws|accelerock,rockslide,closecombat,protect
+mamoswine|Champions BSS Curly Brace's Machine Gun (Offensive)|Adamant|12|252|0|0|0|252|31|Focus Sash|Oblivious|stealthrock/rocktomb,iciclespear/iciclecrash,iceshard,earthquake
+mamoswine|Champions BSS Curly Brace's Machine Gun (Offensive)|Adamant|12|252|0|0|0|252|31|Focus Sash|Thick Fat|stealthrock/rocktomb,iciclespear/iciclecrash,iceshard,earthquake
+mamoswine|Champions VGC26-M-B Sash Attacker|Adamant|12|252|0|0|0|252|31|Focus Sash|Oblivious|iceshard,highhorsepower,iciclecrash,protect
+maushold|Champions VGC26-M-A Redirection Support|Timid|252|0|76|0|0|188|31|Chople Berry|Friend Guard|superfang,followme,feint/encore/helpinghand,protect
+maushold|Champions VGC26-M-A Redirection Support|Timid|252|0|76|0|0|188|31|Focus Sash|Friend Guard|superfang,followme,feint/encore/helpinghand,protect
+maushold|Champions VGC26-M-A Redirection Support|Calm|252|0|76|0|0|188|31|Chople Berry|Friend Guard|superfang,followme,feint/encore/helpinghand,protect
+maushold|Champions VGC26-M-A Redirection Support|Calm|252|0|76|0|0|188|31|Focus Sash|Friend Guard|superfang,followme,feint/encore/helpinghand,protect
+maushold|Champions VGC26-M-A Redirection Support|Timid|252|0|132|0|132|0|31|Chople Berry|Friend Guard|superfang,followme,feint/encore/helpinghand,protect
+maushold|Champions VGC26-M-A Redirection Support|Timid|252|0|132|0|132|0|31|Focus Sash|Friend Guard|superfang,followme,feint/encore/helpinghand,protect
+maushold|Champions VGC26-M-A Redirection Support|Calm|252|0|132|0|132|0|31|Chople Berry|Friend Guard|superfang,followme,feint/encore/helpinghand,protect
+maushold|Champions VGC26-M-A Redirection Support|Calm|252|0|132|0|132|0|31|Focus Sash|Friend Guard|superfang,followme,feint/encore/helpinghand,protect
+mawile|Champions OU Wallbreaker|Adamant|100|252|0|0|0|164|31|Mawilite|Intimidate|swordsdance/substitute,playrough,knockoff/thunderpunch,suckerpunch
+mawile|Champions BSS Swords Dance|Adamant|252|252|12|0|0|0|31|Mawilite|Intimidate|swordsdance,playrough,suckerpunch,firefang/thunderpunch/ironhead
+mawile|Champions BSS Swords Dance|Brave|252|252|12|0|0|0|31|Mawilite|Intimidate|swordsdance,playrough,suckerpunch,firefang/thunderpunch/ironhead
+mawile|Champions VGC26-M-B Trick Room Attacker|Brave|252|252|0|0|12|0|31|Mawilite|Hyper Cutter|playrough,ironhead,suckerpunch,protect
+mawile|Champions VGC26-M-B Trick Room Attacker|Brave|252|252|0|0|12|0|31|Mawilite|Intimidate|playrough,ironhead,suckerpunch,protect
+meganium|Champions OU Bulky Attacker|Modest|164|0|0|252|0|100|31|Meganiumite|Leaf Guard|solarbeam,weatherball,dazzlinggleam/earthpower,synthesis
+meganium|Champions BSS Bulky Attacker|Modest|252|0|0|252|0|12|31|Meganiumite|Overgrow|solarbeam,weatherball,dazzlinggleam,synthesis
+meowscarada|Champions OU Choice Scarf|Jolly|12|252|0|0|0|252|31|Choice Scarf|Protean|flowertrick,knockoff,uturn,tripleaxel
+meowscarada|Champions OU Dedicated Lead|Jolly|12|252|0|0|0|252|31|Focus Sash|Overgrow|flowertrick,knockoff,spikes,taunt
+meowscarada|Champions BSS Choice Scarf|Jolly|12|252|0|0|0|252|31|Choice Scarf|Protean|flowertrick,tripleaxel,knockoff,uturn/thunderpunch
+meowscarada|Champions BSS Choice Scarf|Adamant|12|252|0|0|0|252|31|Choice Scarf|Protean|flowertrick,tripleaxel,knockoff,uturn/thunderpunch
+meowscarada|Champions BSS Focus Sash|Jolly|12|252|0|0|0|252|31|Focus Sash|Protean|flowertrick,suckerpunch,tripleaxel/knockoff,knockoff/uturn/taunt
+metagross|Champions OU All-out Attacker|Jolly|0|252|0|0|12|252|31|Metagrossite|Clear Body|psychicfangs,meteormash,earthquake/bulletpunch/icepunch,thunderpunch/icepunch
+metagross|Champions BSS Offensive|Adamant|12|252|0|0|0|252|31|Metagrossite|Clear Body|psychicfangs,bulletpunch,earthquake/thunderpunch,icepunch/thunderpunch
+metagross|Champions BSS Offensive|Jolly|12|252|0|0|0|252|31|Metagrossite|Clear Body|psychicfangs,bulletpunch,earthquake/thunderpunch,icepunch/thunderpunch
+metagross|Champions VGC26-M-B Fast Sweeper|Jolly|0|212|108|0|0|196|31|Metagrossite|Clear Body|ironhead/bulletpunch,psychicfangs,bodypress/icepunch/stompingtantrum,protect
+metagross|Champions VGC26-M-B Fast Sweeper|Jolly|12|252|0|0|0|252|31|Metagrossite|Clear Body|ironhead/bulletpunch,psychicfangs,bodypress/icepunch/stompingtantrum,protect
+milotic|Champions VGC26-M-A Bulky Offense|Modest|252|0|100|68|4|84|31|Leftovers|Competitive|muddywater,coil,hypnosis,protect/recover
+milotic|Champions VGC26-M-A Bulky Offense|Calm|252|0|100|68|4|84|31|Leftovers|Competitive|muddywater,coil,hypnosis,protect/recover
+milotic|Champions VGC26-M-A Bulky Offense|Modest|252|0|0|0|44|220|31|Leftovers|Competitive|muddywater,coil,hypnosis,protect/recover
+milotic|Champions VGC26-M-A Bulky Offense|Calm|252|0|0|0|44|220|31|Leftovers|Competitive|muddywater,coil,hypnosis,protect/recover
+mimikyu|Champions BSS Swords Dance|Adamant|12|252|0|0|0|252|31|Life Orb|Disguise|swordsdance,playrough,shadowsneak,shadowclaw
+mimikyu|Champions BSS Swords Dance|Jolly|12|252|0|0|0|252|31|Life Orb|Disguise|swordsdance,playrough,shadowsneak,shadowclaw
+mimikyu|Champions BSS Swiss Army Knife (Trick Room Support)|Adamant|228|236|52|0|0|0|31|Life Orb|Disguise|trickroom,curse,shadowsneak,playrough
+mimikyu|Champions BSS Swiss Army Knife (Trick Room Support)|Adamant|228|236|52|0|0|0|31|Mental Herb|Disguise|trickroom,curse,shadowsneak,playrough
+mimikyu|Champions BSS Swiss Army Knife (Trick Room Support)|Adamant|228|252|36|0|0|0|31|Life Orb|Disguise|trickroom,curse,shadowsneak,playrough
+mimikyu|Champions BSS Swiss Army Knife (Trick Room Support)|Adamant|228|252|36|0|0|0|31|Mental Herb|Disguise|trickroom,curse,shadowsneak,playrough
+ninetalesalola|Champions BSS Aurora Veil Support|Bold|244|0|68|0|0|204|31|Light Clay|Snow Warning|auroraveil,freezedry,blizzard/moonblast,encore/moonblast
+ninetalesalola|Champions BSS Aurora Veil Support|Timid|244|0|68|0|0|204|31|Light Clay|Snow Warning|auroraveil,freezedry,blizzard/moonblast,encore/moonblast
+ninetalesalola|Champions BSS Aurora Veil Support|Bold|244|0|20|0|0|252|31|Light Clay|Snow Warning|auroraveil,freezedry,blizzard/moonblast,encore/moonblast
+ninetalesalola|Champions BSS Aurora Veil Support|Timid|244|0|20|0|0|252|31|Light Clay|Snow Warning|auroraveil,freezedry,blizzard/moonblast,encore/moonblast
+ninetalesalola|Champions VGC26-M-A Offensive Support|Timid|12|0|0|252|0|252|31|Never-Melt Ice|Snow Warning|blizzard,auroraveil,encore,protect
+ninetalesalola|Champions VGC26-M-A Offensive Support|Timid|12|0|0|252|0|252|31|Focus Sash|Snow Warning|blizzard,auroraveil,encore,protect
+ninetalesalola|Champions VGC26-M-B Choice Scarf|Timid|12|0|0|252|0|252|31|Choice Scarf|Snow Warning|blizzard,freezedry,icywind,encore
+ninetalesalola|Champions VGC26-M-B Choice Scarf|Timid|36|0|52|172|0|252|31|Choice Scarf|Snow Warning|blizzard,freezedry,icywind,encore
+ninetalesalola|Champions VGC26-M-B Disruptive Support|Timid|4|0|4|252|0|252|31|Never-Melt Ice|Snow Warning|blizzard,freezedry,encore,protect
+ninetalesalola|Champions VGC26-M-B Disruptive Support|Timid|4|0|4|252|0|252|31|Focus Sash|Snow Warning|blizzard,freezedry,encore,protect
+pawmot|Champions OU Offensive|Jolly|12|252|0|0|0|252|31|Life Orb|Iron Fist|doubleshock,closecombat,icepunch,machpunch/revivalblessing
+pawmot|Champions OU Offensive|Jolly|12|252|0|0|0|252|31|Leppa Berry|Iron Fist|doubleshock,closecombat,icepunch,machpunch/revivalblessing
+pelipper|Champions OU Rain Setter|Modest|12|0|0|252|0|252|31|Sitrus Berry|Drizzle|surf,uturn,roost,hurricane/icebeam/knockoff
+pelipper|Champions OU Rain Setter|Modest|12|0|0|252|0|252|31|Eject Button|Drizzle|surf,uturn,roost,hurricane/icebeam/knockoff
+pelipper|Champions OU Rain Setter|Relaxed|12|0|0|252|0|252|31|Sitrus Berry|Drizzle|surf,uturn,roost,hurricane/icebeam/knockoff
+pelipper|Champions OU Rain Setter|Relaxed|12|0|0|252|0|252|31|Eject Button|Drizzle|surf,uturn,roost,hurricane/icebeam/knockoff
+pelipper|Champions OU Rain Setter|Modest|252|0|252|12|0|0|31|Sitrus Berry|Drizzle|surf,uturn,roost,hurricane/icebeam/knockoff
+pelipper|Champions OU Rain Setter|Modest|252|0|252|12|0|0|31|Eject Button|Drizzle|surf,uturn,roost,hurricane/icebeam/knockoff
+pelipper|Champions OU Rain Setter|Relaxed|252|0|252|12|0|0|31|Sitrus Berry|Drizzle|surf,uturn,roost,hurricane/icebeam/knockoff
+pelipper|Champions OU Rain Setter|Relaxed|252|0|252|12|0|0|31|Eject Button|Drizzle|surf,uturn,roost,hurricane/icebeam/knockoff
+pelipper|Champions BSS Rain Support|Relaxed|252|0|252|0|12|0|31|Damp Rock|Drizzle|hurricane,uturn,weatherball/surf,icebeam
+pelipper|Champions BSS Rain Support|Relaxed|252|0|252|0|12|0|31|Focus Sash|Drizzle|hurricane,uturn,weatherball/surf,icebeam
+pelipper|Champions BSS Rain Support|Modest|252|0|252|0|12|0|31|Damp Rock|Drizzle|hurricane,uturn,weatherball/surf,icebeam
+pelipper|Champions BSS Rain Support|Modest|252|0|252|0|12|0|31|Focus Sash|Drizzle|hurricane,uturn,weatherball/surf,icebeam
+pelipper|Champions BSS Rain Support|Relaxed|12|0|0|252|0|252|31|Damp Rock|Drizzle|hurricane,uturn,weatherball/surf,icebeam
+pelipper|Champions BSS Rain Support|Relaxed|12|0|0|252|0|252|31|Focus Sash|Drizzle|hurricane,uturn,weatherball/surf,icebeam
+pelipper|Champions BSS Rain Support|Modest|12|0|0|252|0|252|31|Damp Rock|Drizzle|hurricane,uturn,weatherball/surf,icebeam
+pelipper|Champions BSS Rain Support|Modest|12|0|0|252|0|252|31|Focus Sash|Drizzle|hurricane,uturn,weatherball/surf,icebeam
+pelipper|Champions VGC26-M-A Bulky Support|Calm|244|0|108|0|140|20|31|Sitrus Berry|Drizzle|weatherball,hurricane,tailwind,protect/wideguard
+pelipper|Champions VGC26-M-A Bulky Support|Modest|244|0|108|0|140|20|31|Sitrus Berry|Drizzle|weatherball,hurricane,tailwind,protect/wideguard
+pelipper|Champions VGC26-M-A Bulky Support|Calm|244|0|108|12|124|20|31|Sitrus Berry|Drizzle|weatherball,hurricane,tailwind,protect/wideguard
+pelipper|Champions VGC26-M-A Bulky Support|Modest|244|0|108|12|124|20|31|Sitrus Berry|Drizzle|weatherball,hurricane,tailwind,protect/wideguard
+pelipper|Champions VGC26-M-B Offensive Support|Modest|252|0|0|76|100|84|31|Sitrus Berry|Drizzle|weatherball,hurricane,wideguard/protect,tailwind
+pelipper|Champions VGC26-M-B Offensive Support|Bold|252|0|0|76|100|84|31|Sitrus Berry|Drizzle|weatherball,hurricane,wideguard/protect,tailwind
+politoed|Champions VGC26-M-A Rain Support|Calm|244|0|180|0|92|0|31|Sitrus Berry|Drizzle|weatherball,perishsong,protect,hypnosis/icebeam/encore
+politoed|Champions VGC26-M-A Rain Support|Calm|244|0|180|0|92|0|31|Mystic Water|Drizzle|weatherball,perishsong,protect,hypnosis/icebeam/encore
+primarina|Champions OU Calm Mind|Modest|84|0|0|252|0|180|31|Leftovers|Torrent|calmmind,surf,moonblast/drainingkiss,substitute/encore/drainingkiss
+primarina|Champions OU Calm Mind|Modest|84|0|0|252|0|180|31|Sitrus Berry|Torrent|calmmind,surf,moonblast/drainingkiss,substitute/encore/drainingkiss
+primarina|Champions OU Calm Mind|Modest|84|0|0|252|0|180|31|Mystic Water|Torrent|calmmind,surf,moonblast/drainingkiss,substitute/encore/drainingkiss
+primarina|Champions OU Offensive Pivot|Modest|84|0|0|252|0|180|31|Sitrus Berry|Torrent|surf,moonblast,flipturn,psychicnoise/encore
+primarina|Champions OU Offensive Pivot|Modest|84|0|0|252|0|180|31|Fairy Feather|Torrent|surf,moonblast,flipturn,psychicnoise/encore
+primarina|Champions OU Offensive Pivot|Modest|84|0|0|252|0|180|31|Mystic Water|Torrent|surf,moonblast,flipturn,psychicnoise/encore
+primarina|Champions OU Offensive Pivot|Modest|252|0|0|252|0|12|31|Sitrus Berry|Torrent|surf,moonblast,flipturn,psychicnoise/encore
+primarina|Champions OU Offensive Pivot|Modest|252|0|0|252|0|12|31|Fairy Feather|Torrent|surf,moonblast,flipturn,psychicnoise/encore
+primarina|Champions OU Offensive Pivot|Modest|252|0|0|252|0|12|31|Mystic Water|Torrent|surf,moonblast,flipturn,psychicnoise/encore
+primarina|Champions BSS Calm Mind|Modest|252|0|0|252|0|12|31|Sitrus Berry|Torrent|calmmind,moonblast,sparklingaria/surf,encore/rest/psychic
+primarina|Champions BSS Calm Mind|Modest|252|0|0|252|0|12|31|Leftovers|Torrent|calmmind,moonblast,sparklingaria/surf,encore/rest/psychic
+primarina|Champions BSS Calm Mind|Modest|252|0|0|252|0|12|31|Lum Berry|Torrent|calmmind,moonblast,sparklingaria/surf,encore/rest/psychic
+primarina|Champions BSS Calm Mind|Modest|252|0|0|252|0|12|31|Chesto Berry|Torrent|calmmind,moonblast,sparklingaria/surf,encore/rest/psychic
+primarina|Champions BSS Calm Mind|Bold|252|0|0|252|0|12|31|Sitrus Berry|Torrent|calmmind,moonblast,sparklingaria/surf,encore/rest/psychic
+primarina|Champions BSS Calm Mind|Bold|252|0|0|252|0|12|31|Leftovers|Torrent|calmmind,moonblast,sparklingaria/surf,encore/rest/psychic
+primarina|Champions BSS Calm Mind|Bold|252|0|0|252|0|12|31|Lum Berry|Torrent|calmmind,moonblast,sparklingaria/surf,encore/rest/psychic
+primarina|Champions BSS Calm Mind|Bold|252|0|0|252|0|12|31|Chesto Berry|Torrent|calmmind,moonblast,sparklingaria/surf,encore/rest/psychic
+primarina|Champions BSS Calm Mind|Modest|252|0|252|0|0|12|31|Sitrus Berry|Torrent|calmmind,moonblast,sparklingaria/surf,encore/rest/psychic
+primarina|Champions BSS Calm Mind|Modest|252|0|252|0|0|12|31|Leftovers|Torrent|calmmind,moonblast,sparklingaria/surf,encore/rest/psychic
+primarina|Champions BSS Calm Mind|Modest|252|0|252|0|0|12|31|Lum Berry|Torrent|calmmind,moonblast,sparklingaria/surf,encore/rest/psychic
+primarina|Champions BSS Calm Mind|Modest|252|0|252|0|0|12|31|Chesto Berry|Torrent|calmmind,moonblast,sparklingaria/surf,encore/rest/psychic
+primarina|Champions BSS Calm Mind|Bold|252|0|252|0|0|12|31|Sitrus Berry|Torrent|calmmind,moonblast,sparklingaria/surf,encore/rest/psychic
+primarina|Champions BSS Calm Mind|Bold|252|0|252|0|0|12|31|Leftovers|Torrent|calmmind,moonblast,sparklingaria/surf,encore/rest/psychic
+primarina|Champions BSS Calm Mind|Bold|252|0|252|0|0|12|31|Lum Berry|Torrent|calmmind,moonblast,sparklingaria/surf,encore/rest/psychic
+primarina|Champions BSS Calm Mind|Bold|252|0|252|0|0|12|31|Chesto Berry|Torrent|calmmind,moonblast,sparklingaria/surf,encore/rest/psychic
+pyroar|Champions VGC26-M-B Sun Attacker|Timid|12|0|0|252|0|252|31|Pyroarite|Unnerve|heatwave,overheat,solarbeam,protect
+quaquaval|Champions OU Choice Scarf|Jolly|12|252|0|0|0|252|31|Choice Scarf|Moxie|wavecrash,closecombat,tripleaxel/knockoff,flipturn
+raichu|Champions BSS The Rat (Paralysis Spreader)|Timid|12|0|0|252|0|252|31|Raichunite Y|Lightning Rod|zapcannon,focusblast,grassknot,substitute/voltswitch
+raichu|Champions VGC26-M-B Fast Attacker|Timid|228|0|108|0|0|180|31|Raichunite Y|Lightning Rod|zapcannon,focusblast,fakeout,protect
+raichu|Champions VGC26-M-B Fast Attacker|Timid|252|0|164|0|36|60|31|Raichunite Y|Lightning Rod|zapcannon,focusblast,fakeout,protect
+raichu|Champions VGC26-M-C Utility Support|Jolly|220|0|76|0|0|220|31|Raichunite X|Lightning Rod|fakeout,voltswitch,volttackle,feint/protect
+rillaboom|Champions OU Life Orb|Adamant|12|252|0|0|0|252|31|Life Orb|Grassy Surge|grassyglide,woodhammer,knockoff,uturn/highhorsepower/swordsdance
+rillaboom|Champions OU Life Orb|Jolly|12|252|0|0|0|252|31|Life Orb|Grassy Surge|grassyglide,woodhammer,knockoff,uturn/highhorsepower/swordsdance
+rillaboom|Champions OU Terrain Extender|Adamant|252|252|0|0|0|12|31|Terrain Extender|Grassy Surge|grassyglide,woodhammer,knockoff,uturn
+rillaboom|Champions VGC26-M-C Bulky Offensive|Adamant|252|252|0|0|12|0|31|Miracle Seed|Grassy Surge|fakeout,grassyglide,woodhammer,highhorsepower/uturn
+rillaboom|Champions VGC26-M-C Bulky Offensive|Adamant|252|252|0|0|12|0|31|Life Orb|Grassy Surge|fakeout,grassyglide,woodhammer,highhorsepower/uturn
+rotomheat|Champions OU Defensive Pivot|Calm|252|0|0|0|212|52|31|Sitrus Berry|Levitate|voltswitch,overheat,willowisp,painsplit
+rotomheat|Champions OU Defensive Pivot|Calm|252|0|0|0|212|52|31|No Item|Levitate|voltswitch,overheat,willowisp,painsplit
+rotomheat|Champions BSS Offensive Pivot|Modest|12|0|0|252|0|252|31|Choice Scarf|Levitate|thunderbolt/discharge,voltswitch,overheat,trick
+rotomheat|Champions BSS Offensive Pivot|Timid|12|0|0|252|0|252|31|Choice Scarf|Levitate|thunderbolt/discharge,voltswitch,overheat,trick
+rotomheat|Champions BSS Defensive Pivot|Calm|252|0|12|0|252|0|31|Sitrus Berry|Levitate|willowisp,voltswitch,overheat,thunderbolt/painsplit
+rotomheat|Champions BSS Defensive Pivot|Calm|252|0|12|0|252|0|31|Leftovers|Levitate|willowisp,voltswitch,overheat,thunderbolt/painsplit
+rotomheat|Champions BSS Defensive Pivot|Bold|252|0|12|0|252|0|31|Sitrus Berry|Levitate|willowisp,voltswitch,overheat,thunderbolt/painsplit
+rotomheat|Champions BSS Defensive Pivot|Bold|252|0|12|0|252|0|31|Leftovers|Levitate|willowisp,voltswitch,overheat,thunderbolt/painsplit
+rotomheat|Champions BSS Defensive Pivot|Calm|252|0|252|0|12|0|31|Sitrus Berry|Levitate|willowisp,voltswitch,overheat,thunderbolt/painsplit
+rotomheat|Champions BSS Defensive Pivot|Calm|252|0|252|0|12|0|31|Leftovers|Levitate|willowisp,voltswitch,overheat,thunderbolt/painsplit
+rotomheat|Champions BSS Defensive Pivot|Bold|252|0|252|0|12|0|31|Sitrus Berry|Levitate|willowisp,voltswitch,overheat,thunderbolt/painsplit
+rotomheat|Champions BSS Defensive Pivot|Bold|252|0|252|0|12|0|31|Leftovers|Levitate|willowisp,voltswitch,overheat,thunderbolt/painsplit
+rotomwash|Champions OU Defensive Pivot|Bold|252|0|212|0|0|52|31|Sitrus Berry|Levitate|hydropump,voltswitch,willowisp,painsplit
+rotomwash|Champions OU Defensive Pivot|Bold|252|0|212|0|0|52|31|Leftovers|Levitate|hydropump,voltswitch,willowisp,painsplit
+rotomwash|Champions OU Defensive Pivot|Bold|252|0|212|0|0|52|31|No Item|Levitate|hydropump,voltswitch,willowisp,painsplit
+rotomwash|Champions OU Choice Scarf|Timid|12|0|0|252|0|252|31|Choice Scarf|Levitate|hydropump,voltswitch,trick,willowisp/painsplit/thunderwave
+rotomwash|Champions BSS Pivot|Modest|252|0|0|252|0|12|31|Sitrus Berry|Levitate|voltswitch,hydropump,willowisp,thunderbolt/discharge
+rotomwash|Champions BSS Pivot|Modest|252|0|0|252|0|12|31|Leftovers|Levitate|voltswitch,hydropump,willowisp,thunderbolt/discharge
+rotomwash|Champions BSS Pivot|Bold|252|0|0|252|0|12|31|Sitrus Berry|Levitate|voltswitch,hydropump,willowisp,thunderbolt/discharge
+rotomwash|Champions BSS Pivot|Bold|252|0|0|252|0|12|31|Leftovers|Levitate|voltswitch,hydropump,willowisp,thunderbolt/discharge
+rotomwash|Champions BSS Pivot|Modest|252|0|252|12|0|0|31|Sitrus Berry|Levitate|voltswitch,hydropump,willowisp,thunderbolt/discharge
+rotomwash|Champions BSS Pivot|Modest|252|0|252|12|0|0|31|Leftovers|Levitate|voltswitch,hydropump,willowisp,thunderbolt/discharge
+rotomwash|Champions BSS Pivot|Bold|252|0|252|12|0|0|31|Sitrus Berry|Levitate|voltswitch,hydropump,willowisp,thunderbolt/discharge
+rotomwash|Champions BSS Pivot|Bold|252|0|252|12|0|0|31|Leftovers|Levitate|voltswitch,hydropump,willowisp,thunderbolt/discharge
+rotomwash|Champions BSS Choice Scarf|Timid|12|0|0|252|0|252|31|Choice Scarf|Levitate|voltswitch,hydropump,trick,thunderbolt/discharge/willowisp
+rotomwash|Champions VGC26-M-A Bulky Support|Bold|244|0|92|4|156|12|31|Sitrus Berry|Levitate|hydropump,thunderbolt,willowisp,protect
+rotomwash|Champions VGC26-M-A Bulky Support|Bold|244|0|92|4|156|12|31|Leftovers|Levitate|hydropump,thunderbolt,willowisp,protect
+rotomwash|Champions VGC26-M-A Bulky Support|Modest|244|0|92|4|156|12|31|Sitrus Berry|Levitate|hydropump,thunderbolt,willowisp,protect
+rotomwash|Champions VGC26-M-A Bulky Support|Modest|244|0|92|4|156|12|31|Leftovers|Levitate|hydropump,thunderbolt,willowisp,protect
+rotomwash|Champions VGC26-M-A Bulky Support|Bold|244|0|108|124|20|12|31|Sitrus Berry|Levitate|hydropump,thunderbolt,willowisp,protect
+rotomwash|Champions VGC26-M-A Bulky Support|Bold|244|0|108|124|20|12|31|Leftovers|Levitate|hydropump,thunderbolt,willowisp,protect
+rotomwash|Champions VGC26-M-A Bulky Support|Modest|244|0|108|124|20|12|31|Sitrus Berry|Levitate|hydropump,thunderbolt,willowisp,protect
+rotomwash|Champions VGC26-M-A Bulky Support|Modest|244|0|108|124|20|12|31|Leftovers|Levitate|hydropump,thunderbolt,willowisp,protect
+rotomwash|Champions VGC26-M-A Choice Scarf|Modest|12|0|0|252|0|252|31|Choice Scarf|Levitate|hydropump,thunderbolt,electroweb,voltswitch
+rotomwash|Champions VGC26-M-A Choice Scarf|Timid|12|0|0|252|0|252|31|Choice Scarf|Levitate|hydropump,thunderbolt,electroweb,voltswitch
+rotomwash|Champions VGC26-M-A Choice Scarf|Modest|108|0|0|212|0|196|31|Choice Scarf|Levitate|hydropump,thunderbolt,electroweb,voltswitch
+rotomwash|Champions VGC26-M-A Choice Scarf|Timid|108|0|0|212|0|196|31|Choice Scarf|Levitate|hydropump,thunderbolt,electroweb,voltswitch
+sableye|Champions VGC26-M-A Screens Support|Careful|252|0|132|0|132|0|31|Roseli Berry|Prankster|reflect,lightscreen,raindance,encore/foulplay
+salamence|Champions VGC26-M-C Special Attacker|Timid|12|0|0|252|0|252|31|Salamencite|Intimidate|hypervoice,dracometeor/flamethrower,tailwind/flamethrower,protect
+samurotthisui|Champions OU Bulky Swords Dance|Adamant|204|252|0|0|0|60|31|Black Glasses|Sharpness|swordsdance,ceaselessedge,suckerpunch,encore/taunt/sacredsword
+samurotthisui|Champions OU Choice Scarf|Jolly|0|252|0|0|12|252|31|Choice Scarf|Sharpness|ceaselessedge,flipturn,razorshell/aquacutter,sacredsword/aquajet/knockoff
+samurotthisui|Champions OU Lead|Jolly|12|252|0|0|0|252|31|Focus Sash|Sharpness|ceaselessedge,razorshell/aquacutter/suckerpunch,sacredsword/suckerpunch/aquajet,taunt/encore
+samurotthisui|Champions BSS Offensive Spikes Setter|Adamant|12|252|0|0|0|252|31|Black Glasses|Sharpness|ceaselessedge,sacredsword,razorshell/aquacutter,suckerpunch/flipturn/encore
+samurotthisui|Champions BSS Offensive Spikes Setter|Adamant|12|252|0|0|0|252|31|Focus Sash|Sharpness|ceaselessedge,sacredsword,razorshell/aquacutter,suckerpunch/flipturn/encore
+samurotthisui|Champions BSS Offensive Spikes Setter|Jolly|12|252|0|0|0|252|31|Black Glasses|Sharpness|ceaselessedge,sacredsword,razorshell/aquacutter,suckerpunch/flipturn/encore
+samurotthisui|Champions BSS Offensive Spikes Setter|Jolly|12|252|0|0|0|252|31|Focus Sash|Sharpness|ceaselessedge,sacredsword,razorshell/aquacutter,suckerpunch/flipturn/encore
+samurotthisui|Champions BSS Offensive Spikes Setter|Adamant|108|252|0|0|60|92|31|Black Glasses|Sharpness|ceaselessedge,sacredsword,razorshell/aquacutter,suckerpunch/flipturn/encore
+samurotthisui|Champions BSS Offensive Spikes Setter|Adamant|108|252|0|0|60|92|31|Focus Sash|Sharpness|ceaselessedge,sacredsword,razorshell/aquacutter,suckerpunch/flipturn/encore
+samurotthisui|Champions BSS Offensive Spikes Setter|Jolly|108|252|0|0|60|92|31|Black Glasses|Sharpness|ceaselessedge,sacredsword,razorshell/aquacutter,suckerpunch/flipturn/encore
+samurotthisui|Champions BSS Offensive Spikes Setter|Jolly|108|252|0|0|60|92|31|Focus Sash|Sharpness|ceaselessedge,sacredsword,razorshell/aquacutter,suckerpunch/flipturn/encore
+samurotthisui|Champions BSS Choice Scarf|Jolly|12|252|0|0|0|252|31|Choice Scarf|Sharpness|ceaselessedge,sacredsword,flipturn,razorshell/aquacutter
+scizor|Champions OU Bulky Swords Dance|Adamant|124|252|0|0|0|140|31|Scizorite|Light Metal|swordsdance,roost,bulletpunch,closecombat/knockoff
+scizor|Champions OU Defog|Adamant|244|252|0|0|0|20|31|Sitrus Berry|Technician|bulletpunch,uturn,knockoff,defog
+scizor|Champions OU Defog|Adamant|244|252|0|0|0|20|31|Scizorite|Technician|bulletpunch,uturn,knockoff,defog
+scizor|Champions BSS Swords Dance|Adamant|252|252|0|0|0|12|31|Scizorite|Technician|swordsdance,bulletpunch,closecombat/knockoff,knockoff/uturn/roost
+scizor|Champions BSS Swords Dance|Adamant|252|252|0|0|0|12|31|Scizorite|Light Metal|swordsdance,bulletpunch,closecombat/knockoff,knockoff/uturn/roost
+scizor|Champions BSS Swords Dance|Adamant|252|252|0|0|0|12|31|Lum Berry|Technician|swordsdance,bulletpunch,closecombat/knockoff,knockoff/uturn/roost
+scizor|Champions BSS Swords Dance|Adamant|252|252|0|0|0|12|31|Lum Berry|Light Metal|swordsdance,bulletpunch,closecombat/knockoff,knockoff/uturn/roost
+scizor|Champions BSS Swords Dance|Adamant|252|252|12|0|0|0|31|Scizorite|Technician|swordsdance,bulletpunch,closecombat/knockoff,knockoff/uturn/roost
+scizor|Champions BSS Swords Dance|Adamant|252|252|12|0|0|0|31|Scizorite|Light Metal|swordsdance,bulletpunch,closecombat/knockoff,knockoff/uturn/roost
+scizor|Champions BSS Swords Dance|Adamant|252|252|12|0|0|0|31|Lum Berry|Technician|swordsdance,bulletpunch,closecombat/knockoff,knockoff/uturn/roost
+scizor|Champions BSS Swords Dance|Adamant|252|252|12|0|0|0|31|Lum Berry|Light Metal|swordsdance,bulletpunch,closecombat/knockoff,knockoff/uturn/roost
+scovillain|Champions VGC26-M-A Redirection Support|Bold|252|0|76|0|188|0|31|Scovillainite|Moody|overheat,gigadrain/leechseed,ragepowder,protect
+scovillain|Champions VGC26-M-B Redirection Support|Bold|252|0|76|0|188|0|31|Scovillainite|Moody|overheat,gigadrain,ragepowder,protect
+sinistcha|Champions VGC26-M-A Redirection Support|Bold|252|0|108|0|156|0|31|Kasib Berry|Hospitality|matchagotcha,ragepowder,trickroom/protect,lifedew/protect
+sinistcha|Champions VGC26-M-A Redirection Support|Bold|252|0|108|0|156|0|31|Sitrus Berry|Hospitality|matchagotcha,ragepowder,trickroom/protect,lifedew/protect
+sinistcha|Champions VGC26-M-A Redirection Support|Bold|252|0|108|0|156|0|31|Colbur Berry|Hospitality|matchagotcha,ragepowder,trickroom/protect,lifedew/protect
+sinistcha|Champions VGC26-M-B Redirection Support|Bold|252|0|108|0|156|0|31|Colbur Berry|Hospitality|ragepowder,trickroom,matchagotcha,protect/lifedew
+sinistcha|Champions VGC26-M-B Redirection Support|Bold|252|0|108|0|156|0|31|Sitrus Berry|Hospitality|ragepowder,trickroom,matchagotcha,protect/lifedew
+skarmory|Champions OU IronPress|Impish|252|0|164|0|0|100|31|Leftovers|Sturdy|irondefense,bodypress,roost,bravebird
+skarmory|Champions OU IronPress|Impish|252|0|164|0|0|100|31|Sitrus Berry|Sturdy|irondefense,bodypress,roost,bravebird
+skarmory|Champions OU IronPress|Impish|252|0|164|0|0|100|31|Occa Berry|Sturdy|irondefense,bodypress,roost,bravebird
+skeledirge|Champions OU Unaware Wall|Bold|252|0|148|0|116|0|31|No Item|Unaware|torchsong,hex,willowisp,slackoff
+skeledirge|Champions OU Unaware Wall|Bold|252|0|148|0|116|0|31|Leftovers|Unaware|torchsong,hex,willowisp,slackoff
+skeledirge|Champions BSS Physical Wall|Bold|252|0|252|0|12|0|31|Leftovers|Unaware|torchsong,slackoff,willowisp/yawn,shadowball/hex
+skeledirge|Champions BSS Physical Wall|Bold|252|0|252|0|12|0|31|Sitrus Berry|Unaware|torchsong,slackoff,willowisp/yawn,shadowball/hex
+slowkinggalar|Champions OU Defensive Pivot|Sassy|252|0|12|0|252|0|31|Colbur Berry|Regenerator|chillyreception,sludgebomb,futuresight/psyshock,thunderwave/icebeam/flamethrower/toxic
+slowkinggalar|Champions OU Defensive Pivot|Sassy|252|0|12|0|252|0|31|Shuca Berry|Regenerator|chillyreception,sludgebomb,futuresight/psyshock,thunderwave/icebeam/flamethrower/toxic
+slowkinggalar|Champions OU Defensive Pivot|Sassy|252|0|12|0|252|0|31|Sitrus Berry|Regenerator|chillyreception,sludgebomb,futuresight/psyshock,thunderwave/icebeam/flamethrower/toxic
+slowkinggalar|Champions OU Calm Mind|Sassy|252|0|0|12|252|0|31|Leftovers|Regenerator|chillyreception,calmmind,sludgebomb,flamethrower/psyshock
+slowkinggalar|Champions OU Calm Mind|Sassy|252|0|0|12|252|0|31|Colbur Berry|Regenerator|chillyreception,calmmind,sludgebomb,flamethrower/psyshock
+sneasler|Champions BSS Unburden Sweeper|Adamant|12|252|0|0|0|252|31|White Herb|Unburden|direclaw,closecombat,throatchop/shadowclaw,swordsdance/fakeout
+sneasler|Champions BSS Unburden Sweeper|Adamant|12|252|0|0|0|252|31|Sitrus Berry|Unburden|direclaw,closecombat,throatchop/shadowclaw,swordsdance/fakeout
+sneasler|Champions BSS Unburden Sweeper|Jolly|12|252|0|0|0|252|31|White Herb|Unburden|direclaw,closecombat,throatchop/shadowclaw,swordsdance/fakeout
+sneasler|Champions BSS Unburden Sweeper|Jolly|12|252|0|0|0|252|31|Sitrus Berry|Unburden|direclaw,closecombat,throatchop/shadowclaw,swordsdance/fakeout
+sneasler|Champions VGC26-M-A Offensive Support|Adamant|12|252|0|0|0|252|31|White Herb|Unburden|fakeout,closecombat,direclaw,protect
+sneasler|Champions VGC26-M-A Offensive Support|Adamant|12|252|0|0|0|252|31|Focus Sash|Unburden|fakeout,closecombat,direclaw,protect
+sneasler|Champions VGC26-M-A Offensive Support|Jolly|12|252|0|0|0|252|31|White Herb|Unburden|fakeout,closecombat,direclaw,protect
+sneasler|Champions VGC26-M-A Offensive Support|Jolly|12|252|0|0|0|252|31|Focus Sash|Unburden|fakeout,closecombat,direclaw,protect
+sneasler|Champions VGC26-M-B Disruptive Support|Jolly|12|252|0|0|0|252|31|Focus Sash|Unburden|fakeout,direclaw,closecombat,protect/quickguard
+sneasler|Champions VGC26-M-B Disruptive Support|Jolly|12|252|0|0|0|252|31|White Herb|Unburden|fakeout,direclaw,closecombat,protect/quickguard
+sneasler|Champions VGC26-M-B Disruptive Support|Adamant|12|252|0|0|0|252|31|Focus Sash|Unburden|fakeout,direclaw,closecombat,protect/quickguard
+sneasler|Champions VGC26-M-B Disruptive Support|Adamant|12|252|0|0|0|252|31|White Herb|Unburden|fakeout,direclaw,closecombat,protect/quickguard
+sneasler|Champions VGC26-M-C Unburden Sweeper|Adamant|12|252|0|0|0|252|31|Grassy Seed||closecombat,direclaw,fakeout/rockslide/throatchop,protect
+sneasler|Champions VGC26-M-C Unburden Sweeper|Adamant|12|252|0|0|0|252|31|Psychic Seed||closecombat,direclaw,fakeout/rockslide/throatchop,protect
+sneasler|Champions VGC26-M-C Unburden Sweeper|Adamant|12|252|0|0|0|252|31|White Herb||closecombat,direclaw,fakeout/rockslide/throatchop,protect
+sneasler|Champions VGC26-M-C Focus Sash|Jolly|12|252|0|0|0|252|31|Focus Sash|Poison Touch|closecombat,direclaw/poisonjab,fakeout,protect/quickguard
+snorlax|Champions VGC26-M-B Bulky Support|Relaxed|164|0|252|0|100|0|31|Leftovers|Thick Fat|protect,yawn,fissure/highhorsepower,doubleedge/heavyslam
+staraptor|Champions OU Three Attacks|Jolly|4|252|4|0|0|252|31|Staraptite|Intimidate|closecombat,bravebird,blazekick,roost
+staraptor|Champions BSS Mega Contrary|Jolly|12|252|0|0|0|252|31|Staraptite|Intimidate|closecombat,bravebird,roost,blazekick/substitute/uturn
+staraptor|Champions VGC26-M-B Contrary Sweeper|Jolly|12|252|0|0|0|252|31|Staraptite|Intimidate|closecombat,bravebird,roost/tailwind,protect
+staraptor|Champions VGC26-M-B Contrary Sweeper|Adamant|12|252|0|0|0|252|31|Staraptite|Intimidate|closecombat,bravebird,roost/tailwind,protect
+staraptor|Champions VGC26-M-B Contrary Sweeper|Jolly|252|0|0|0|68|196|31|Staraptite|Intimidate|closecombat,bravebird,roost/tailwind,protect
+staraptor|Champions VGC26-M-B Contrary Sweeper|Adamant|252|0|0|0|68|196|31|Staraptite|Intimidate|closecombat,bravebird,roost/tailwind,protect
+starmie|Champions BSS The Original Starwalker (All-out Attacker)|Jolly|12|252|0|0|0|252|31|Starminite|Natural Cure|liquidation,aquajet,icespinner/zenheadbutt,flipturn/zenheadbutt
+starmie|Champions BSS The Original Starwalker (All-out Attacker)|Adamant|12|252|0|0|0|252|31|Starminite|Natural Cure|liquidation,aquajet,icespinner/zenheadbutt,flipturn/zenheadbutt
+swampert|Champions OU Rain Sweeper|Adamant|0|252|0|0|12|252|31|Swampertite|Damp|wavecrash,earthquake,icepunch/stealthrock,flipturn
+swampert|Champions OU Rain Sweeper|Jolly|0|252|0|0|12|252|31|Swampertite|Damp|wavecrash,earthquake,icepunch/stealthrock,flipturn
+swampert|Champions BSS Rain Sweeper|Adamant|12|252|0|0|0|252|31|Swampertite|Torrent|wavecrash,earthquake,icepunch,flipturn
+swampert|Champions BSS Rain Sweeper|Jolly|12|252|0|0|0|252|31|Swampertite|Torrent|wavecrash,earthquake,icepunch,flipturn
+swampert|Champions VGC26-M-B Fast Offense|Adamant|12|252|0|0|0|252|31|Swampertite|Damp|wavecrash,earthquake/highhorsepower,icepunch/highhorsepower,protect
+sylveon|Champions VGC26-M-A Bulky Offensive|Modest|196|0|188|92|0|36|31|Fairy Feather|Pixilate|hypervoice,hyperbeam/moonblast,quickattack,detect
+sylveon|Champions VGC26-M-B Bulky Attacker|Modest|68|0|172|156|0|116|31|Fairy Feather|Pixilate|hypervoice,hyperbeam,quickattack,detect
+sylveon|Champions VGC26-M-B Bulky Attacker|Modest|68|0|172|236|0|36|31|Fairy Feather|Pixilate|hypervoice,hyperbeam,quickattack,detect
+talonflame|Champions VGC26-M-A Offensive Support|Jolly|12|252|0|0|0|252|31|Sharp Beak|Gale Wings|tailwind,protect,flareblitz/willowisp,bravebird/dualwingbeat/acrobatics
+talonflame|Champions VGC26-M-A Offensive Support|Jolly|12|252|0|0|0|252|31|No Item|Gale Wings|tailwind,protect,flareblitz/willowisp,bravebird/dualwingbeat/acrobatics
+taurospaldeaaqua|Champions OU Bulk Up|Jolly|4|252|0|0|4|252|31|Mystic Water|Intimidate|wavecrash,closecombat,aquajet,bulkup
+taurospaldeaaqua|Champions OU Bulk Up|Adamant|4|252|0|0|4|252|31|Mystic Water|Intimidate|wavecrash,closecombat,aquajet,bulkup
+torkoal|Champions VGC26-M-B Trick Room Sweeper|Quiet|252|0|0|252|12|0|31|Charcoal|Drought|eruption,heatwave/earthpower,weatherball,protect
+toxapex|Champions OU Regenerator Wall|Careful|252|0|12|0|252|0|31|Sitrus Berry|Regenerator|liquidation,toxic/poisonjab/toxicspikes,haze,recover
+toxapex|Champions OU Regenerator Wall|Careful|252|0|12|0|252|0|31|Leftovers|Regenerator|liquidation,toxic/poisonjab/toxicspikes,haze,recover
+toxapex|Champions OU Regenerator Wall|Careful|252|0|12|0|252|0|31|No Item|Regenerator|liquidation,toxic/poisonjab/toxicspikes,haze,recover
+toxapex|Champions OU Regenerator Wall|Bold|252|0|12|0|252|0|31|Sitrus Berry|Regenerator|liquidation,toxic/poisonjab/toxicspikes,haze,recover
+toxapex|Champions OU Regenerator Wall|Bold|252|0|12|0|252|0|31|Leftovers|Regenerator|liquidation,toxic/poisonjab/toxicspikes,haze,recover
+toxapex|Champions OU Regenerator Wall|Bold|252|0|12|0|252|0|31|No Item|Regenerator|liquidation,toxic/poisonjab/toxicspikes,haze,recover
+toxapex|Champions OU Regenerator Wall|Careful|252|0|252|0|12|0|31|Sitrus Berry|Regenerator|liquidation,toxic/poisonjab/toxicspikes,haze,recover
+toxapex|Champions OU Regenerator Wall|Careful|252|0|252|0|12|0|31|Leftovers|Regenerator|liquidation,toxic/poisonjab/toxicspikes,haze,recover
+toxapex|Champions OU Regenerator Wall|Careful|252|0|252|0|12|0|31|No Item|Regenerator|liquidation,toxic/poisonjab/toxicspikes,haze,recover
+toxapex|Champions OU Regenerator Wall|Bold|252|0|252|0|12|0|31|Sitrus Berry|Regenerator|liquidation,toxic/poisonjab/toxicspikes,haze,recover
+toxapex|Champions OU Regenerator Wall|Bold|252|0|252|0|12|0|31|Leftovers|Regenerator|liquidation,toxic/poisonjab/toxicspikes,haze,recover
+toxapex|Champions OU Regenerator Wall|Bold|252|0|252|0|12|0|31|No Item|Regenerator|liquidation,toxic/poisonjab/toxicspikes,haze,recover
+toxapex|Champions VGC26-M-B Defensive Support|Bold|252|0|124|0|140|0|31|Leftovers|Regenerator|infestation,wideguard,toxic,banefulbunker
+tyranitar|Champions BSS Special Wall|Careful|252|12|0|0|252|0|31|Sitrus Berry|Sand Stream|stealthrock,knockoff/foulplay,rockblast/rocktomb,earthquake/rest/icepunch
+tyranitar|Champions BSS Special Wall|Careful|252|12|0|0|252|0|31|Lum Berry|Sand Stream|stealthrock,knockoff/foulplay,rockblast/rocktomb,earthquake/rest/icepunch
+tyranitar|Champions BSS Special Wall|Careful|252|12|0|0|252|0|31|Shuca Berry|Sand Stream|stealthrock,knockoff/foulplay,rockblast/rocktomb,earthquake/rest/icepunch
+tyranitar|Champions BSS Setup Sweeper|Jolly|12|252|0|0|0|252|31|Tyranitarite|Sand Stream|dragondance,knockoff,stoneedge,icepunch/firepunch
+tyranitar|Champions BSS Setup Sweeper|Adamant|12|252|0|0|0|252|31|Tyranitarite|Sand Stream|dragondance,knockoff,stoneedge,icepunch/firepunch
+tyranitar|Champions BSS Setup Sweeper|Jolly|204|124|0|0|4|180|31|Tyranitarite|Sand Stream|dragondance,knockoff,stoneedge,icepunch/firepunch
+tyranitar|Champions BSS Setup Sweeper|Adamant|204|124|0|0|4|180|31|Tyranitarite|Sand Stream|dragondance,knockoff,stoneedge,icepunch/firepunch
+tyranitar|Champions BSS Bulky Attacker|Adamant|252|252|0|0|12|0|31|Tyranitarite|Sand Stream|knockoff,rockblast/stoneedge,icepunch/firepunch,superpower
+tyranitar|Champions VGC26-M-A Sand Attacker|Adamant|252|100|28|0|0|132|31|Tyranitarite|Sand Stream|rockslide,knockoff,lowkick/dragondance,protect
+tyranitar|Champions VGC26-M-A Sand Attacker|Jolly|252|100|28|0|0|132|31|Tyranitarite|Sand Stream|rockslide,knockoff,lowkick/dragondance,protect
+tyranitar|Champions VGC26-M-A Sand Attacker|Adamant|12|252|0|0|0|252|31|Tyranitarite|Sand Stream|rockslide,knockoff,lowkick/dragondance,protect
+tyranitar|Champions VGC26-M-A Sand Attacker|Jolly|12|252|0|0|0|252|31|Tyranitarite|Sand Stream|rockslide,knockoff,lowkick/dragondance,protect
+tyranitar|Champions VGC26-M-B Sand Attacker|Jolly|140|124|0|0|0|252|31|Tyranitarite|Sand Stream|rockslide,knockoff,lowkick/dragondance,protect
+tyranitar|Champions VGC26-M-B Sand Attacker|Adamant|140|124|0|0|0|252|31|Tyranitarite|Sand Stream|rockslide,knockoff,lowkick/dragondance,protect
+tyranitar|Champions VGC26-M-B Sand Attacker|Jolly|196|124|0|0|0|196|31|Tyranitarite|Sand Stream|rockslide,knockoff,lowkick/dragondance,protect
+tyranitar|Champions VGC26-M-B Sand Attacker|Adamant|196|124|0|0|0|196|31|Tyranitarite|Sand Stream|rockslide,knockoff,lowkick/dragondance,protect
+umbreon|Champions BSS That's Amore! (Defensive Wish Passer)|Bold|252|0|252|0|12|0|31|Leftovers|Inner Focus|foulplay,yawn,wish,protect
+umbreon|Champions BSS That's Amore! (Defensive Wish Passer)|Bold|252|0|252|0|12|0|31|Leftovers|Synchronize|foulplay,yawn,wish,protect
+umbreon|Champions BSS That's Amore! (Defensive Wish Passer)|Calm|252|0|252|0|12|0|31|Leftovers|Inner Focus|foulplay,yawn,wish,protect
+umbreon|Champions BSS That's Amore! (Defensive Wish Passer)|Calm|252|0|252|0|12|0|31|Leftovers|Synchronize|foulplay,yawn,wish,protect
+umbreon|Champions BSS That's Amore! (Defensive Wish Passer)|Bold|252|0|12|0|252|0|31|Leftovers|Inner Focus|foulplay,yawn,wish,protect
+umbreon|Champions BSS That's Amore! (Defensive Wish Passer)|Bold|252|0|12|0|252|0|31|Leftovers|Synchronize|foulplay,yawn,wish,protect
+umbreon|Champions BSS That's Amore! (Defensive Wish Passer)|Calm|252|0|12|0|252|0|31|Leftovers|Inner Focus|foulplay,yawn,wish,protect
+umbreon|Champions BSS That's Amore! (Defensive Wish Passer)|Calm|252|0|12|0|252|0|31|Leftovers|Synchronize|foulplay,yawn,wish,protect
+venusaur|Champions BSS Special Tank|Calm|252|0|12|0|252|0|31|Venusaurite|Chlorophyll|synthesis,sludgebomb,earthpower,leechseed/gigadrain
+venusaur|Champions VGC26-M-A Bulky Attacker|Modest|252|0|52|140|0|68|31|Venusaurite|Chlorophyll|gigadrain,sludgebomb,protect,earthpower
+venusaur|Champions VGC26-M-B Chlorophyll Sweeper|Modest|12|0|0|252|0|252|31|Focus Sash|Chlorophyll|sludgebomb,earthpower/solarbeam/leafstorm,sleeppowder/solarbeam/leafstorm,protect
+venusaur|Champions VGC26-M-B Chlorophyll Sweeper|Modest|12|0|0|252|0|252|31|Life Orb|Chlorophyll|sludgebomb,earthpower/solarbeam/leafstorm,sleeppowder/solarbeam/leafstorm,protect
+vivillon|Champions VGC26-M-A Redirection Support|Timid|12|0|0|252|0|252|31|Choice Scarf|Compound Eyes|ragepowder,sleeppowder,hurricane,pollenpuff/raindance/protect
+vivillon|Champions VGC26-M-A Redirection Support|Timid|12|0|0|252|0|252|31|Focus Sash|Compound Eyes|ragepowder,sleeppowder,hurricane,pollenpuff/raindance/protect
+volcarona|Champions OU Offensive Quiver Dance|Timid|12|0|0|252|0|252|31|Sitrus Berry|Flame Body|quiverdance,fierydance/fireblast,bugbuzz/gigadrain,gigadrain/psychic/substitute
+volcarona|Champions OU Offensive Quiver Dance|Timid|12|0|0|252|0|252|31|Sitrus Berry|Swarm|quiverdance,fierydance/fireblast,bugbuzz/gigadrain,gigadrain/psychic/substitute
+volcarona|Champions OU Offensive Quiver Dance|Timid|12|0|0|252|0|252|31|Life Orb|Flame Body|quiverdance,fierydance/fireblast,bugbuzz/gigadrain,gigadrain/psychic/substitute
+volcarona|Champions OU Offensive Quiver Dance|Timid|12|0|0|252|0|252|31|Life Orb|Swarm|quiverdance,fierydance/fireblast,bugbuzz/gigadrain,gigadrain/psychic/substitute
+volcarona|Champions OU Bulky Quiver Dance|Bold|244|0|220|0|0|52|31|Leftovers|Flame Body|quiverdance,fierydance,bugbuzz/gigadrain,morningsun
+volcarona|Champions OU Bulky Quiver Dance|Bold|244|0|220|0|0|52|31|Grassy Seed|Flame Body|quiverdance,fierydance,bugbuzz/gigadrain,morningsun
+volcarona|Champions OU Bulky Quiver Dance|Bold|244|0|220|0|0|52|31|Sitrus Berry|Flame Body|quiverdance,fierydance,bugbuzz/gigadrain,morningsun
+volcarona|Champions VGC26-M-C Setup Sweeper|Modest|124|0|60|196|0|132|31|Grassy Seed|Flame Body|heatwave,gigadrain,quiverdance,protect
+volcarona|Champions VGC26-M-C Redirection Support|Timid|252|0|92|0|4|164|31|Rocky Helmet|Flame Body|ragepowder,overheat,strugglebug,protect/tailwind
+volcarona|Champions VGC26-M-C Redirection Support|Timid|252|0|92|0|4|164|31|Sitrus Berry|Flame Body|ragepowder,overheat,strugglebug,protect/tailwind
+volcarona|Champions VGC26-M-C Redirection Support|Timid|252|0|92|0|4|164|31|Charti Berry|Flame Body|ragepowder,overheat,strugglebug,protect/tailwind
+volcarona|Champions VGC26-M-C Redirection Support|Bold|252|0|92|0|4|164|31|Rocky Helmet|Flame Body|ragepowder,overheat,strugglebug,protect/tailwind
+volcarona|Champions VGC26-M-C Redirection Support|Bold|252|0|92|0|4|164|31|Sitrus Berry|Flame Body|ragepowder,overheat,strugglebug,protect/tailwind
+volcarona|Champions VGC26-M-C Redirection Support|Bold|252|0|92|0|4|164|31|Charti Berry|Flame Body|ragepowder,overheat,strugglebug,protect/tailwind
+volcarona|Champions VGC26-M-C Redirection Support|Timid|252|0|196|0|44|20|31|Rocky Helmet|Flame Body|ragepowder,overheat,strugglebug,protect/tailwind
+volcarona|Champions VGC26-M-C Redirection Support|Timid|252|0|196|0|44|20|31|Sitrus Berry|Flame Body|ragepowder,overheat,strugglebug,protect/tailwind
+volcarona|Champions VGC26-M-C Redirection Support|Timid|252|0|196|0|44|20|31|Charti Berry|Flame Body|ragepowder,overheat,strugglebug,protect/tailwind
+volcarona|Champions VGC26-M-C Redirection Support|Bold|252|0|196|0|44|20|31|Rocky Helmet|Flame Body|ragepowder,overheat,strugglebug,protect/tailwind
+volcarona|Champions VGC26-M-C Redirection Support|Bold|252|0|196|0|44|20|31|Sitrus Berry|Flame Body|ragepowder,overheat,strugglebug,protect/tailwind
+volcarona|Champions VGC26-M-C Redirection Support|Bold|252|0|196|0|44|20|31|Charti Berry|Flame Body|ragepowder,overheat,strugglebug,protect/tailwind
+whimsicott|Champions VGC26-M-A Tailwind Support|Timid|140|0|44|76|0|252|31|Focus Sash|Prankster|moonblast,encore,tailwind,protect
+whimsicott|Champions VGC26-M-A Tailwind Support|Timid|140|0|44|76|0|252|31|Fairy Feather|Prankster|moonblast,encore,tailwind,protect
+whimsicott|Champions VGC26-M-B Disruptive Support|Timid|0|0|12|252|0|252|31|Focus Sash|Prankster|moonblast,tailwind,encore,protect

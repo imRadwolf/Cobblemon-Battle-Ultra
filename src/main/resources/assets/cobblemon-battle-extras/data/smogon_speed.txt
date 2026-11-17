@@ -1,0 +1,1708 @@
+ivysaur|NFE Defensive|Bold|0|0|31||
+venusaur|OU Sun Sweeper|Timid|1|252|31||Chlorophyll
+venusaur|NU Sun Sweeper|Modest|0|252|31||Chlorophyll
+venusaur|PU Offensive|Timid|1|252|31||
+venusaur|PU Defensive|Bold|0|56|31||
+venusaur|ZU Defensive|Bold|0|88|31||
+venusaur|NatDex Tank|Modest|0|100|31||Chlorophyll
+venusaur|NatDex UU Tank|Modest|0|104|31||
+venusaur|NatDex Mono Physically Defensive (Grass)|Bold|0|16|31||Chlorophyll
+charmander|LC Sun Wallbreaker|Timid|1|236|31|Choice Scarf|
+charmeleon|NFE Sun Attacker|Timid|1|252|31|Choice Scarf|
+charmeleon|NFE Sun Attacker|Modest|0|252|31|Choice Scarf|
+charizard|PU Sun Wallbreaker|Timid|1|252|31||
+charizard|NatDex DOU Sun Attacker|Modest|0|252|31||
+wartortle|NFE Shell Smash|Modest|0|80|31||
+blastoise|UU Shell Smash|Modest|0|252|31||
+beedrill|NatDex UU Please Don't Use Mega Beedrill|Jolly|1|252|31||
+pidgeot|NatDex RU Offensive Pivot|Timid|1|252|31||
+ekans|LC Utility|Jolly|1|236|31||
+pikachu|NFE Offensive Pivot|Timid|1|252|31||
+raichualola|ZU Nasty Plot|Timid|1|252|31||
+sandshrew|LC Sand Sweeper|Adamant|0|196|31||Sand Rush
+sandshrewalola|LC Sweeper|Jolly|1|196|31||Slush Rush
+sandslash|PU Defensive Spinner|Impish|0|0|31||Sand Rush
+sandslash|ZU Swords Dance|Adamant|0|128|31||Sand Rush
+sandslashalola|PU Specially Defensive Spinner|Careful|0|52|31||Slush Rush
+sandslashalola|Mono Slush Rush Utility (Ice)|Jolly|1|252|31||Slush Rush
+nidoqueen|NatDex RU Offensive Utility|Timid|1|208|31||
+nidoqueen|NatDex RU Defensive Utility|Bold|0|88|31||
+nidoking|NatDex RU Offensive|Modest|0|252|31||
+nidoking|NatDex RU Offensive|Timid|1|252|31||
+clefairy|ZU Physical Wall|Impish|0|0|31||
+clefairy|VGC25 Redirection Support|Relaxed|-1|0|0||
+clefable|OU Utility|Bold|0|0|31||
+clefable|Mono Calm Mind|Bold|0|60|31||
+ninetales|OU Sun Setter|Timid|1|252|31||
+ninetales|Mono Choice Scarf|Timid|1|252|31|Choice Scarf|
+ninetalesalola|OU Aurora Veil|Timid|1|252|31||
+ninetalesalola|BSS Screens Setter|Timid|1|172|31||
+ninetalesalola|1v1 Sitrus Berry|Timid|1|104|31||
+ninetalesalola|1v1 Life Orb|Timid|1|144|31||
+ninetalesalola|Mono Scarf (Ice)|Timid|1|252|31|Choice Scarf|
+ninetalesalola|VGC25 Screens Setter|Timid|1|148|31||
+ninetalesalola|VGC24 Screen Setter|Timid|1|204|31||
+ninetalesalola|DOU Snow Setter|Timid|1|192|31||
+vileplume|PU Physically Defensive|Bold|0|0|31||
+venomoth|PU Quiver Dance|Timid|1|252|31||
+venomoth|PU Choice Specs|Modest|0|252|31||
+diglettalola|LC Life Orb|Jolly|1|196|31||
+dugtrioalola|ZU Lead|Jolly|1|252|31||
+meowth|LC Revenge Killer|Adamant|0|196|31||
+persianalola|PU Heavy-Duty Boots|Jolly|1|252|31||
+persianalola|PU Choice Scarf|Jolly|1|252|31|Choice Scarf|
+psyduck|LC Rain Wallbreaker|Modest|0|236|31||Swift Swim
+mankey|LC Choice Scarf|Jolly|1|196|31|Choice Scarf|
+primeape|ZU Offensive Stealth Rock|Jolly|1|252|31||
+primeape|ZU Bulk Up|Careful|0|16|31||
+growlithehisui|LC Choice Scarf|Adamant|0|236|31|Choice Scarf|
+growlithehisui|LC Eviolite|Jolly|1|236|31||
+growlithehisui|NFE Choice Band|Adamant|0|252|31||
+arcanine|PU Curse|Adamant|0|96|31||
+arcanine|PU Choice Band|Jolly|1|252|31||
+arcanine|BSS Defensive Utility|Impish|0|60|31||
+arcanine|BSS Offensive|Adamant|0|84|31||
+arcaninehisui|OU Choice Band|Jolly|1|252|31||
+arcaninehisui|1v1 Choice Scarf|Adamant|0|252|31|Choice Scarf|
+arcaninehisui|1v1 Choice Scarf|Jolly|1|252|31|Choice Scarf|
+arcaninehisui|1v1 Choice Band|Adamant|0|252|31||
+arcaninehisui|VGC24 Choice Band|Adamant|0|228|31||
+arcaninehisui|VGC23 Assault Vest|Adamant|0|28|31||
+arcaninehisui|VGC23 Choice Band|Adamant|0|180|31||
+poliwrath|PU Bulk Up|Careful|0|96|31||
+alakazam|NatDex UU Nasty Plot|Timid|1|252|31||
+weepinbell|NFE Utility|Bold|0|0|31||
+victreebel|ZU All-Out Attacker|Adamant|0|252|31||
+tentacool|LC Utility|Jolly|1|196|31||
+tentacruel|NU Defensive Pivot|Jolly|1|136|31||
+tentacruel|Mono Real Squid [Rapid Spin] (Poison)|Calm|0|136|31||
+tentacruel|Mono Rapid Spin (Water)|Calm|0|16|31||
+graveleralola|NFE All-Out Attacker|Adamant|0|168|31||
+golemalola|Mono Choice Band (Rock)|Adamant|0|252|31||
+slowbro|UU Calm Mind|Bold|0|0|31||
+slowbro|NatDex Defensive Pivot|Relaxed|-1|0|0||
+slowbrogalar|RU Calm Mind|Bold|0|0|31||
+slowbrogalar|NU Physical Wall|Bold|0|28|31||
+slowbrogalar|PU Physically Defensive|Relaxed|-1|0|31||
+magnemite|LC Trapper|Modest|0|236|31|Choice Scarf|
+magneton|PU Special Attacker|Timid|1|252|31||
+magneton|PU Special Attacker|Modest|0|252|31||
+magneton|PU Choice Scarf|Timid|1|252|31|Choice Scarf|
+magneton|ZU Offensive Pivot|Modest|0|84|31||
+doduo|LC Fast Attacker|Jolly|1|236|31||
+dodrio|ZU Swords Dance|Jolly|1|252|31||
+dewgong|Mono Pivot (Ice)|Careful|0|0|31||
+grimeralola|LC Wallbreaker|Adamant|0|0|31||
+muk|PU ToxTect|Impish|0|0|31||
+mukalola|RU RestTalk|Careful|0|0|31||
+mukalola|1v1 AV|Adamant|0|20|31||
+cloyster|RU Shell Smash Sweeper|Adamant|0|252|31||
+cloyster|BSS Shell Smash Sweeper|Jolly|1|252|31||
+cloyster|NatDex Mono Defensive Utility (Ice)|Bold|0|0|31||
+gastly|NFE Perish Trap|Bold|0|76|31||
+haunter|ZU Choiced|Timid|1|252|31|Choice Scarf|
+haunter|ZU Choiced|Timid|1|252|31||
+gengar|RU Nasty Plot|Timid|1|252|31||
+gengar|RU Choice Scarf|Timid|1|252|31|Choice Scarf|
+electrodehisui|PU Pivot|Timid|1|252|31||
+exeggutor|PU Choice Specs|Modest|0|252|31||
+exeggutoralola|PU Choice Specs|Modest|0|252|31||
+exeggutoralola|PU Choice Specs|Timid|1|252|31||
+exeggutoralola|ZU Offensive Trick Room|Quiet|-1|0|0||
+exeggutoralola|ZU Bulky Attacker|Modest|0|8|31||
+hitmonlee|PU Terrain Sweeper|Adamant|0|252|31||Unburden
+hitmonchan|ZU Bulky Rapid Spin|Adamant|0|0|31||
+koffing|LC Tank|Modest|0|76|31||
+koffing|NFE Defensive|Bold|0|0|31||
+weezing|NU Physical Wall|Bold|0|44|31||
+weezing|ZU Physical Wall|Bold|0|4|31||
+weezing|Mono Physically Defensive (Poison)|Bold|0|0|31||
+weezinggalar|OU Utility|Bold|0|0|31||
+weezinggalar|Mono Physically Defensive (Poison)|Bold|0|12|31||
+weezinggalar|VGC25 Bulky Support|Calm|0|44|31||
+rhyhorn|LC Setup Sweeper|Adamant|0|156|31||
+rhydon|PU Stealth Rock|Adamant|0|0|31||
+rhydon|PU Offensive Swords Dance|Jolly|1|252|31||
+chansey|NU Defensive|Bold|0|0|31||
+chansey|NatDex Ubers Special Wall|Sassy|-1|0|0||
+kangaskhan|NatDex DOU Seismic Toss|Adamant|0|252|31||
+kangaskhan|NatDex DOU Setup Attacker|Jolly|1|252|31||
+seadra|NFE Defensive Pivot|Bold|0|16|31||
+starmie|NatDex RU Offensive|Timid|1|252|31||
+scyther|NU Swords Dance|Jolly|1|252|31||
+electabuzz|VGC25 Support|Calm|0|28|31||
+electabuzz|VGC24 Trick Room Support|Bold|0|0|31||
+magmar|VGC25 Bulky Redirector|Calm|0|0|31||
+pinsir|NatDex Mono Swords Dance (Bug)|Jolly|1|252|31||
+tauros|PU All-Out-Attacker|Jolly|1|252|31||
+taurospaldeablaze|NU Bulk Up|Jolly|1|252|31||
+taurospaldeablaze|NU Choice Item|Jolly|1|252|31|Choice Scarf|
+taurospaldeablaze|BSS FIREFIGHTER (Defensive)|Impish|0|0|31||
+taurospaldeablaze|BSS Assault Vest|Adamant|0|140|31||
+taurospaldeaaqua|NU Choice Item|Jolly|1|252|31||
+taurospaldeaaqua|NU Choice Item|Jolly|1|252|31|Choice Scarf|
+taurospaldeaaqua|BSS Choice Band|Adamant|0|252|31||
+gyarados|UU Dragon Dance|Adamant|0|252|31||
+gyarados|NatDex Dragon Dance|Jolly|1|252|31||
+gyarados|BSS Rocky Helmet|Impish|0|52|31||
+gyarados|Mono Physically Defensive (Flying)|Impish|0|24|31||
+gyarados|Mono Physically Defensive (Water)|Impish|0|8|31||
+gyarados|VGC23 Bulky Pivot|Careful|0|44|31||
+lapras|ZU Special Tank|Modest|0|60|31||
+lapras|ZU Dragon Dance|Jolly|1|252|31||
+ditto|OU Choice Scarf|Quiet|-1|0|0|Choice Scarf|
+ditto|NatDex Mono Scarf Imposter|Impish|0|0|31|Choice Scarf|
+ditto|VGC25 Focus Sash|Relaxed|-1|0|0||
+vaporeon|RU Defensive|Bold|0|0|31||
+jolteon|OU Calm Mind|Timid|1|252|31||
+porygon|NFE Trick Room|Modest|0|0|31||
+omastar|NatDex Mono Lord Helix (Shell Smash Swee|Timid|1|252|31||
+aerodactyl|NatDex UU Offensive|Adamant|0|252|31||
+aerodactyl|NatDex UU Offensive|Jolly|1|252|31||
+aerodactyl|NatDex Mono Offensive Utility (Flying)|Jolly|1|212|31||
+snorlax|NU CurseLax|Careful|0|0|31||
+articuno|PU Wall|Calm|0|0|31||
+articuno|Mono Specially Defensive (Flying)|Calm|0|52|31||
+articuno|VGC24 Choice Specs|Modest|0|12|31||
+zapdos|OU Defensive|Bold|0|0|31||
+zapdos|OU Offensive|Timid|1|252|31||
+zapdos|NatDex Defensive|Bold|0|72|31||
+zapdos|BSS Choice Scarf|Timid|1|252|31|Choice Scarf|
+zapdos|BSS Choice Scarf|Modest|0|252|31|Choice Scarf|
+zapdos|1v1 Clear Amulet|Timid|1|176|31||
+zapdos|1v1 Life Orb|Modest|0|24|31||
+zapdos|Mono Thunder Wave (Flying)|Bold|0|96|31||
+zapdosgalar|UU Pivot|Jolly|1|252|31|Choice Scarf|
+zapdosgalar|1v1 Choice Band|Jolly|1|252|31||
+zapdosgalar|1v1 Choice Band|Adamant|0|252|31||
+zapdosgalar|VGC24 Choice Scarf|Adamant|0|236|31|Choice Scarf|
+moltres|OU Defensive|Bold|0|12|31||
+moltres|NatDex Defensive|Bold|0|0|31||
+moltresgalar|OU Nasty Plot|Modest|0|252|31||
+moltresgalar|1v1 Weakness Policy|Calm|0|0|31||
+moltresgalar|NatDex Mono Nasty Plot (Flying)|Modest|0|188|31||
+moltresgalar|VGC24 Black Glasses|Calm|0|76|31||
+moltresgalar|VGC24 Bulky Spread Attacker|Modest|0|20|31||
+moltresgalar|DOU Nasty Plot|Modest|0|64|31||
+dragonair|NFE Dragon Dance|Adamant|0|252|31||
+dragonite|OU Dragon Dance|Adamant|0|252|31||
+dragonite|OU Dragon Dance|Jolly|1|252|31||
+dragonite|OU Bulky Phazer (3 Attacks + Roost)|Adamant|0|16|31||
+dragonite|BSS Choice Band|Adamant|0|4|31||
+dragonite|BSS Extreme Killernite|Jolly|1|4|31||
+dragonite|BSS Paraflinch|Bold|0|52|31||
+dragonite|BSS Defensive Dragon Dance|Impish|0|76|31||
+dragonite|BSS Defensive Dragon Dance|Jolly|1|76|31||
+mewtwo|Ubers Nasty Plot|Timid|1|252|31||
+mewtwo|NatDex Ubers Mega Y Wallbreaker|Timid|1|216|31||
+mew|UU Suicide Lead|Timid|1|160|31||
+mew|RU Spikes Setter|Bold|0|16|31||
+mew|RU Nasty Plot|Timid|1|252|31||
+mew|NatDex UU Utility|Bold|0|88|31||
+quilava|NFE Wallbreaker|Modest|0|252|31||
+typhlosion|ZU Choice Specs|Timid|1|252|31||
+typhlosion|ZU Choice Scarf|Timid|1|252|31|Choice Scarf|
+typhlosionhisui|NU All-out Attacker|Timid|1|252|31||
+typhlosionhisui|NU Choice Scarf|Timid|1|252|31|Choice Scarf|
+typhlosionhisui|VGC25 Glass Cannon|Modest|0|252|31||
+typhlosionhisui|VGC25 Glass Cannon|Modest|0|252|31|Choice Scarf|
+croconaw|NFE Dragon Dance|Adamant|0|232|31||
+feraligatr|RU Setup Sweeper|Jolly|1|252|31||
+feraligatr|RU Setup Sweeper|Adamant|0|252|31||
+crobat|NatDex RU Utility|Jolly|1|216|31||
+crobat|NatDex Mono Utility (Poison)|Jolly|1|200|31||
+chinchou|LC Pivot|Timid|1|220|31||
+chinchou|NFE Offensive Pivot|Modest|0|160|31||
+lanturn|PU RestTalk|Calm|0|40|31||
+azumarill|UU Belly Drum|Adamant|0|252|31||
+azumarill|BSS Offensive|Adamant|0|4|31||
+azumarill|BSS Belly Drum|Adamant|0|12|31||
+azumarill|1v1 Assault Vest|Careful|0|0|31||
+azumarill|Mono Choice Band (Fairy)|Adamant|0|140|31||
+azumarill|NatDex Mono Z-Belly Drum (Fairy)|Jolly|1|252|31||
+politoed|UU Rain Setter|Calm|0|100|31||
+politoed|RU Perish Trapper|Timid|1|176|31||
+politoed|NatDex DOU Rain Setter|Bold|0|0|31||
+jumpluff|VGC25 Sun Support|Timid|1|220|31||
+aipom|LC Fast Attacker|Jolly|1|236|31||
+wooperpaldea|NFE Defensive Spikes|Impish|0|0|31||
+quagsire|OU Defensive|Bold|0|0|31||
+espeon|RU Choice Specs|Timid|1|252|31||
+espeon|RU Choice Scarf|Timid|1|252|31|Choice Scarf|
+espeon|NU Magic Bounce Support|Timid|1|176|31||
+umbreon|OU Defensive|Calm|0|0|31||
+murkrow|NFE Nasty Plot|Timid|1|252|31||
+slowking|OU Defensive Pivot|Relaxed|-1|0|0||
+slowking|Mono Bulky Pivot (Psychic)|Bold|0|0|31||
+slowkinggalar|OU Specially Defensive Pivot|Sassy|-1|0|0||
+slowkinggalar|OU Assault Vest|Modest|0|0|31||
+slowkinggalar|BSS AV Tank|Calm|0|4|31||
+slowkinggalar|BSS AV Tank|Sassy|-1|4|31||
+slowkinggalar|Mono Specially Defensive (Poison)|Sassy|-1|0|31||
+girafarig|NFE Choice Specs|Timid|1|252|31||
+forretress|RU Support|Relaxed|-1|0|31||
+forretress|Mono Hazard Support (Bug)|Relaxed|-1|0|0||
+dunsparce|NFE Calm Mind|Bold|0|0|31||
+dunsparce|NFE Coil|Careful|0|36|31||
+gligar|UU Physically Defensive|Impish|0|0|31||
+gligar|RU Utility|Impish|0|16|31||
+gligar|NU Physical Wall|Impish|0|56|31||
+steelix|NatDex RU Tank|Sassy|-1|0|0||
+steelix|NatDex Mono Curse (Ground)|Impish|0|0|31||
+snubbull|LC Physically Defensive|Adamant|0|36|31||
+qwilfish|PU Physical Defensive|Impish|0|16|31||
+qwilfish|PU Swords Dance|Jolly|1|252|31||
+qwilfishhisui|PU Specially Defensive|Careful|0|16|31||
+qwilfishhisui|PU Swords Dance|Jolly|1|252|31||
+scizor|OU Choice Band|Adamant|0|136|31||
+scizor|OU Utility|Adamant|0|0|31||
+scizor|UU Offensive Swords Dance|Adamant|0|252|31||
+scizor|NatDex Bulky Swords Dance|Impish|0|20|31||
+scizor|NatDex UU Bulky Swords Dance|Adamant|0|12|31||
+scizor|BSS Swords Dance|Adamant|0|4|31||
+scizor|1v1 Life Orb|Adamant|0|44|31||
+scizor|Mono Swords Dance Scizor (Bug)|Adamant|0|200|31||
+scizormega|NatDex DOU Priority Attacker|Adamant|0|68|31||
+shuckle|NatDex Ubers Suicide Lead|Bold|0|0|31||
+heracross|NU Bulk Up|Jolly|1|252|31||
+heracross|PU Choice Scarf|Jolly|1|252|31|Choice Scarf|
+heracross|NatDex UU Swords Dance|Adamant|0|252|31||
+sneasel|PU Swords Dance|Jolly|1|252|31||
+sneaselhisui|PU Swords Dance|Jolly|1|252|31||
+sneaselhisui|ZU Choice Item|Jolly|1|252|31|Choice Scarf|
+ursaring|ZU Wallbreaker|Jolly|1|252|31||
+piloswine|ZU Stealth Rock|Adamant|0|0|31||
+piloswine|NFE Choice Band|Adamant|0|124|31||
+corsolagalar|NatDex Mono Defensive|Calm|0|0|31||
+mantine|NatDex Mono Water Absorb (Flying)|Bold|0|96|31||
+skarmory|OU Defensive|Bold|0|96|31||
+skarmory|Ubers Defensive|Bold|0|0|31||
+skarmory|UU Mixed Defense|Impish|0|64|31||
+houndoom|ZU Wallbreaker|Timid|1|252|31||
+kingdra|RU Rain Sweeper|Modest|0|252|31||
+kingdra|NU Rain Sweeper|Timid|1|252|31||
+donphan|UU Defensive|Impish|0|0|31||
+donphan|1v1 Choice Band|Adamant|0|252|31||
+porygon2|NU Special Wall|Calm|0|0|31||
+porygon2|PU Offensive Trick Room|Quiet|-1|0|0||
+porygon2|BSS Immortal Duck|Calm|0|12|31||
+stantler|NFE Choice Item|Jolly|1|252|31|Choice Scarf|
+stantler|NFE Choice Item|Jolly|1|252|31||
+smeargle|NU Lead|Jolly|1|252|31||
+smeargle|VGC25 Disruptive Support|Jolly|1|252|0||
+smeargle|VGC25 Disruptive Support|Relaxed|-1|252|0||
+smeargle|VGC24 Support|Relaxed|-1|252|31||
+hitmontop|ZU Rapid Spin|Adamant|0|176|31||
+elekid|LC Offensive Pivot|Timid|1|236|31||
+blissey|OU Defensive|Calm|0|0|31||
+raikou|RU Offensive Pivot|Timid|1|252|31||
+entei|RU All-Out Attacker|Jolly|1|252|31||
+entei|BSS Bulky Attacker|Adamant|0|20|31||
+entei|BSS Choice Band|Adamant|0|140|31||
+entei|BSS Choice Band|Jolly|1|140|31||
+entei|BSS Offensive|Adamant|0|252|31||
+entei|VGC24 Bulky Attacker|Adamant|0|4|31||
+suicune|RU Substitute + Calm Mind|Timid|1|252|31||
+suicune|NatDex RU Calm Mind|Timid|1|136|31||
+suicune|BSS Defensive|Bold|0|4|31||
+suicune|BSS Rest|Timid|1|4|31||
+suicune|Mono Calm Mind|Bold|0|216|31||
+suicune|VGC24 Bulky Support|Calm|0|84|31||
+tyranitar|OU Choice Band|Adamant|0|252|31||
+tyranitar|OU Defensive|Sassy|-1|0|31||
+tyranitar|UU Specially Defensive|Careful|0|44|31||
+tyranitar|NatDex Offensive Utility|Adamant|0|164|31||
+tyranitar|NatDex UU Choice Band|Jolly|1|252|31||
+tyranitar|BSS Assault Vest|Adamant|0|4|31||
+tyranitar|1v1 Choice Band|Adamant|0|196|31||
+tyranitar|Mono Sand Setter (Rock)|Careful|0|0|31||
+tyranitarmega|NatDex DOU Sand Setter|Adamant|0|176|31||
+hooh|Ubers Physically Defensive|Impish|0|0|31||
+hooh|Ubers Offensive|Jolly|1|252|31||
+hooh|Ubers Offensive|Adamant|0|252|31||
+hooh|Ubers Choice Scarf|Jolly|1|252|31|Choice Scarf|
+hooh|NatDex Ubers Offensive|Adamant|0|8|31||
+hooh|BSS Bulky Offense|Adamant|0|4|31||
+hooh|AG Offensive|Adamant|0|44|31||
+hooh|VGC25 Bulky Utility|Adamant|0|68|31||
+celebi|NatDex Mono Nasty Plot (Grass)|Timid|1|252|31||
+celebi|NatDex Mono Bulky Sweeper (Psychic)|Calm|0|108|31||
+grovyle|NFE Grassy Terrain|Adamant|0|64|31||Unburden
+sceptile|NU Terrain Sweeper|Adamant|0|120|31||Unburden
+sceptile|PU Terrain Sweeper|Adamant|0|0|31||Unburden
+sceptile|ZU Choice Specs|Timid|1|252|31||
+blaziken|OU Swords Dance|Adamant|0|252|31||Speed Boost
+blaziken|OU Swords Dance|Jolly|1|252|31||Speed Boost
+marshtomp|NFE Offensive Stealth Rock|Adamant|0|4|31||
+marshtomp|NFE Defensive|Careful|0|0|31||
+swampert|RU Defensive Utility|Impish|0|0|31||
+swampert|NatDex Rain Sweeper|Jolly|1|252|31||
+swampert|NatDex UU Defensive Pivot|Relaxed|-1|0|0||
+swampert|BSS Support Pivot|Relaxed|-1|0|31||
+swampert|NatDex Mono Rain Sweeper (Water)|Adamant|0|252|31||
+ludicolo|RU Rain Sweeper|Modest|0|252|31||
+shiftry|RU Chlorophyll Sweeper|Hasty|1|252|31||
+wingull|LC Offensive|Timid|1|236|31||
+pelipper|OU Rain Setter|Relaxed|-1|0|0||
+pelipper|BSS Bulky Drizzle|Modest|0|4|31||
+pelipper|BSS Fast Drizzle|Modest|0|252|31||
+pelipper|BSS Fast Drizzle|Timid|1|252|31||
+pelipper|Mono Rain Setter (Water)|Bold|0|0|31||
+pelipper|Mono Choice Specs (Water)|Timid|1|212|31||
+pelipper|NatDex Mono Rain Setter (Water)|Relaxed|-1|0|9||
+pelipper|VGC24 Bulky Support|Modest|0|20|31||
+gardevoir|UU Choice Scarf|Modest|0|252|31|Choice Scarf|
+gardevoir|RU Choice Scarf|Timid|1|252|31|Choice Scarf|
+gardevoir|NatDex Offensive|Timid|1|252|31||
+gardevoir|BSS Bulky Offense|Bold|0|20|31||
+gardevoir|BSS Offensive|Modest|0|180|31||
+gardevoir|BSS Choice|Modest|0|252|31||
+gardevoir|NatDex DOU Special Attacker|Modest|0|44|31||
+breloom|RU Poison Heal|Adamant|0|176|31||
+breloom|NatDex RU Swords Dance|Adamant|0|252|31||
+breloom|BSS Offensive|Jolly|1|252|31||
+breloom|BSS SubSeed|Impish|0|4|31||
+breloom|BSS SubSeed|Jolly|1|4|31||
+shedinja|NatDex Mono Dual Status (Ghost)|Lonely|0|252|31||
+hariyama|NU Bulk Up|Adamant|0|124|31||
+hariyama|NU Assault Vest Wallbreaker|Adamant|0|180|31||
+hariyama|PU Bulk Up|Adamant|0|44|31||
+hariyama|BSS Assault Vest|Adamant|0|4|31||
+azurill|LC Belly Drum|Adamant|0|116|31||
+sableye|ZU Physical Wall|Impish|0|0|31||
+sableye|NatDex Defensive|Relaxed|-1|0|31||
+mawile|NatDex Swords Dance|Adamant|0|140|31||
+mawile|NatDex All-Out Attacker|Adamant|0|204|31||
+aggron|NatDex RU Tank|Careful|0|0|31||
+meditite|NFE Choice Item|Adamant|0|252|31||
+meditite|NFE Choice Item|Adamant|0|252|31|Choice Scarf|
+meditite|NFE Choice Item|Jolly|1|252|31||
+meditite|NFE Choice Item|Jolly|1|252|31|Choice Scarf|
+medicham|ZU Choice Scarf|Jolly|1|252|31|Choice Scarf|
+medicham|ZU Choice Band|Jolly|1|252|31||
+manectric|NatDex RU Offensive Pivot|Timid|1|252|31||
+swalot|ZU Physically Defensive|Bold|0|0|31||
+sharpedo|NatDex RU Offensive|Adamant|0|252|31||Speed Boost
+sharpedo|NatDex Mono Physical Attacker (Water)|Jolly|1|252|31||Speed Boost
+numel|LC Special Attacker|Modest|0|236|31||
+numel|LC Stockpile + Body Press|Impish|0|0|31||
+camerupt|ZU Specially Defensive|Calm|0|0|31||
+cameruptmega|NatDex DOU Trick Room Attacker|Quiet|-1|0|0||
+torkoal|OU Sun Setter|Bold|0|0|31||
+torkoal|BSS Sun Support|Sassy|-1|0|0||
+trapinch|Mono Trapper|Adamant|0|0|31||
+trapinch|LC Trapper|Impish|0|36|31||
+flygon|RU Offensive Stealth Rock|Jolly|1|252|31||
+flygon|RU Choice Scarf|Jolly|1|252|31|Choice Scarf|
+flygon|NatDex UU Defensive Utility|Careful|0|20|31||
+altaria|NU Utility|Impish|0|16|31||
+altaria|NatDex Mono Offensive Dragon Dance (Drag|Jolly|1|252|31||
+zangoose|ZU Wallbreaker|Jolly|1|252|31||
+whiscash|ZU Entry Hazard Setter|Sassy|-1|0|31||
+corphish|LC Dragon Dance|Jolly|1|236|31||
+crawdaunt|UU Choice Band|Adamant|0|252|31||
+milotic|PU Physically Defensive|Bold|0|8|31||
+milotic|NatDex RU Defensive|Bold|0|0|31||
+milotic|Mono Bulky Pivot|Sassy|-1|0|31||
+absol|NatDex RU Offensive|Jolly|1|252|31||
+salamence|UU Offensive|Timid|1|252|31||
+salamence|NatDex Ubers Dragon Dance|Adamant|0|252|31||
+salamence|NatDex UU Offensive Utility|Modest|0|136|31||
+salamence|BSS Specsmence Returns|Timid|1|252|31|Choice Scarf|
+salamence|1v1 Life Orb|Adamant|0|196|31||
+salamence|NatDex DOU Physical Attacker|Adamant|0|104|31||
+salamence|NatDex DOU Physical Attacker|Jolly|1|104|31||
+metagross|UU Choice Band|Adamant|0|252|31||
+metagross|UU Choice Scarf|Jolly|1|252|31|Choice Scarf|
+metagross|UU Bulky Attacker|Adamant|0|96|31||
+metagross|NatDex RU Utility|Adamant|0|180|31||
+metagross|BSS Bulky Offense|Adamant|0|0|31||
+metagross|1v1 Choice Scarf|Adamant|0|232|31|Choice Scarf|
+metagross|VGC24 Bulky Attacker|Adamant|0|44|31||
+regirock|PU Stealth Rock|Impish|0|0|31||
+registeel|RU Stealth Rock|Impish|0|0|31||
+registeel|VGC24 IronPress|Impish|0|4|31||
+latias|OU Calm Mind|Timid|1|252|31||
+latias|NatDex RU Choice Scarf|Timid|1|252|31|Choice Scarf|
+latias|BSS Calm Mind|Bold|0|252|31||
+latias|VGC24 Bulky Tailwind Setter|Timid|1|188|31||
+latios|OU Soul Dew|Timid|1|252|31||
+latios|OU Choice Scarf|Timid|1|252|31|Choice Scarf|
+latios|BSS Bulky Stall Breaker|Timid|1|180|31||
+kyogre|Ubers Defensive|Bold|0|16|31||
+kyogre|Ubers Choice Scarf|Timid|1|252|31|Choice Scarf|
+kyogre|Ubers Choice Specs|Modest|0|252|31||
+kyogre|Ubers Sitrus Berry|Modest|0|88|31||
+kyogre|Ubers Bulky Choice Specs|Modest|0|44|31||
+kyogre|NatDex Ubers Wallbreaker|Timid|1|252|31||
+kyogre|NatDex Ubers Defensive|Bold|0|0|31||
+kyogre|BSS Defensive|Bold|0|6|31||
+groudon|Ubers Defensive|Impish|0|16|31||
+groudon|Ubers Swords Dance|Adamant|0|252|31||
+groudon|Ubers Swords Dance|Jolly|1|252|31||
+groudon|NatDex Ubers Defensive|Relaxed|-1|0|31||
+groudon|NatDex Ubers Defensive|Impish|0|0|31||
+groudon|NatDex Ubers Double Dance|Adamant|0|116|31||
+groudon|NatDex Ubers Offensive Support|Mild|0|160|31||
+groudon|AG Defensive|Impish|0|12|31||
+rayquaza|Ubers Dragon Dance|Jolly|1|252|31||
+rayquaza|Ubers Dragon Dance|Adamant|0|252|31||
+rayquaza|NatDex Ubers Choice Band|Jolly|1|216|31||
+jirachi|UU Specially Defensive|Careful|0|96|31||
+jirachi|UU Stealth Rock|Jolly|1|252|31||
+jirachi|RU Offensive Calm Mind|Timid|1|224|31||
+jirachi|RU Choice Scarf|Jolly|1|252|31|Choice Scarf|
+jirachi|NatDex UU Specially Defensive|Careful|0|16|31||
+jirachi|NatDex Mono Specially Defensive (Psychic|Careful|0|124|31||
+jirachi|NatDex DOU Follow Me Support|Careful|0|0|31||
+deoxysattack|Ubers Mixed Attacker|Naive|1|252|31||
+deoxysdefense|RU Utility|Impish|0|16|31||
+deoxysdefense|Mono Stallbreaker (Psychic)|Bold|0|176|31||
+deoxysdefense|Mono Physically Defensive|Bold|0|0|31||
+deoxysspeed|OU Mixed Attacker|Naive|1|56|31||
+deoxysspeed|OU Nasty Plot|Modest|0|252|31||
+deoxysspeed|OU Hazard Lead|Timid|1|252|31||
+deoxysspeed|Ubers Lead|Timid|1|16|31||
+deoxysspeed|Mono Entry Hazard Support|Timid|1|236|31||
+torterra|RU Shell Smash|Jolly|1|252|31||
+torterra|Mono Shell Smash (Grass)|Adamant|0|252|31||
+monferno|NFE Swords Dance|Jolly|1|252|31||
+monferno|NFE Choiced|Jolly|1|252|31|Choice Scarf|
+infernape|RU Nasty Plot|Timid|1|252|31||
+infernape|RU Choice Scarf|Jolly|1|252|31|Choice Scarf|
+empoleon|RU Offensive|Modest|0|216|31||
+empoleon|RU Specially Defensive|Calm|0|0|31||
+empoleon|NatDex RU Utility|Sassy|-1|0|31||
+empoleon|BSS Assault Vest|Modest|0|4|31||
+staraptor|NU Choice Attacker|Jolly|1|252|31||
+staraptor|NU Choice Attacker|Jolly|1|252|31|Choice Scarf|
+staraptor|NatDex RU Choice Band|Adamant|0|252|31||
+staraptor|NatDex Mono Physically Defensive (Normal|Impish|0|56|31||
+roserade|NatDex RU Offensive|Timid|1|252|31||
+roserade|NatDex RU Defensive|Bold|0|136|31||
+cranidos|LC Choice Scarf|Jolly|1|212|31|Choice Scarf|
+cranidos|NFE All-Out Attacker|Adamant|0|252|31||
+bastiodon|NU Special Wall|Careful|0|0|31||
+buizel|LC Rain Wallbreaker|Jolly|1|236|31||
+floatzel|PU Choice Band|Jolly|1|252|31||
+floatzel|BSS Swift Weasel|Adamant|0|196|31||
+shellos|LC Defensive|Bold|0|4|31||
+gastrodon|UU Mixed Defense|Calm|0|0|31||
+gastrodon|RU Defensive|Relaxed|-1|0|31||
+ambipom|NU Pivot|Jolly|1|252|31||
+drifloon|LC Setup Sweeper|Timid|1|196|31||Unburden
+drifblim|ZU Defog|Timid|1|252|31||
+drifblim|ZU Defog|Bold|0|252|31||
+lopunny|NatDex Offensive|Jolly|1|252|31||
+mismagius|PU Nasty Plot|Timid|1|252|31||
+mismagius|ZU Choice Item|Timid|1|252|31|Choice Scarf|
+honchkrow|ZU All-Out Attacker|Jolly|1|252|31||
+stunky|LC Physical Attacker|Jolly|1|244|31||
+stunky|NFE Offensive Utility|Jolly|1|252|31||
+skuntank|PU Utility|Jolly|1|252|31||
+skuntank|PU Utility|Adamant|0|252|31||
+skuntank|ZU Choice Scarf|Jolly|1|252|31|Choice Scarf|
+skuntank|Mono Specially Defensive (Poison)|Careful|0|0|31||
+bronzor|LC Defensive|Bold|0|12|31||
+bronzong|RU Stealth Rock|Calm|0|0|31||
+bronzong|NU Utility|Sassy|-1|0|31||
+bronzong|NU Bulky Setup Sweeper|Calm|0|60|31||
+spiritomb|PU Trick Room Sweeper|Quiet|-1|0|0||
+spiritomb|ZU Physical Wall|Bold|0|0|31||
+gible|LC Setup Sweeper|Jolly|1|180|31||
+gabite|NFE Swords Dance|Adamant|0|252|31||
+gabite|NFE Swords Dance|Jolly|1|252|31||
+gabite|NFE Defensive|Impish|0|0|31||
+garchomp|OU TankChomp|Impish|0|40|31||
+garchomp|OU Swords Dance|Jolly|1|252|31||
+garchomp|NatDex TankChomp|Careful|0|56|31||
+garchomp|BSS Entry Hazard Setter|Impish|0|12|31||
+garchomp|BSS Entry Hazard Setter|Jolly|1|12|31||
+garchomp|BSS All-Out Attacker|Jolly|1|252|31|Choice Scarf|
+garchomp|1v1 Choice Band|Adamant|0|180|31||
+garchomp|1v1 Haban Berry|Jolly|1|40|31||
+lucario|RU Swords Dance|Jolly|1|252|31||
+lucario|BSS Extreme Speed|Adamant|0|252|31||
+hippopotas|ZU Sand Setter|Impish|0|0|31||
+hippowdon|UU Tank|Impish|0|0|31||
+croagunk|LC Bulky Attacker|Adamant|0|116|31||
+toxicroak|NU Swords Dance|Jolly|1|252|31||
+toxicroak|NU Swords Dance|Adamant|0|252|31||
+toxicroak|ZU Choice Scarf|Jolly|1|252|31|Choice Scarf|
+snover|LC Snow Setter|Hasty|1|196|31||
+abomasnow|PU Aurora Veil|Timid|1|252|31||
+abomasnow|ZU Aurora Veil|Modest|0|0|31||
+abomasnow|Mono Sailor Snow (Aurora Veil Support) (|Relaxed|-1|0|31||
+abomasnow|Mono Hail Setter (Ice)|Modest|0|216|31||
+weavile|OU Boots Attacker|Jolly|1|252|31||
+weavile|NatDex Mono Choice Scarf (Ice)|Jolly|1|252|31|Choice Scarf|
+magnezone|RU Choice Specs|Modest|0|252|31||
+magnezone|RU Assault Vest|Modest|0|84|31||
+magnezone|NatDex UU Choice Specs|Timid|1|252|31||
+magnezone|BSS Pivot|Modest|0|4|31||
+magnezone|Mono Assault Vest (Electric)|Modest|0|176|31||
+magnezone|NatDex Mono Air Balloon (Electric)|Modest|0|88|31||
+rhyperior|UU Offensive|Adamant|0|56|31||
+rhyperior|RU Stealth Rock|Adamant|0|0|31||
+rhyperior|NU Swords Dance|Adamant|0|252|31||
+rhyperior|NU All-out Attacker|Adamant|0|204|31||
+rhyperior|NatDex RU Tank|Adamant|0|84|31||
+rhyperior|NatDex RU Choice Band|Adamant|0|164|31||
+tangrowth|NatDex Physically Defensive|Relaxed|-1|0|31||
+magmortar|ZU All-out Attacker|Timid|1|252|31||
+yanmega|RU Speed Boost Sweeper|Modest|0|252|31||
+yanmega|RU Tinted Lens Wallbreaker|Timid|1|252|31||
+gliscor|OU Swords Dance|Careful|0|0|31||
+gliscor|BSS Glis|Jolly|1|0|31||
+gliscor|NatDex Mono Stallbreaker (Flying)|Jolly|1|8|31||
+mamoswine|OU Offensive|Adamant|0|252|31||
+mamoswine|OU Offensive|Jolly|1|252|31||
+mamoswine|Mono Choice Scarf (Ice)|Jolly|1|252|31|Choice Scarf|
+mamoswine|Mono Entry Hazard Support (Ice)|Adamant|0|16|31||
+mamoswine|Mono Assault Vest (Ground)|Adamant|0|140|31||
+porygonz|RU Agility|Modest|0|252|31||
+porygonz|1v1 Choice Specs|Modest|0|136|31||
+porygonz|1v1 Choice Scarf|Timid|1|252|31|Choice Scarf|
+porygonz|1v1 Choice Scarf|Modest|0|252|31|Choice Scarf|
+porygonz|NatDex Mono Z-Conversion Sweeper|Timid|1|252|31||
+gallade|RU Setup Sweeper|Jolly|1|252|31||
+gallade|RU Choice Scarf|Jolly|1|252|31|Choice Scarf|
+gallade|BSS All-out Attacker|Adamant|0|116|31||
+gallade|BSS Choice Scarf|Adamant|0|252|31|Choice Scarf|
+gallade|Mono Assault Vest (Fighting)|Adamant|0|96|31||
+gallade|VGC25 Offensive Trick Room Sweeper|Brave|-1|0|0||
+probopass|ZU Sand Attacker|Modest|0|88|31||
+dusknoir|ZU Bulky Attacker|Adamant|0|0|31||
+froslass|RU Lead|Jolly|1|252|31||
+froslass|ZU Utility|Timid|1|56|31||
+rotom|ZU Choice Scarf|Timid|1|252|31|Choice Scarf|
+rotom|ZU Nasty Plot|Timid|1|252|31||
+rotomheat|RU Nasty Plot|Timid|1|252|31||
+rotomheat|NatDex RU Offensive Pivot|Timid|1|212|31||
+rotomheat|BSS Choice Attacker|Timid|1|252|31|Choice Scarf|
+rotomheat|BSS Defensive Pivot|Bold|0|0|31||
+rotomwash|OU Defensive Pivot|Bold|0|44|31||
+rotomwash|UU Physically Defensive|Bold|0|0|31||
+rotomwash|NatDex Choice Scarf|Timid|1|252|31|Choice Scarf|
+rotomwash|NatDex UU Defensive Pivot|Bold|0|56|31||
+rotomwash|NatDex UU Choice Scarf|Timid|1|236|31|Choice Scarf|
+rotomwash|BSS Offensive|Modest|0|0|31|Choice Scarf|
+rotomwash|BSS Offensive|Timid|1|0|31||
+rotomwash|BSS Offensive|Timid|1|0|31|Choice Scarf|
+rotomfrost|ZU Nasty Plot|Timid|1|252|31||
+rotomfrost|ZU Choice Scarf|Timid|1|252|31|Choice Scarf|
+rotommow|RU Choice Scarf|Timid|1|252|31|Choice Scarf|
+rotommow|RU Nasty Plot|Timid|1|252|31||
+uxie|NU Nasty Plot|Timid|1|252|31||
+uxie|NU Utility|Timid|1|216|31||
+mesprit|PU Utility|Bold|0|0|31||
+mesprit|PU Nasty Plot|Timid|1|252|31||
+mesprit|ZU Choice Scarf|Timid|1|252|31|Choice Scarf|
+mesprit|ZU Specially Defensive Pivot|Sassy|-1|0|31||
+azelf|RU Lead|Naive|1|252|31||
+dialga|Ubers Choiced|Timid|1|252|31|Choice Scarf|
+dialga|Ubers Choiced|Timid|1|252|31||
+dialga|Ubers Choiced|Modest|0|252|31|Choice Scarf|
+dialga|Ubers Choiced|Modest|0|252|31||
+dialgaorigin|Ubers Stealth Rock Setter|Timid|1|252|31||
+palkia|Ubers Substitute|Timid|1|252|31||
+palkiaorigin|Ubers Wallbreaker|Timid|1|252|31||
+palkiaorigin|NatDex Ubers Wallbreaker|Modest|0|252|31||
+heatran|OU Offensive|Timid|1|252|31||
+heatran|OU Offensive|Modest|0|252|31||
+heatran|OU Specially Defensive|Calm|0|40|31||
+heatran|UU Physically Defensive|Bold|0|44|31||
+heatran|BSS Specially Defensive|Calm|0|4|31||
+heatran|Mono Choice Scarf (Steel)|Timid|1|252|31|Choice Scarf|
+heatran|Mono Bulky Heatran (Steel)|Calm|0|120|31||
+heatran|Mono Special Defensive Wall (Fire)|Sassy|-1|28|31||
+giratina|Ubers Defog|Impish|0|0|31||
+giratinaorigin|Ubers Physical Utility|Adamant|0|44|31||
+giratinaorigin|NatDex Ubers Physical Utility|Impish|0|0|31||
+giratinaorigin|AG Defensive|Impish|0|12|31||
+cresselia|OU Utility|Bold|0|0|31||
+cresselia|OU Utility|Bold|0|0|31|Choice Scarf|
+cresselia|OU Utility|Timid|1|0|31||
+cresselia|OU Utility|Timid|1|0|31|Choice Scarf|
+cresselia|OU Trick Room Setter|Relaxed|-1|0|0||
+cresselia|OU Bulky Stored Power|Bold|0|52|31||
+cresselia|OU Offensive Stored Power|Modest|0|84|31||
+cresselia|RU Lunar Dance|Timid|1|252|31|Choice Scarf|
+manaphy|OU Tail Glow|Timid|1|252|31||
+manaphy|OU Take Heart|Timid|1|216|31||
+manaphy|NatDex Rain Wallbreaker|Modest|0|252|31||
+manaphy|1v1 Stall|Bold|0|20|31||
+darkrai|OU Nasty Plot|Timid|1|252|31||
+darkrai|OU Choice Scarf|Timid|1|252|31|Choice Scarf|
+darkrai|Mono Bulkyrai (Bulky Darkrai)|Timid|1|240|31||
+shaymin|PU Offensive|Timid|1|252|31||
+shayminsky|Ubers Choice Scarf|Timid|1|252|31|Choice Scarf|
+shayminsky|Ubers SubSeed|Timid|1|252|31||
+arceus|Ubers Swords Dance Extreme Killer|Adamant|0|56|31||
+arceus|Ubers Stall|Impish|0|0|31||
+arceus|Ubers Double-Edge|Adamant|0|252|31||
+arceus|BSS Divine Retribution (Extreme Killer)|Adamant|0|44|31||
+arceus|AG Bulk Up|Adamant|0|16|31||
+arceusbug|Ubers Calm Mind|Timid|1|252|31||
+arceusdark|Ubers Calm Mind + Taunt|Timid|1|252|31||
+arceusdark|Ubers Defensive|Bold|0|128|31||
+arceusdark|NatDex Ubers Utility|Bold|0|124|31||
+arceusdark|NatDex Ubers Utility|Timid|1|124|31||
+arceusdark|NatDex Ubers Calm Mind|Timid|1|96|31||
+arceusdragon|Ubers Dragon Dance|Adamant|0|128|31||
+arceuselectric|Ubers Calm Mind|Timid|1|252|31||
+arceuselectric|Ubers Utility|Bold|0|16|31||
+arceusfairy|Ubers Defensive Wall|Bold|0|16|31||
+arceusfairy|Ubers Iron Defense + Calm Mind|Bold|0|124|31||
+arceusfairy|NatDex Ubers Calm Mind|Timid|1|124|31||
+arceusfairy|BSS Offensive|Modest|0|252|31||
+arceusfairy|AG Defensive|Bold|0|0|31||
+arceusfairy|AG Offensive Calm Mind|Timid|1|252|31||
+arceusfighting|Ubers Cosmic Power|Bold|0|124|31||
+arceusfire|Ubers Dragon Dance|Adamant|0|128|31||
+arceusflying|Ubers Calm Mind + Taunt|Timid|1|252|31||
+arceusghost|Ubers Calm Mind + 3 Attacks|Modest|0|252|31||
+arceusghost|Ubers Support|Timid|1|56|31||
+arceusgrass|Ubers Calm Mind|Timid|1|252|31||
+arceusground|Ubers Dragon Dance|Adamant|0|252|31||
+arceusground|Ubers Calm Mind|Bold|0|124|31||
+arceusground|Ubers Lead|Modest|0|188|31||
+arceusground|NatDex Ubers Calm Mind|Timid|1|252|31||
+arceusground|AG Defensive|Bold|0|16|31||
+arceusground|AG Bulky Dragon Dance|Impish|0|68|31||
+arceusice|Ubers Calm Mind|Timid|1|252|31||
+arceuspoison|Ubers Support|Impish|0|124|31||
+arceuspoison|Ubers Iron Defense|Timid|1|96|31||
+arceuspsychic|Ubers Stored Power|Bold|0|124|31||
+arceusrock|Ubers Calm Mind|Timid|1|252|31||
+arceusrock|NatDex Ubers Utility|Timid|1|96|31||
+arceussteel|Ubers Calm Mind|Timid|1|252|31||
+arceuswater|Ubers Defensive|Bold|0|16|31||
+arceuswater|NatDex Ubers Offensive Calm Mind|Timid|1|252|31||
+arceuswater|NatDex Ubers Calm Mind + Refresh|Timid|1|136|31||
+arceuswater|AG Defensive|Bold|0|0|31||
+victini|NatDex Choice Scarf|Jolly|1|252|31|Choice Scarf|
+victini|NatDex Pivot|Jolly|1|252|31||
+servine|NFE Defensive|Timid|1|252|31||
+serperior|OU Choice Scarf|Modest|0|252|31|Choice Scarf|
+serperior|OU Choice Scarf|Timid|1|252|31|Choice Scarf|
+serperior|UU Offensive|Timid|1|252|31||
+serperior|BSS Defensive|Timid|1|132|31||
+serperior|1v1 Assault Vest|Timid|1|80|31||
+pignite|NFE All-Out Attacker|Adamant|0|252|31||
+emboar|PU Wallbreaker|Adamant|0|252|31||
+emboar|PU Wallbreaker|Jolly|1|252|31||
+emboar|PU Choice Scarf|Jolly|1|252|31|Choice Scarf|
+emboar|Mono Dap up Champ (Fighting)|Sassy|-1|36|31||
+emboar|Mono Dap up Champ (Fighting)|Careful|0|36|31||
+samurott|ZU Offensive Pivot|Timid|1|252|31||
+samurotthisui|OU Assault Vest|Adamant|0|52|31||
+samurotthisui|OU Lead|Jolly|1|252|31||
+samurotthisui|OU Choice Scarf|Jolly|1|252|31|Choice Scarf|
+samurotthisui|OU Swords Dance|Adamant|0|252|31||
+samurotthisui|NatDex Assault Vest|Adamant|0|84|31||
+drilbur|LC Utility|Jolly|1|212|31||
+excadrill|OU Sand Sweeper|Adamant|0|252|31||
+excadrill|OU Sand Sweeper|Jolly|1|252|31||
+excadrill|UU Utility|Adamant|0|176|31||
+excadrill|UU Utility|Jolly|1|176|31||
+excadrill|NatDex UU Utility|Adamant|0|116|31||
+excadrill|NatDex UU Utility|Jolly|1|116|31||
+excadrill|Mono Choice Scarf (Steel)|Jolly|1|252|31|Choice Scarf|
+timburr|LC Physical Attacker|Adamant|0|0|31||
+gurdurr|ZU Bulky Attacker|Adamant|0|0|31||
+conkeldurr|UU Flame Orb Guts|Adamant|0|252|31||
+conkeldurr|UU Bulk Up|Adamant|0|16|31||
+conkeldurr|UU Assault Vest|Adamant|0|0|31||
+cottonee|LC Memento|Timid|1|228|31||
+whimsicott|NU Pivot Support|Bold|0|68|31||
+whimsicott|PU Choice Specs|Timid|1|252|31||
+whimsicott|1v1 SubSeed|Bold|0|104|31||
+whimsicott|1v1 Babiri Berry|Impish|0|0|31||
+whimsicott|VGC24 Sun Setter|Timid|1|220|31||
+whimsicott|DOU Tailwind Support|Timid|1|20|31||
+lilligant|ZU Quiver Dance|Modest|0|252|31||
+lilliganthisui|OU Sun Sweeper|Adamant|0|252|31||
+lilliganthisui|Mono Victory Dance (Fighting)|Jolly|1|252|31||
+sandile|LC Bulky Stealth Rock|Jolly|1|236|31||
+krokorok|NFE Offensive Stealth Rock|Jolly|1|252|31||
+krokorok|NFE Choice Scarf|Adamant|0|252|31|Choice Scarf|
+krookodile|UU Stealth Rock|Jolly|1|252|31||
+krookodile|RU Choice Scarf|Jolly|1|252|31|Choice Scarf|
+krookodile|NatDex RU Offensive Pivot|Jolly|1|240|31||
+darmanitangalar|NatDex Ubers Choice Scarf|Jolly|1|252|31|Choice Scarf|
+scrafty|RU Bulk Up|Careful|0|0|31||
+scrafty|NU Bulk Up|Careful|0|64|31||
+scrafty|NU Dragon Dance|Jolly|1|252|31||
+zorua|LC Choice Scarf|Naive|1|236|31|Choice Scarf|
+zoruahisui|LC Wallbreaker|Timid|1|196|31||
+zoroark|PU Choice Specs|Timid|1|252|31||
+zoroark|PU Choice Scarf|Jolly|1|252|31|Choice Scarf|
+zoroarkhisui|UU Nasty Plot|Timid|1|252|31||
+zoroarkhisui|Mono Choice Scarf (Ghost)|Timid|1|252|31|Choice Scarf|
+minccino|LC Skill Link Attacker|Jolly|1|236|31||
+cinccino|NU Tidy Up|Jolly|1|252|31||
+gothita|LC Trapper|Modest|0|236|31|Choice Scarf|
+gothitelle|Ubers Choice Item|Modest|0|220|31||
+gothitelle|Ubers Choice Item|Modest|0|220|31|Choice Scarf|
+gothitelle|Ubers Delay Goth (Trapper)|Bold|0|24|31||
+gothitelle|NatDex Ubers Trapper|Bold|0|0|31||
+duosion|NFE Defensive Pivot|Calm|0|0|31||
+reuniclus|OU 3 Attacks + Recover|Modest|0|44|31||
+reuniclus|UU Calm Mind|Relaxed|-1|0|31||
+reuniclus|RU Calm Mind|Bold|0|0|31||
+reuniclus|NatDex UU Calm Mind|Bold|0|76|31||
+swanna|ZU Defog|Impish|0|32|31||
+deerling|LC Offensive|Jolly|1|236|31||
+foongus|LC Defensive|Bold|0|0|31||
+amoonguss|OU Defensive|Bold|0|0|31||
+amoonguss|BSS Pivot|Relaxed|-1|0|31||
+amoonguss|VGC25 Bulky Support|Bold|0|0|27||
+amoonguss|DOU Redirection Support|Calm|0|0|28||
+amoonguss|NatDex DOU Redirection Support|Sassy|-1|0|0||
+alomomola|OU WishFish (Wish Passer)|Relaxed|-1|0|0||
+alomomola|Ubers Physically Defensive|Relaxed|-1|0|31||
+alomomola|Ubers Physically Defensive|Bold|0|0|31||
+galvantula|PU All-Out-Attacker|Timid|1|252|31||
+ferrothorn|NatDex Defensive|Impish|0|0|31||
+ferrothorn|NatDex Ubers Specially Defensive|Sassy|-1|0|0||
+ferrothorn|NatDex Mono Entry Hazard Wall (Grass)|Relaxed|-1|0|31||
+eelektrik|NFE Defensive Pivot|Relaxed|-1|0|31||
+eelektross|ZU Defensive Pivot|Sassy|-1|0|0||
+eelektross|ZU Coil|Careful|0|4|31||
+lampent|NFE Choice Item|Timid|1|252|31|Choice Scarf|
+lampent|NFE Choice Item|Timid|1|252|31||
+chandelure|NU Choice Specs|Timid|1|252|31||
+chandelure|NU Choice Specs|Modest|0|252|31||
+chandelure|NU Choice Scarf|Timid|1|252|31|Choice Scarf|
+axew|LC Dragon Dance|Adamant|0|140|31||
+fraxure|NFE Setup Sweeper|Jolly|1|252|31||
+fraxure|NFE Setup Sweeper|Adamant|0|252|31||
+haxorus|UU Choice Band|Jolly|1|252|31||
+haxorus|UU Choice Band|Adamant|0|252|31||
+haxorus|1v1 Choice Scarf|Adamant|0|252|31|Choice Scarf|
+haxorus|1v1 Choice Scarf|Jolly|1|252|31|Choice Scarf|
+haxorus|1v1 Roseli Berry|Adamant|0|16|31||
+haxorus|1v1 Rocky Helmet|Adamant|0|108|31||
+beartic|ZU Snow Sweeper|Adamant|0|252|31||Slush Rush
+beartic|ZU Snow Sweeper|Jolly|1|252|31||Slush Rush
+cryogonal|ZU Hazard Remover|Timid|1|252|31||
+mienfoo|LC Fast Pivot|Jolly|1|236|31||
+mienfoo|LC Slow Pivot|Impish|0|0|31||
+mienfoo|LC Choice Scarf|Adamant|0|236|31|Choice Scarf|
+mienfoo|NFE Offensive Pivot|Adamant|0|252|31||
+mienfoo|NFE Offensive Pivot|Jolly|1|252|31||
+mienshao|NatDex UU Life Orb|Jolly|1|252|31||
+mienshao|NatDex UU Choice Scarf|Jolly|1|252|31|Choice Scarf|
+mienshao|VGC24 Offensive Utility|Adamant|0|252|31||
+golurk|UU Choice Band|Adamant|0|252|31||
+golurk|RU Wallbreaker|Adamant|0|136|31||
+golurk|NU Wallbreaker|Adamant|0|144|31||
+golurk|PU Stealth Rock|Adamant|0|84|31||
+golurk|Mono Entry Hazard Lead (Ghost)|Jolly|1|252|31||
+pawniard|LC Swords Dance|Jolly|1|196|31||
+bisharp|RU Swords Dance|Adamant|0|176|31||
+bisharp|NatDex UU Swords Dance|Adamant|0|252|31||
+bisharp|NatDex UU Swords Dance|Jolly|1|252|31||
+rufflet|NFE Choice Band|Adamant|0|252|31||
+rufflet|NFE Choice Band|Jolly|1|252|31||
+rufflet|NFE Choice Scarf|Jolly|1|252|31|Choice Scarf|
+rufflet|NFE Choice Scarf|Adamant|0|252|31|Choice Scarf|
+rufflet|NFE Bulk Up|Careful|0|100|31||
+braviary|NU Bulk Up|Careful|0|96|31||
+braviary|Mono Physically Defensive (Normal)|Impish|0|16|31||
+braviaryhisui|PU Sheer Force|Timid|1|252|31||
+vullaby|LC Physical Attacker|Jolly|1|196|31||
+vullaby|LC Nasty Plot|Modest|0|196|31||
+vullaby|NFE Defensive Utility|Careful|0|0|31||
+mandibuzz|OU Defensive|Bold|0|16|31||
+mandibuzz|NatDex RU Defensive|Impish|0|96|31||
+mandibuzz|Mono Physically Defensive (Dark)|Relaxed|-1|0|23||
+mandibuzz|Mono Physically Defensive (Dark)|Impish|0|0|23||
+mandibuzz|AG Specially Defensive|Careful|0|0|31||
+zweilous|NFE Wallbreaker|Adamant|0|252|31||
+hydreigon|OU Choice Specs|Timid|1|252|31||
+hydreigon|UU Choice Scarf|Timid|1|252|31|Choice Scarf|
+hydreigon|NatDex UU Choice Specs|Modest|0|252|31||
+larvesta|LC Defensive Pivot|Impish|0|36|31||
+volcarona|Ubers Quiver Dance|Timid|1|176|31||
+volcarona|NatDex Offensive Quiver Dance|Timid|1|252|31||
+volcarona|NatDex Bulky Quiver Dance|Timid|1|60|31||
+volcarona|BSS Bulkarona|Timid|1|76|31||
+volcarona|BSS Bulkarona|Bold|0|76|31||
+volcarona|BSS Offensive Quiver Dance|Modest|0|252|31||
+volcarona|BSS SOLAR FLARE (Choiced Attacker)|Timid|1|252|31|Choice Scarf|
+volcarona|BSS SOLAR FLARE (Choiced Attacker)|Modest|0|252|31|Choice Scarf|
+cobalion|UU Setter|Timid|1|252|31||
+terrakion|RU Stealth Rock|Jolly|1|252|31||
+terrakion|RU Choice Scarf|Jolly|1|252|31|Choice Scarf|
+virizion|PU Swords Dance|Jolly|1|252|31||
+tornadus|RU Nasty Plot|Timid|1|252|31||
+tornadus|VGC25 Bulky Tailwind|Timid|1|92|31||
+tornadus|VGC25 Offensive Support|Modest|0|12|31||
+tornadus|VGC24 Tailwind Support|Modest|0|4|31||
+tornadus|VGC24 Bulky Tailwind|Calm|0|28|31||
+tornadus|VGC23 Bulky Tailwind Setter|Modest|0|20|31||
+tornadus|NatDex DOU Tailwind Setter|Bold|0|252|31||
+tornadustherian|OU Nasty Plot|Timid|1|252|31||
+tornadustherian|NatDex Pivot|Timid|1|216|31||
+tornadustherian|NatDex Assault Vest|Timid|1|240|31||
+thundurus|UU Pivot|Timid|1|252|31||
+thundurus|VGC24 Support|Bold|0|4|31||
+thundurus|VGC24 Disruptive Support|Bold|0|0|31||
+thundurus|VGC23 Support|Calm|0|60|31||
+thundurustherian|UU Pivot|Timid|1|252|31||
+thundurustherian|UU Nasty Plot|Modest|0|100|31||
+thundurustherian|BSS Pivot|Timid|1|252|31|Choice Scarf|
+thundurustherian|BSS Pivot|Modest|0|252|31||
+thundurustherian|BSS Pivot|Modest|0|252|31|Choice Scarf|
+zekrom|Ubers Dragon Dance|Jolly|1|252|31||
+zekrom|NatDex Ubers Setup Sweeper|Jolly|1|204|31||
+zekrom|NatDex Ubers Setup Sweeper|Adamant|0|204|31||
+landorus|Ubers Wallbreaker|Timid|1|252|31||
+landorus|Mono Choice Scarf (Flying)|Naive|1|252|31|Choice Scarf|
+landorus|VGC25 Life Orb|Modest|0|4|31||
+landorus|VGC24 Life Orb|Modest|0|252|31||
+landorus|VGC24 Choice Scarf|Modest|0|252|31|Choice Scarf|
+landorus|NatDex DOU Bulky|Modest|0|132|31||
+landorustherian|OU Defensive|Timid|1|252|31||
+landorustherian|OU Choice Scarf|Naive|1|252|31|Choice Scarf|
+landorustherian|Ubers Defensive Pivot|Impish|0|8|31||
+landorustherian|NatDex Defensive|Jolly|1|224|31||
+landorustherian|NatDex Ubers Defensive Pivot|Impish|0|36|31||
+landorustherian|BSS Defensive Pivot|Impish|0|0|31||
+landorustherian|BSS Choice Attacker|Adamant|0|252|31|Choice Scarf|
+landorustherian|BSS Choice Attacker|Adamant|0|252|31||
+kyurem|OU Choice Specs|Timid|1|252|31||
+kyurem|OU Choice Specs|Modest|0|252|31||
+kyurem|OU Assault Vest|Modest|0|96|31||
+kyurem|OU Choice Scarf|Modest|0|252|31|Choice Scarf|
+kyurem|OU Choice Scarf|Timid|1|252|31|Choice Scarf|
+kyurem|1v1 Choice Specs|Modest|0|224|31||
+kyurem|1v1 Haban Berry|Modest|0|0|31||
+kyurem|1v1 Anti-Porygon-Z|Timid|1|224|31||
+kyuremblack|Ubers Dragon Dance|Jolly|1|252|31||
+kyuremblack|Ubers Dragon Dance|Adamant|0|252|31||
+kyuremblack|NatDex Ubers Dragon Dance|Adamant|0|216|31||
+kyuremblack|NatDex Ubers Dragon Dance|Jolly|1|216|31||
+keldeo|OU Boots Attacker|Timid|1|252|31||
+keldeo|UU Calm Mind|Modest|0|252|31||
+meloetta|NU Choice Item|Timid|1|252|31||
+meloetta|NU Choice Item|Timid|1|252|31|Choice Scarf|
+chespin|LC Defensive Spikes|Impish|0|0|31||
+quilladin|NFE Wall|Impish|0|0|31||
+chesnaught|OU Defensive|Impish|0|0|31||
+chesnaught|RU Spikes|Impish|0|52|31||
+braixen|NFE Calm Mind|Timid|1|252|31||
+delphox|PU Nasty Plot|Timid|1|252|31||
+frogadier|NFE Spikes Pivot|Timid|1|252|31||
+frogadier|NFE Choice Scarf|Timid|1|252|31|Choice Scarf|
+greninja|OU Battle Bond|Timid|1|252|31||
+greninja|1v1 Life Orb|Hasty|1|184|31||
+greninja|Mono Choice Scarf (Dark)|Naive|1|252|31|Choice Scarf|
+diggersby|NatDex RU Swords Dance|Jolly|1|252|31||
+diggersby|NatDex RU Choice Scarf|Jolly|1|252|31|Choice Scarf|
+fletchinder|NFE Utility|Jolly|1|252|31||
+talonflame|OU Defog|Bold|0|32|31||
+talonflame|UU Utility|Jolly|1|252|31||
+talonflame|Mono Defog (Fire)|Jolly|1|128|31||
+talonflame|VGC25 Offensive Tailwind Support|Adamant|0|252|31||
+vivillon|Mono Status Utility (Bug)|Timid|1|252|31||
+pyroar|ZU Special Attacker|Timid|1|252|31||
+florges|NU Choice Specs|Modest|0|252|31||
+florges|NU Choice Specs|Timid|1|252|31||
+florges|NU Calm Mind|Bold|0|136|31||
+florges|NU Choice Scarf|Bold|0|136|31|Choice Scarf|
+florges|PU Choice Scarf|Timid|1|252|31|Choice Scarf|
+florges|PU Calm Mind|Bold|0|96|31||
+florges|PU Wish|Timid|1|56|31||
+meowstic|Mono Dual Screens Setter|Timid|1|104|31||
+aegislash|NatDex UU SubToxic|Modest|0|44|31||
+aegislash|NatDex UU Offensive Swords Dance|Adamant|0|252|31||
+aegislash|NatDex UU Offensive Swords Dance|Jolly|1|252|31||
+aegislash|NatDex UU Mixed Attacker|Quiet|-1|12|31||
+aegislash|NatDex UU Bulky Swords Dance|Adamant|0|0|31||
+malamar|PU Contrary RestTalk|Careful|0|68|31||
+malamar|ZU RestTalk|Careful|0|4|31||
+dragalge|Mono Specially Defensive (Dragon)|Calm|0|0|31||
+dragalge|NatDex Mono Toxic Spikes Setter (Dragon)|Sassy|-1|0|24||
+clawitzer|ZU Wallbreaker|Modest|0|252|31||
+sylveon|NU Choice Specs|Modest|0|252|31||
+sylveon|NU Choice Specs|Timid|1|252|31||
+sylveon|NU Wish|Bold|0|44|31||
+sylveon|NatDex RU Cleric|Bold|0|0|31||
+sylveon|BSS Offensive|Quiet|-1|0|31||
+sylveon|1v1 Weakness Policy|Bold|0|176|31||
+sylveon|VGC24 Throat Spray Sweeper|Modest|0|28|31||
+hawlucha|OU Unburden Sweeper|Adamant|0|124|31||Unburden
+hawlucha|NatDex Unburden Sweeper|Adamant|0|228|31||Unburden
+hawlucha|Mono Swords Dance (Fighting)|Adamant|0|232|31||Unburden
+sliggoohisui|NFE All-Out Attacker|Modest|0|96|31||
+sliggoohisui|NFE RestTalk|Calm|0|0|31||
+goodra|NU Heavy-Duty Boots|Modest|0|180|31||
+goodra|NU Heavy-Duty Boots|Timid|1|180|31||
+goodra|NU Choice Specs|Timid|1|252|31||
+goodra|NU Choice Specs|Modest|0|252|31||
+goodrahisui|OU Assault Vest|Modest|0|0|31||
+goodrahisui|UU Offensive Tank|Modest|0|184|31||
+goodrahisui|RU Bulky Attacker|Quiet|-1|0|31||
+goodrahisui|RU Choice Specs|Modest|0|216|31||
+goodrahisui|NatDex UU Offensive Tank|Modest|0|176|31||
+goodrahisui|BSS Assault Vest|Modest|0|4|31||
+goodrahisui|BSS Assault Vest|Quiet|-1|4|31||
+klefki|RU Spikes|Impish|0|0|31||
+klefki|Mono Iron Defense + Calm Mind (Steel)|Bold|0|56|31||
+trevenant|PU Rest+3 Attacks|Jolly|1|252|31||
+trevenant|ZU All-Out Attacker|Adamant|0|252|31||
+avalugg|UU Rapid Spin|Impish|0|0|31||
+avalugghisui|PU Offensive|Adamant|0|252|31||
+avalugghisui|PU Defensive|Impish|0|20|31||
+noivern|RU Offensive Pivot|Timid|1|252|31||
+yveltal|NatDex Ubers Specially Offensive|Naive|1|252|31||
+yveltal|NatDex Ubers Defensive|Jolly|1|184|31||
+yveltal|NatDex Ubers Defensive|Impish|0|184|31||
+yveltal|NatDex Ubers Choice Scarf|Jolly|1|224|31|Choice Scarf|
+zygarde|NatDex Ubers Coil|Impish|0|0|31||
+zygarde|NatDex Ubers Dragon Dance|Adamant|0|232|31||
+zygarde10|NatDex UU Choice Band|Jolly|1|252|31||
+zygarde10|NatDex RU Dragon Dance|Adamant|0|252|31||
+diancie|RU Offensive Trick Room (Diancie)|Quiet|-1|0|0||
+diancie|NatDex Wallbreaker|Hasty|1|252|31||
+diancie|NatDex Ubers Lead|Hasty|1|216|31||
+diancie|1v1 Weakness Policy|Sassy|-1|0|31||
+diancie|1v1 Choice Specs|Calm|0|0|31||
+diancie|NatDex DOU Trick Room Setter|Adamant|0|0|0||
+hoopa|NU Choice Item|Timid|1|252|31||
+hoopa|NU Choice Item|Timid|1|252|31|Choice Scarf|
+hoopa|NU Choice Item|Modest|0|252|31||
+hoopa|NU Choice Item|Modest|0|252|31|Choice Scarf|
+hoopa|NU Substitute|Modest|0|224|31||
+hoopaunbound|OU Choice Band|Adamant|0|216|31||
+hoopaunbound|OU Assault Vest|Quiet|-1|0|31||
+hoopaunbound|NatDex Choice Band|Jolly|1|252|31||
+hoopaunbound|NatDex Choice Band|Adamant|0|252|31||
+hoopaunbound|NatDex Assault Vest|Lonely|0|16|31||
+hoopaunbound|1v1 Choice Scarf|Jolly|1|252|31|Choice Scarf|
+hoopaunbound|Mono Assault Vest (Psychic)|Gentle|0|96|31||
+hoopaunbound|Mono Choice Scarf (Dark)|Hasty|1|248|31|Choice Scarf|
+volcanion|OU Choice Specs|Modest|0|252|31||
+volcanion|UU Offensive / Trapper|Modest|0|196|31||
+volcanion|NatDex Wallbreaker|Timid|1|252|31||
+volcanion|1v1 Air Balloon|Modest|0|96|31||
+volcanion|1v1 Choice Specs|Modest|0|0|31||
+volcanion|1v1 Life Orb|Modest|0|232|31||
+volcanion|1v1 Choice Scarf|Modest|0|236|31|Choice Scarf|
+volcanion|NatDex Mono Wallbreaker (Fire)|Modest|0|172|31||
+decidueye|NU Swords Dance|Adamant|0|252|31||
+decidueye|NU Defog|Bold|0|176|31||
+decidueyehisui|NU Defog|Impish|0|0|31||
+decidueyehisui|NU Swords Dance|Adamant|0|104|31||
+decidueyehisui|NU Choice Band|Adamant|0|252|31||
+decidueyehisui|PU Choice Scarf|Jolly|1|252|31|Choice Scarf|
+incineroar|NU Swords Dance|Adamant|0|252|31||
+incineroar|NU Swords Dance|Jolly|1|252|31||
+incineroar|NU Defensive Pivot|Careful|0|48|31||
+incineroar|BSS Assault Vest|Careful|0|0|31||
+incineroar|BSS Assault Vest|Sassy|-1|0|31||
+incineroar|VGC25 Bulky Support|Careful|0|84|31||
+incineroar|VGC25 Assault Vest|Adamant|0|116|31||
+incineroar|VGC24 Bulky Support|Jolly|1|0|31||
+primarina|OU Assault Vest|Modest|0|0|31||
+primarina|NatDex Bulky Calm Mind|Bold|0|124|31||
+primarina|NatDex Assault Vest|Modest|0|176|31||
+primarina|NatDex RU Choice Specs|Modest|0|252|31||
+primarina|BSS Little Mermaid|Modest|0|76|31||
+primarina|1v1 Life Orb|Modest|0|28|31||
+primarina|Mono Calm Mind (Fairy)|Bold|0|60|31||
+primarina|Mono Choice Specs (Fairy)|Modest|0|88|31||
+charjabug|NFE Sticky Web|Impish|0|0|31||
+vikavolt|PU Sticky Web Setter|Modest|0|252|31||
+vikavolt|ZU Sticky Web Pivot|Bold|0|0|31||
+crabrawler|LC Bulk Up|Jolly|1|252|31||
+crabominable|ZU Choice Band|Adamant|0|0|31||
+oricorio|PU Offensive Quiver Dance|Timid|1|252|31||
+oricoriopompom|UU Quiver Dance|Modest|0|252|31||
+oricoriopau|PU Quiver Dance|Timid|1|252|31||
+oricoriosensu|RU Bulky Quiver Dance Sweeper|Timid|1|44|31||
+oricoriosensu|RU Offensive Quiver Dance|Timid|1|252|31||
+cutiefly|NFE Sticky Web Lead|Timid|1|252|31||
+ribombee|OU Sticky Web|Timid|1|252|31||
+ribombee|Ubers Choice Scarf|Timid|1|252|31|Choice Scarf|
+lycanroc|RU Lead|Jolly|1|252|31||
+lycanroc|ZU Swords Dance|Jolly|1|252|31||Sand Rush
+lycanroc|ZU Swords Dance|Adamant|0|252|31||Sand Rush
+lycanrocdusk|RU All-Out Attacker|Jolly|1|252|31||
+mareanie|LC Offensive Wall|Modest|0|0|31||
+toxapex|OU The Pex (Defensive)|Bold|0|0|31||
+toxapex|BSS Return Of The Pex|Relaxed|-1|0|31||
+mudbray|LC Offensive Stealth Rock|Impish|0|76|31||
+mudsdale|NU Defensive|Impish|0|0|31||
+dewpider|LC Scarfer|Timid|1|220|31|Choice Scarf|
+araquanid|OU Sticky Web|Modest|0|0|31||
+araquanid|OU Sticky Web|Quiet|-1|0|31||
+araquanid|NU Sticky Web|Adamant|0|188|31||
+araquanid|PU Choice Band|Adamant|0|252|31||
+araquanid|PU Substitute|Adamant|0|68|31||
+lurantis|PU Pajama Pants|Relaxed|-1|16|31||
+lurantis|PU Pajama Pants|Impish|0|16|31||
+lurantis|ZU Defog|Sassy|-1|0|31||
+salandit|LC Special Attacker|Timid|1|220|31||
+salazzle|NU Nasty Plot|Timid|1|252|31||
+tsareena|RU Offensive Spinner|Jolly|1|252|31||
+tsareena|RU Defensive Spinner|Impish|0|120|31||
+tsareena|NU Offensive|Adamant|0|252|31||
+tsareena|NU Defensive|Impish|0|4|31||
+comfey|OU Calm Mind|Modest|0|0|31||
+comfey|UU Calm Mind|Timid|1|160|31||
+comfey|RU Setup Sweeper|Modest|0|20|31||
+passimian|PU Choice Scarf|Jolly|1|252|31|Choice Scarf|
+palossand|RU Defensive|Bold|0|0|31||
+minior|NU Shell Smash|Adamant|0|252|31||
+minior|NU Shell Smash|Jolly|1|252|31||
+mimikyu|OU Trick Room|Impish|0|0|31||
+mimikyu|OU Swords Dance|Jolly|1|252|31||
+mimikyu|BSS Trick Scarf|Jolly|1|252|31|Choice Scarf|
+mimikyu|BSS Swords Dance|Adamant|0|252|31||
+mimikyu|BSS Do Not Touch! (Rocky Helmet + Curse)|Adamant|0|4|31||
+mimikyu|BSS Trick Room Support|Relaxed|-1|0|0||
+mimikyu|NatDex Mono Choice Scarf (Ghost)|Adamant|0|252|31|Choice Scarf|
+bruxish|PU Choice Scarf|Jolly|1|252|31|Choice Scarf|
+bruxish|PU Choice Band|Jolly|1|252|31||
+jangmoo|LC Anti-Foongus Setup|Adamant|0|236|31||
+hakamoo|NFE Double Dance|Jolly|1|252|31||
+hakamoo|NFE Defensive|Calm|0|0|31||
+kommoo|OU Physical Clangorous Soul|Jolly|1|252|31||
+kommoo|NatDex Defensive|Impish|0|52|31||
+kommoo|Mono Mixed Wallbreaker (Dragon)|Rash|0|252|31||
+kommoo|VGC25 Clangorous Soul|Modest|0|188|31||
+kommoo|VGC25 Iron Defense|Bold|0|4|31||
+kommoo|DOU Iron Defense|Bold|0|0|31||
+kommoo|DOU Clangorous Soul|Jolly|1|168|31||
+tapukoko|NatDex Offensive Pivot|Timid|1|252|31||
+tapulele|NatDex Choice Scarf|Timid|1|252|31|Choice Scarf|
+tapulele|NatDex Choice Specs|Timid|1|252|31||
+tapulele|NatDex Assault Vest|Modest|0|176|31||
+tapubulu|NatDex UU Swords Dance|Adamant|0|144|31||
+tapubulu|NatDex Mono Swords Dance (Fairy)|Adamant|0|252|31||
+tapufini|NatDex Calm Mind|Bold|0|192|31||
+tapufini|NatDex Mono Choice Scarf (Water)|Timid|1|252|31|Choice Scarf|
+tapufini|NatDex DOU Calm Mind|Modest|0|56|31||
+tapufini|NatDex DOU Support|Calm|0|180|31||
+lunala|Ubers Calm Mind|Timid|1|252|31||
+lunala|Ubers Choice Specs|Modest|0|252|31||
+lunala|BSS Calm Mind|Bold|0|0|31||
+lunala|VGC25 Bulky Support|Modest|0|4|31||
+lunala|VGC25 Offensive Support|Modest|0|52|31||
+lunala|VGC24 Calm Mind|Modest|0|44|31||
+nihilego|NatDex RU Offensive Stealth Rock|Timid|1|252|31||
+nihilego|NatDex RU Choice Scarf|Timid|1|252|31|Choice Scarf|
+buzzwole|NatDex Physical Wall|Impish|0|132|31||
+buzzwole|NatDex UU Defensive|Impish|0|24|31||
+buzzwole|NatDex UU Offensive|Adamant|0|188|31||
+buzzwole|NatDex Mono Bulk Up (Bug)|Adamant|0|104|31||
+pheromosa|NatDex Ubers Offensive Pivot|Jolly|1|252|31||
+celesteela|NatDex Defensive|Relaxed|-1|0|31||
+celesteela|NatDex UU Autotomize Sweeper|Modest|0|252|31||
+celesteela|NatDex Mono Physically Defensive (Flying|Impish|0|0|31||
+celesteela|NatDex DOU Specially Defensive|Impish|0|28|31||
+celesteela|NatDex DOU Acrobatics|Adamant|0|80|31||
+celesteela|NatDex DOU Meteor Beam|Modest|0|120|31||
+kartana|NatDex Paper Cut|Jolly|1|252|31||
+kartana|NatDex Paper Plane|Jolly|1|252|31|Choice Scarf|
+necrozma|UU Calm Mind|Bold|0|240|31||
+necrozma|RU Dragon Dance|Jolly|1|252|31||
+necrozma|RU Offensive Stealth Rock|Modest|0|252|31||
+necrozmaduskmane|Ubers Defensive Dragon Dance|Impish|0|120|31||
+necrozmaduskmane|Ubers Offensive Dragon Dance|Jolly|1|252|31||
+necrozmaduskmane|Ubers Trick Room|Brave|-1|0|0||
+necrozmaduskmane|Ubers IDCM|Bold|0|0|31||
+necrozmaduskmane|NatDex Ubers Dragon Dance|Adamant|0|124|31||
+necrozmaultra|NatDex Ubers Ultra Dragon Dance|Adamant|0|140|31||
+necrozmaultra|NatDex Ubers Ultra Stealth Rock|Naive|1|224|31||
+magearna|Ubers Double Dance|Bold|0|0|31||
+magearna|Ubers Trick Room Setter|Relaxed|-1|0|31||
+marshadow|NatDex Ubers All-Out Attacker|Jolly|1|252|31||
+marshadow|NatDex Ubers Bulk Up|Adamant|0|252|31||
+blacephalon|NatDex Choice Scarf|Timid|1|252|31|Choice Scarf|
+blacephalon|NatDex Calm Mind|Timid|1|252|31||
+zeraora|NatDex UU Offensive Pivot|Adamant|0|252|31||
+zeraora|NatDex UU Offensive Pivot|Jolly|1|252|31||
+melmetal|NatDex Toxic + Protect|Adamant|0|12|31||
+melmetal|NatDex Thunder Wave|Adamant|0|92|31||
+melmetal|NatDex Ubers Choice Band|Brave|-1|0|31||
+grookey|LC Pivot|Jolly|1|236|31||
+thwackey|UU Terrain Setter|Careful|0|16|31||
+thwackey|NFE Choice Band|Adamant|0|252|31||
+rillaboom|OU Swords Dance|Adamant|0|252|31||
+rillaboom|OU Choice Band|Jolly|1|252|31||
+rillaboom|OU Utility|Adamant|0|52|31||
+rillaboom|NatDex Bulky Swords Dance|Adamant|0|84|31||
+rillaboom|BSS Offensive|Adamant|0|0|31||
+rillaboom|BSS Grassy Dance|Adamant|0|12|31||
+rillaboom|1v1 Life Orb|Adamant|0|56|31||
+rillaboom|1v1 SubSeed|Impish|0|152|31||
+raboot|NFE Offensive Pivot|Jolly|1|252|31||
+cinderace|OU Offensive Pivot|Jolly|1|252|31||
+cinderace|Mono Choice Scarf|Jolly|1|252|31|Choice Scarf|
+inteleon|NU Choice Specs|Timid|1|252|31||
+corviknight|OU Defensive|Impish|0|0|31||
+corviknight|BSS Pivot Knight|Impish|0|4|4||
+corviknight|BSS Pivot Knight|Relaxed|-1|4|4||
+corviknight|BSS IronPress|Impish|0|4|31||
+corviknight|1v1 Maranga Berry|Impish|0|200|31||
+corviknight|1v1 Pressure Stall|Jolly|1|252|31||
+chewtle|LC Shell Smash|Jolly|1|244|31||
+drednaw|Mono Shell Smash (Rock)|Jolly|1|252|31||Swift Swim
+coalossal|PU Defensive|Calm|0|0|31||
+sandaconda|NU Defensive Wall|Impish|0|88|31||
+sandaconda|PU Stealth Rock|Impish|0|0|31||
+sandaconda|ZU Coil|Jolly|1|252|31||
+cramorant|NU Defogger|Bold|0|0|31||
+cramorant|PU Defog|Bold|0|16|31||
+barraskewda|OU Rain Sweeper|Adamant|0|252|31||
+barraskewda|RU Offensive Pivot|Jolly|1|252|31||
+toxtricity|RU Choice Specs|Modest|0|252|31||
+toxtricity|NatDex RU Choice Scarf|Timid|1|252|31|Choice Scarf|
+toxtricity|Mono Entry Hazard Support (Electric)|Timid|1|252|31||
+hattrem|ZU Hazard Deterrent|Modest|0|0|31||
+hattrem|ZU Hazard Deterrent|Quiet|-1|0|31||
+hatterene|OU Pain Split|Bold|0|52|31||
+hatterene|OU Trick Room|Quiet|-1|0|0||
+hatterene|Ubers Utility|Bold|0|8|31||
+hatterene|Ubers Bulky Calm Mind|Bold|0|56|31||
+hatterene|NatDex Calm Mind|Bold|0|132|31||
+impidimp|LC Dual Screens|Bold|0|36|31||
+morgrem|NFE Dual Screens|Bold|0|0|31||
+grimmsnarl|OU Dual Screens|Careful|0|0|31||
+grimmsnarl|PU Choice Band|Adamant|0|252|31||
+grimmsnarl|BSS Dual Screens|Impish|0|4|31||
+perrserker|ZU All-Out Attacker|Adamant|0|0|31||
+alcremie|PU Double Dance|Bold|0|64|31||
+pincurchin|UU Terrain Setter|Bold|0|0|31||
+frosmoth|PU Defog|Modest|0|0|31||
+frosmoth|PU Quiver Dance|Timid|1|252|31||
+frosmoth|Mono Quiver Dance (Bug)|Modest|0|252|31||
+indeedee|OU Terrain Setter|Bold|0|0|31||
+indeedee|OU Terrain Setter|Timid|1|0|31||
+indeedee|UU Terrain Setter|Timid|1|252|31||
+indeedee|BSS Terrain Setter|Timid|1|180|31||
+indeedee|BSS Choice Scarf Support|Timid|1|252|31|Choice Scarf|
+indeedeef|PU Terrain Setter|Timid|1|252|31||
+indeedeef|ZU Choiced|Timid|1|252|31|Choice Scarf|
+indeedeef|VGC25 Bulky Support|Relaxed|-1|0|0||
+indeedeef|VGC25 Trick Room Support|Bold|0|0|31||
+indeedeef|VGC25 Trick Room Support|Relaxed|-1|0|31||
+morpeko|ZU Offensive Utility|Jolly|1|252|31||
+copperajah|NU Stealth Rock|Careful|0|28|31||
+copperajah|NU Assault Vest|Adamant|0|252|31||
+dracozolt|NatDex DOU Sand Rush|Naughty|0|252|31||Sand Rush
+arctozolt|NatDex RU Slush Rush|Naive|1|252|31||Slush Rush
+arctozolt|NatDex Mono Slush Rush (Ice)|Naughty|0|252|31||Slush Rush
+dracovish|NatDex DOU Sand Rush|Adamant|0|252|31||Sand Rush
+dracovish|NatDex DOU Sand Rush|Jolly|1|252|31||Sand Rush
+dracovish|NatDex DOU Strong Jaw|Jolly|1|252|31|Choice Scarf|
+duraludon|NU Offensive Support|Modest|0|0|31||
+drakloak|NFE Utility Pivot|Timid|1|252|31||
+drakloak|NFE RestTalk|Jolly|1|216|31||
+drakloak|NFE Choice Specs|Modest|0|252|31||
+dragapult|OU Boots Pivot|Naive|1|252|31||
+dragapult|BSS Special Attacker|Timid|1|252|31|Choice Scarf|
+dragapult|1v1 Choice Band|Adamant|0|252|31||
+dragapult|Mono Hex (Ghost)|Naive|1|224|31||
+zacian|Ubers Choice Band Wallbreaker|Jolly|1|252|31||
+zaciancrowned|Ubers Ultimutt|Jolly|1|252|31||
+zaciancrowned|BSS Offensive|Adamant|0|252|31||
+zaciancrowned|AG Swords Dance|Jolly|1|160|31||
+zaciancrowned|VGC25 Bulky Attacker|Jolly|1|156|31||
+zaciancrowned|VGC24 Offensive|Adamant|0|196|31||
+zamazenta|OU IronPress|Jolly|1|168|31||
+zamazenta|OU Boots Attacker|Jolly|1|252|31||
+zamazenta|OU Offensive Attacker|Adamant|0|252|31||
+zamazentacrowned|Ubers IronPress|Jolly|1|252|31||
+zamazentacrowned|VGC25 Bulky Attacker|Impish|0|164|31||
+eternatus|Ubers Life Orb|Timid|1|252|31||
+eternatus|Ubers Life Orb|Modest|0|252|31||
+eternatus|Ubers Specially Defensive|Timid|1|176|31||
+eternatus|Ubers Physically Defensive|Modest|0|176|31||
+eternatus|Ubers Choice Scarf|Timid|1|252|31|Choice Scarf|
+eternatus|Ubers Choice Scarf|Modest|0|252|31|Choice Scarf|
+eternatus|NatDex Ubers Defensive|Timid|1|8|31||
+eternatus|BSS Cosmic Power|Timid|1|20|31||
+urshifu|Ubers Choice Band|Adamant|0|252|31||
+urshifu|BSS Dancing Bear|Jolly|1|252|31||
+urshifu|BSS One Punch!|Jolly|1|252|31|Choice Scarf|
+urshifu|BSS One Punch!|Adamant|0|252|31|Choice Scarf|
+urshifu|1v1 Assault Vest|Jolly|1|200|31||
+urshifu|1v1 Chople Berry|Adamant|0|120|31||
+urshifu|VGC25 Choice Band|Brave|-1|0|0||
+urshifu|VGC25 Choice Band|Adamant|0|0|0||
+urshifurapidstrike|Ubers Choice Band|Adamant|0|252|31||
+urshifurapidstrike|NatDex Choice Scarf|Jolly|1|252|31|Choice Scarf|
+urshifurapidstrike|NatDex Swords Dance|Jolly|1|252|31||
+urshifurapidstrike|BSS Choice Item Attacker|Adamant|0|252|31|Choice Scarf|
+urshifurapidstrike|VGC25 Mystic Water|Adamant|0|164|31||
+urshifurapidstrike|VGC24 Bulky Attacker|Adamant|0|92|31||
+urshifurapidstrike|VGC24 Damage-Boosting Item|Adamant|0|124|31||
+urshifurapidstrike|VGC23 Bulky Attacker|Adamant|0|4|31||
+zarude|OU Swords Dance|Jolly|1|252|31||
+zarude|NatDex RU Choice Scarf|Jolly|1|252|31|Choice Scarf|
+zarude|1v1 Choice Band|Jolly|1|232|31||
+zarudedada|UU Swords Dance|Jolly|1|252|31||
+zarudedada|UU Choice Scarf|Adamant|0|252|31|Choice Scarf|
+regieleki|Ubers Dual Screens|Jolly|1|252|31||
+regidrago|RU Choice Scarf|Timid|1|252|31|Choice Scarf|
+regidrago|Mono Choice Specs|Timid|1|252|31||
+regidrago|Mono Choice Specs|Modest|0|252|31||
+glastrier|PU Swords Dance|Adamant|0|124|31||
+glastrier|Mono Swords Dance|Jolly|1|240|31||
+spectrier|Ubers Nasty Plot|Timid|1|252|31||
+spectrier|1v1 Life Orb|Timid|1|200|31||
+spectrier|1v1 Choice Specs|Timid|1|216|31||
+spectrier|DOU Nasty Plot|Timid|1|164|31||
+calyrexice|Ubers Offensive Trick Room|Brave|-1|0|0||
+calyrexice|Ubers Offensive Trick Room|Adamant|0|0|0||
+calyrexice|NatDex Ubers Choice Band|Adamant|0|0|31||
+calyrexice|VGC25 Bulky Attacker|Adamant|0|4|31||
+calyrexice|VGC24 Bulky Trick Room Sweeper|Adamant|0|36|0||
+calyrexice|VGC24 Bulky Trick Room Sweeper|Brave|-1|36|0||
+calyrexshadow|BSS Shadow Sweeper|Timid|1|252|31||
+calyrexshadow|BSS Choice Item|Timid|1|252|31|Choice Scarf|
+calyrexshadow|BSS The King Strikes Back! (Double Dance|Modest|0|20|31||
+kleavor|RU Lead|Jolly|1|252|31||
+kleavor|RU Choice Scarf|Jolly|1|252|31|Choice Scarf|
+kleavor|BSS Timber!|Adamant|0|252|31||
+ursaluna|OU Guts Wallbreaker|Adamant|0|0|31||
+ursaluna|NatDex Swords Dance|Adamant|0|252|31||
+ursaluna|NatDex Swords Dance|Jolly|1|252|31||
+ursaluna|BSS Guts Attacker|Adamant|0|4|31||
+ursaluna|BSS Guts Attacker|Brave|-1|4|31||
+ursaluna|Mono Bulk Up Physical (Normal)|Adamant|0|88|31||
+ursaluna|VGC25 Guts|Brave|-1|0|0||
+ursaluna|VGC24 Guts Attacker|Adamant|0|0|0||
+ursalunabloodmoon|Ubers Bear|Modest|0|252|31||
+ursalunabloodmoon|BSS Freddy (Offensive)|Modest|0|0|31||
+ursalunabloodmoon|BSS Hibernation (Yawn)|Modest|0|4|31||
+ursalunabloodmoon|VGC25 Offensive Wallbreaker|Modest|0|204|31||
+ursalunabloodmoon|VGC25 Assault Vest|Modest|0|68|31||
+ursalunabloodmoon|VGC25 Leftovers|Modest|0|132|31||
+ursalunabloodmoon|VGC24 TailRoom Sweeper|Timid|1|252|31||
+ursalunabloodmoon|VGC24 Trick Room Sweeper|Quiet|-1|0|0||
+basculegion|RU Choice Band|Naughty|0|252|31||Swift Swim
+basculegion|NU Substitute|Adamant|0|252|31||
+basculegion|NU Rain Sweeper|Jolly|1|252|31||
+basculegion|NU All-out Attacker|Adamant|0|252|31|Choice Scarf|
+basculegion|NU All-out Attacker|Jolly|1|252|31|Choice Scarf|
+basculegion|BSS Offensive|Adamant|0|0|31||
+basculegion|VGC25 Rain Sweeper|Adamant|0|212|31||
+basculegion|NatDex DOU Swift Swim|Adamant|0|220|31||
+basculegionf|UU Choice Scarf|Timid|1|252|31|Choice Scarf|
+basculegionf|RU Agility|Modest|0|196|31||
+basculegionf|RU Choice Specs|Modest|0|252|31||Swift Swim
+basculegionf|NatDex RU Choice Specs|Modest|0|252|31||
+basculegionf|NatDex RU Choice Specs|Timid|1|252|31||
+sneasler|BSS GottaGoFast (Unburden Sweeper)|Adamant|0|212|31||Unburden
+sneasler|BSS Focus Sash|Adamant|0|252|31||Unburden
+sneasler|BSS Focus Sash|Jolly|1|252|31||Unburden
+sneasler|Mono Choice Band (Poison)|Jolly|1|252|31||
+sneasler|Mono Choice Scarf (Poison)|Jolly|1|252|31|Choice Scarf|
+overqwil|OU Rain Sweeper|Jolly|1|252|31||Swift Swim
+overqwil|OU Rain Sweeper|Adamant|0|252|31||Swift Swim
+overqwil|NU Setup Sweeper|Jolly|1|252|31||
+overqwil|NU Spikes Setter|Jolly|1|216|31||
+overqwil|Mono Physically Defensive (Poison)|Impish|0|0|31||
+enamorus|OU Choice Scarf|Modest|0|252|31|Choice Scarf|
+enamorus|OU Choice Scarf|Timid|1|252|31|Choice Scarf|
+enamorus|OU Choice Specs|Timid|1|252|31||
+enamorus|OU Choice Specs|Modest|0|252|31||
+enamorustherian|OU Calm Mind|Modest|0|0|31||
+enamorustherian|OU Choice Specs|Quiet|-1|0|0||
+enamorustherian|UU 3 Attacks|Modest|0|252|31||
+enamorustherian|UU Calm Mind|Modest|0|164|31||
+meowscarada|OU Boots Pivot|Jolly|1|252|31||
+meowscarada|OU Choice Scarf|Jolly|1|252|31|Choice Scarf|
+meowscarada|BSS CRITTY CAT|Adamant|0|252|31||
+meowscarada|BSS CRITTY CAT|Adamant|0|252|31|Choice Scarf|
+fuecoco|LC Defensive|Calm|0|0|31||
+crocalor|ZU Specially Defensive|Calm|0|0|31||
+skeledirge|OU Defensive|Calm|0|0|31||
+skeledirge|BSS Defensive Gator|Bold|0|4|31||
+skeledirge|BSS Blunder Song|Modest|0|164|31||
+skeledirge|NatDex Mono Physically Defensive (Ghost)|Bold|0|148|31||
+quaxly|LC Offensive Rapid Spin|Adamant|0|196|31||
+quaxwell|NFE Defensive|Impish|0|0|31||
+quaquaval|OU Assault Vest|Adamant|0|252|31||
+quaquaval|OU Assault Vest|Jolly|1|252|31||
+quaquaval|BSS (Regulation C) Bulky|Jolly|1|100|31||
+quaquaval|BSS (Regulation C) Bulky|Careful|0|100|31||
+quaquaval|Mono Choice Scarf (Fighting)|Jolly|1|252|31|Choice Scarf|
+quaquaval|Mono Rapid Spin (Water)|Jolly|1|164|31||
+nymble|LC Revenge Killer|Adamant|0|236|31||
+lokix|OU Choice Band|Adamant|0|252|31||
+lokix|UU Swords Dance|Jolly|1|252|31||
+pawmot|RU All-out Attacker (Pawmot)|Jolly|1|252|31||
+pawmot|NU Revival Blessing|Jolly|1|252|31|Choice Scarf|
+pawmot|BSS Offensive Utility|Adamant|0|252|31||
+maushold|RU Tidy Up|Jolly|1|252|31||
+mausholdfour|RU Tidy Up|Jolly|1|252|31||
+arboliva|ZU Choice Specs|Modest|0|184|31||
+arboliva|ZU Physically Defensive|Bold|0|96|31||
+arboliva|ZU Bulky Attacker|Modest|0|92|31||
+arboliva|BSS Assault Vest|Modest|0|4|31||
+arboliva|Mono Physically Defensive (Normal)|Bold|0|0|31||
+naclstack|PU Specially Defensive|Careful|0|0|31||
+naclstack|NFE Stealth Rock|Impish|0|4|31||
+garganacl|OU Stealth Rock|Careful|0|0|31||
+garganacl|NatDex Ubers Stealth Rock|Careful|0|0|18||
+garganacl|BSS Salty Stall|Impish|0|4|31||
+armarouge|BSS Expanding Force|Modest|0|252|31||
+armarouge|BSS Offensive|Modest|0|4|31||
+armarouge|BSS Offensive|Modest|0|4|31|Choice Scarf|
+armarouge|BSS Offensive|Timid|1|4|31||
+armarouge|BSS Offensive|Timid|1|4|31|Choice Scarf|
+armarouge|Mono Calm Mind (Psychic)|Timid|1|252|31||
+armarouge|VGC23 TR Sweeper|Quiet|-1|0|0||
+armarouge|DOU TR Attacker|Modest|0|0|0||
+ceruledge|OU Swords Dance|Adamant|0|252|31||
+ceruledge|OU Swords Dance|Jolly|1|252|31||
+ceruledge|BSS Bulk Up Sweeper|Impish|0|0|31||
+bellibolt|UU Physically Defensive|Bold|0|0|31||
+bellibolt|RU Mr. Belli|Bold|0|4|31||
+bellibolt|BSS Tactical Bellibolt|Modest|0|28|31||
+bellibolt|1v1 Life Orb|Quiet|-1|0|31||
+wattrel|LC Pivot|Timid|1|196|31||
+kilowattrel|RU Offensive Pivot|Timid|1|252|31||
+maschiff|LC Choice Scarf|Jolly|1|188|31|Choice Scarf|
+maschiff|LC Choice Scarf|Adamant|0|188|31|Choice Scarf|
+mabosstiff|ZU Choiced|Jolly|1|252|31|Choice Scarf|
+mabosstiff|ZU Choiced|Jolly|1|252|31||
+shroodle|LC Unburden Sweeper|Adamant|0|236|31||
+shroodle|NFE Offensive Pivot|Jolly|1|252|31||
+bramblin|LC Spinner|Jolly|1|196|31||
+brambleghast|NU Offensive Utility|Jolly|1|252|31||
+brambleghast|NU Defensive Spinner|Bold|0|16|31||
+brambleghast|Mono Entry Hazard Control (Ghost)|Impish|0|0|31||
+brambleghast|Mono Spooky Spinner [Entry Hazard Suppor|Adamant|0|252|31||
+toedscool|LC Utility|Timid|1|196|31||
+toedscruel|PU Offensive Rapid Spin|Timid|1|252|31||
+scovillain|UU Sun Sweeper|Modest|0|252|31||
+scovillain|UU Sun Sweeper|Timid|1|252|31||
+scovillain|BSS Moody Ace|Bold|0|100|31||
+scovillain|Mono Sun Sweeper (Fire)|Naive|1|224|31||
+espathra|Ubers Calm Mind|Bold|0|112|31||Speed Boost
+espathra|BSS Calm Mind|Bold|0|12|31||Speed Boost
+espathra|BSS Calm Mind|Timid|1|12|31||Speed Boost
+espathra|BSS Speed Passer|Timid|1|252|31||Speed Boost
+espathra|1v1 Stall|Calm|0|16|31||Speed Boost
+tinkatink|LC Utility|Calm|0|52|31||
+tinkatink|LC Fast Utility|Timid|1|212|31||
+tinkatuff|ZU Special Wall|Careful|0|0|31||
+tinkatuff|NFE Offensive Utility|Mild|0|112|31||
+tinkaton|OU Utility|Jolly|1|232|31||
+tinkaton|UU Bulky Wall|Careful|0|0|31||
+tinkaton|UU Swords Dance|Jolly|1|252|31||
+tinkaton|NatDex RU Tank|Careful|0|104|31||
+tinkaton|BSS Offensive Support|Adamant|0|252|31||
+tinkaton|Mono Swords Dance (Fairy)|Jolly|1|192|31||
+bombirdier|NU Offensive Support|Jolly|1|252|31||
+bombirdier|PU Offensive|Adamant|0|252|31||
+bombirdier|PU Bulky Utility|Careful|0|40|31||
+bombirdier|PU Choice Scarf|Jolly|1|252|31|Choice Scarf|
+bombirdier|Mono Entry Hazard Support (Flying)|Impish|0|0|31||
+finizen|LC Offensive|Timid|1|236|31||
+palafin|Ubers Choice Band|Adamant|0|252|31||
+palafin|Ubers Bulk Up|Careful|0|0|31||
+palafin|BSS This looks like a job for Palafin|Jolly|1|252|31||
+palafin|BSS Bulk Up|Careful|0|116|31||
+palafin|BSS Bulk Up|Jolly|1|116|31||
+varoom|NFE Defensive Pivot|Sassy|-1|0|0||
+revavroom|UU The Car: Shift Gear|Adamant|0|252|31||
+cyclizar|RU Assault Vest|Timid|1|252|31||
+orthworm|Ubers Shed Tail|Impish|0|0|31||
+orthworm|BSS IronPress|Impish|0|4|31||
+glimmet|LC Hazard Setter|Timid|1|196|31||
+glimmet|NFE Hazard Lead|Timid|1|252|31||
+glimmet|NFE Physically Defensive|Bold|0|0|31||
+glimmora|OU Lead|Bold|0|0|31||
+glimmora|OU Offensive|Timid|1|252|31||
+glimmora|OU Offensive|Modest|0|252|31||
+glimmora|NatDex Ubers Suicide Lead|Timid|1|224|31||
+glimmora|BSS Assault Vest|Modest|0|52|31||
+glimmora|Mono Choice Scarf (Rock)|Timid|1|252|31|Choice Scarf|
+glimmora|VGC24 Meteor Beam|Modest|0|92|31||
+glimmora|VGC24 Bulky Attacker|Modest|0|12|31||
+houndstone|UU Sand Sweeper|Adamant|0|252|31||
+houndstone|NU Offensive Spinblocker|Adamant|0|60|31||
+houndstone|NU Defensive|Bold|0|0|31||
+flamigo|RU Choice Scarf|Jolly|1|252|31|Choice Scarf|
+flamigo|NU Choice Item|Jolly|1|252|31||
+flamigo|NU Swords Dance|Adamant|0|252|31||
+cetitan|RU Belly Drum|Jolly|1|252|31||Slush Rush
+cetitan|NatDex Mono Belly Drum|Adamant|0|252|31||Slush Rush
+veluza|PU Fillet Away|Adamant|0|252|31||
+veluza|PU Fillet Away|Jolly|1|252|31||
+dondozo|OU Unaware Wall|Impish|0|0|31||
+dondozo|BSS Curse|Careful|0|4|31||
+dondozo|VGC25 Commander Sweeper|Adamant|0|236|31||
+dondozo|VGC25 Bulky Attacker|Impish|0|156|31||
+dondozo|VGC24 Yawn Support|Relaxed|-1|0|27||
+dondozo|VGC24 Offensive Sweeper|Adamant|0|252|31||
+dondozo|VGC23 Offensive Commander|Adamant|0|212|31||
+dondozo|VGC23 Defensive Solo|Adamant|0|0|16||
+tatsugiri|NU Offensive Spinner|Timid|1|252|31||
+tatsugiri|PU Nasty Plot|Modest|0|252|31||
+tatsugiri|VGC25 Commander Support|Timid|1|252|31|Choice Scarf|
+tatsugiri|VGC24 Choice Scarf Support|Timid|1|244|31|Choice Scarf|
+annihilape|Ubers Bulk Up|Careful|0|16|31||
+annihilape|BSS Offensive Support|Jolly|1|220|31||
+annihilape|BSS Offensive Support|Adamant|0|220|31||
+annihilape|BSS Bulk Up|Jolly|1|252|31||
+annihilape|BSS Bulk Up|Careful|0|252|31||
+annihilape|BSS Choice Scarf|Jolly|1|252|31|Choice Scarf|
+annihilape|BSS Assault Vest|Jolly|1|180|31||
+annihilape|BSS Assault Vest|Careful|0|180|31||
+clodsire|OU Defensive|Careful|0|0|31||
+clodsire|BSS Special Wall|Careful|0|4|31||
+farigiraf|PU Offensive Trick Room|Quiet|-1|0|0||
+farigiraf|ZU Double Dance|Timid|1|252|31||
+farigiraf|VGC25 Electric Seed|Bold|0|0|31||
+farigiraf|VGC24 Throat Spray|Modest|0|4|31||
+farigiraf|DOU TR Attacker|Quiet|-1|0|31||
+dudunsparce|NU Scream (Calm Mind)|Bold|0|100|31||
+dudunsparce|NU Glare|Modest|0|140|31||
+kingambit|OU Swords Dance|Adamant|0|252|31||
+kingambit|Ubers Swords Dance|Adamant|0|0|31||
+kingambit|NatDex Swords Dance|Jolly|1|252|31||
+kingambit|NatDex Offensive Utility|Adamant|0|84|31||
+kingambit|NatDex Ubers Bulky Wallbreaker|Adamant|0|124|31||
+kingambit|BSS Bulky Attacker|Adamant|0|4|31||
+kingambit|AG Swords Dance|Adamant|0|132|31||
+kingambit|VGC24 Bulky Attacker|Adamant|0|116|31||
+greattusk|OU Offensive Utility|Jolly|1|252|31||
+greattusk|OU Choice Scarf|Jolly|1|252|31|Choice Scarf|
+greattusk|Ubers Choice Item|Adamant|0|252|31|Choice Scarf|
+greattusk|Ubers Choice Item|Adamant|0|252|31||
+greattusk|Ubers Defensive|Impish|0|0|31||
+greattusk|NatDex Defensive|Impish|0|40|31||
+greattusk|BSS Bulk Up|Adamant|0|140|31||
+greattusk|BSS Bulk Up|Jolly|1|140|31||
+screamtail|NU Scream 2 (Booster Energy Calm Mind)|Timid|1|216|31||
+screamtail|NU Utility|Timid|1|168|31||
+screamtail|NU Lead|Timid|1|252|31||
+screamtail|BSS Trick Room Support|Calm|0|0|31||
+screamtail|BSS Stealth Rock Support|Calm|0|172|31||
+screamtail|BSS Stealth Rock Support|Timid|1|172|31||
+screamtail|BSS Baton Pass|Jolly|1|0|31||
+screamtail|VGC24 Bulky Disruption|Timid|1|100|31||
+brutebonnet|NU Wallbreaker|Adamant|0|164|31||
+brutebonnet|PU Offensive|Adamant|0|252|31||
+brutebonnet|BSS Speedy Spore|Jolly|1|252|31||
+brutebonnet|BSS Bulky Spore|Adamant|0|4|31||
+brutebonnet|VGC25 Bulky Support|Impish|0|0|31||
+fluttermane|Ubers Choice Specs|Timid|1|252|31||
+fluttermane|BSS Offensive|Bold|0|252|31||
+fluttermane|BSS Offensive Support|Bold|0|20|31||
+fluttermane|BSS Charm|Timid|1|132|31||
+fluttermane|Mono Choice Scarf (Ghost)|Timid|1|252|31|Choice Scarf|
+fluttermane|VGC24 Offensive Speed Control|Timid|1|124|31||
+fluttermane|VGC24 Choice Specs|Timid|1|140|31||
+fluttermane|VGC24 Offensive|Modest|0|196|31||
+slitherwing|OU Assault Vest|Adamant|0|252|31||
+slitherwing|OU Defensive|Impish|0|8|31||
+slitherwing|UU Pivot|Jolly|1|252|31|Choice Scarf|
+slitherwing|UU Booster Energy|Jolly|1|252|31||
+slitherwing|UU Sun Support|Adamant|0|180|31||
+slitherwing|NatDex RU Defensive Pivot|Adamant|0|168|31||
+slitherwing|BSS Offensive|Adamant|0|4|31||
+sandyshocks|UU Pivot|Timid|1|252|31||
+sandyshocks|NatDex RU Choice Scarf|Timid|1|252|31|Choice Scarf|
+irontreads|OU Utility|Jolly|1|252|31||
+irontreads|OU Utility|Careful|0|252|31||
+irontreads|Ubers Specially Defensive|Careful|0|0|31||
+irontreads|NatDex Specially Defensive|Jolly|1|8|31||
+irontreads|NatDex Ubers Suicide Lead|Jolly|1|236|31||
+irontreads|BSS Choice Band|Jolly|1|140|31||
+irontreads|BSS Assault Vest|Jolly|1|76|31||
+irontreads|BSS Offensive Support|Jolly|1|212|31||
+ironbundle|Ubers Heavy-Duty Boots|Timid|1|252|31||
+ironhands|OU Swords Dance|Adamant|0|84|31||
+ironhands|NatDex Swords Dance|Adamant|0|140|31||
+ironhands|BSS CATCH THESE HANDS (Bulky Offense)|Impish|0|28|31||
+ironhands|BSS CATCH THESE HANDS (Bulky Offense)|Relaxed|-1|28|31||
+ironhands|1v1 Booster Energy (Attack)|Adamant|0|0|31||
+ironhands|Mono Swords Dance (Fighting)|Adamant|0|164|31||
+ironhands|VGC25 Assault Vest|Brave|-1|0|0||
+ironhands|VGC24 Bulky Attacker|Adamant|0|20|31||
+ironjugulis|OU Offensive|Naive|1|252|31||
+ironjugulis|BSS NANO LOVE (Choice Item)|Timid|1|252|31|Choice Scarf|
+ironjugulis|VGC25 Offensive Support|Timid|1|68|31||
+ironmoth|OU Booster Energy|Timid|1|252|31||
+ironmoth|BSS Offensive|Modest|0|252|31||
+ironmoth|BSS Toxic Spreader|Modest|0|36|31||
+ironmoth|1v1 Power Herb|Modest|0|216|31||
+ironmoth|Mono Choice Scarf (Poison)|Timid|1|252|31|Choice Scarf|
+ironthorns|NatDex RU Dragon Dance|Adamant|0|252|31||
+ironthorns|BSS Dragon Dance|Jolly|1|252|31||
+baxcalibur|Ubers Dragon Dance|Adamant|0|252|31||
+baxcalibur|BSS Sweeper|Jolly|1|252|31||
+baxcalibur|BSS Assault Vest|Adamant|0|4|31||
+baxcalibur|1v1 Bulky Choice Band|Adamant|0|120|31||
+baxcalibur|1v1 Chople Berry|Adamant|0|160|31||
+baxcalibur|VGC25 Bulky Sweeper|Adamant|0|204|31||
+baxcalibur|VGC24 Clear Amulet|Adamant|0|52|31||
+baxcalibur|DOU Swords Dance|Adamant|0|0|31||
+gimmighoulroaming|LC Fast Attacker|Timid|1|196|31||
+gholdengo|OU Offensive Nasty Plot|Timid|1|252|31||
+gholdengo|OU Bulky Nasty Plot|Bold|0|60|31||
+gholdengo|OU Choice Scarf|Timid|1|252|31|Choice Scarf|
+gholdengo|BSS Choice Item|Modest|0|252|31|Choice Scarf|
+gholdengo|BSS Choice Item|Modest|0|252|31||
+gholdengo|BSS Nasty Plot|Modest|0|228|31||
+gholdengo|BSS Nasty Plot|Timid|1|228|31||
+gholdengo|BSS Defensive|Bold|0|36|31||
+wochien|RU Specially Defensive|Careful|0|0|31||
+wochien|NU Specially Defensive|Careful|0|16|31||
+wochien|BSS Leech Seed|Impish|0|4|31||
+wochien|Mono Mixed Wall (Grass)|Sassy|-1|0|31||
+wochien|VGC24 Bulky Support|Calm|0|180|31||
+chienpao|Ubers Swords Dance|Jolly|1|252|31||
+chienpao|Ubers Swords Dance|Adamant|0|252|31||
+chienpao|NatDex Ubers Choice Band|Jolly|1|216|31||
+tinglu|OU Defensive Utility|Careful|0|0|31||
+tinglu|NatDex Lead|Careful|0|180|31||
+tinglu|VGC25 Bulky Support|Impish|0|4|31||
+tinglu|VGC24 Bulky Attacker|Adamant|0|44|31||
+chiyu|Ubers Feesh (Offensive Wallbreaker)|Modest|0|252|31||
+chiyu|Ubers Feesh (Offensive Wallbreaker)|Timid|1|252|31||
+chiyu|Ubers Choice Scarf|Modest|0|252|31|Choice Scarf|
+chiyu|BSS Choice-Yu|Timid|1|252|31|Choice Scarf|
+chiyu|BSS Offensive|Modest|0|140|31||
+chiyu|BSS Offensive|Timid|1|140|31||
+chiyu|VGC24 Choice Item Attacker|Modest|0|236|31|Choice Scarf|
+chiyu|VGC24 Offensive Support|Modest|0|244|31||
+roaringmoon|Ubers Dragon Dance|Adamant|0|252|31||
+roaringmoon|Ubers Full Moon (Choice Band)|Jolly|1|252|31||
+roaringmoon|BSS Bulky Dragon Dance|Adamant|0|196|31||
+roaringmoon|BSS Jaw Lock Trapper|Impish|0|28|31||
+roaringmoon|BSS All-Out Attacker|Jolly|1|252|31|Choice Scarf|
+roaringmoon|1v1 Attack Booster|Jolly|1|184|31||
+roaringmoon|VGC24 Offensive Support|Jolly|1|124|31||
+roaringmoon|VGC24 Dragon Dance Sweeper|Adamant|0|84|31||
+ironvaliant|OU Mixed|Naive|1|252|31||
+ironvaliant|1v1 Encore + Disable|Timid|1|48|31||
+ironvaliant|1v1 Choice Specs|Modest|0|252|31||
+ironvaliant|Mono Choice Scarf (Fairy)|Timid|1|252|31|Choice Scarf|
+ironvaliant|VGC24 Disruptive Support|Jolly|1|172|31||
+koraidon|Ubers Choice Scarf|Jolly|1|252|31|Choice Scarf|
+koraidon|Ubers Scale Shot|Jolly|1|252|31||
+koraidon|BSS Assault Vest|Adamant|0|100|31||
+koraidon|AG Choice Scarf|Adamant|0|252|31|Choice Scarf|
+koraidon|AG Iron Head|Adamant|0|136|31||
+koraidon|VGC25 Glass Cannon|Adamant|0|252|31||
+koraidon|VGC24 Clear Amulet|Jolly|1|68|31||
+koraidon|VGC24 Clear Amulet|Adamant|0|68|31||
+miraidon|BSS DANGER: HIGH VOLTAGE (Offensive)|Modest|0|172|31|Choice Scarf|
+miraidon|BSS DANGER: HIGH VOLTAGE (Offensive)|Modest|0|172|31||
+miraidon|BSS Assault Vest|Modest|0|68|31||
+miraidon|BSS Turbocharger (Setup Attacker)|Modest|0|100|31||
+miraidon|AG Offensive Pivot|Timid|1|252|31||
+miraidon|AG Offensive Pivot|Modest|0|252|31||
+miraidon|AG Calm Mind|Modest|0|136|31||
+miraidon|AG Agility|Modest|0|92|31||
+walkingwake|OU Sun Wallbreaker|Timid|1|252|31||
+walkingwake|OU Sun Wallbreaker|Modest|0|252|31||
+walkingwake|1v1 Booster Energy (Special Attack)|Modest|0|224|31||
+walkingwake|1v1 Snarl|Timid|1|172|31||
+walkingwake|Mono Choice Scarf (Water)|Timid|1|252|31|Choice Scarf|
+walkingwake|VGC24 Sun Sweeper|Timid|1|196|31||
+ironleaves|UU Swords Dance|Jolly|1|252|31||
+dipplin|PU Physical Wall|Bold|0|0|31||
+dipplin|ZU Growth|Relaxed|-1|0|31||
+sinistcha|OU Calm Mind|Bold|0|0|31||
+sinistcha|UU Calm Mind|Bold|0|96|31||
+sinistcha|BSS Defensive|Bold|0|4|31||
+sinistcha|DOU Trick Room|Quiet|-1|0|0||
+sinistchamasterpiece|UU Calm Mind|Bold|0|96|31||
+okidogi|OU Assault Vest|Adamant|0|16|31||
+okidogi|OU Bulk Up|Careful|0|96|31||
+okidogi|Mono Bulk Up (Poison)|Careful|0|0|31||
+okidogi|Mono Choice Scarf (Poison)|Jolly|1|252|31|Choice Scarf|
+okidogi|VGC24 Bulky Attacker|Adamant|0|60|31||
+munkidori|RU Offensive Pivot|Timid|1|252|31||
+munkidori|RU Choice Scarf|Timid|1|252|31|Choice Scarf|
+munkidori|Mono Choice Scarf (Psychic)|Modest|0|252|31|Choice Scarf|
+fezandipiti|OU Bulky Pivot|Careful|0|64|31||
+fezandipiti|UU Pivot|Bold|0|0|31||
+fezandipiti|NatDex RU Calm Mind|Timid|1|200|31||
+fezandipiti|1v1 Life Orb|Adamant|0|252|31||
+fezandipiti|Mono Bulky Pivot (Fairy)|Careful|0|0|16||
+ogerpon|OU Boots Pivot|Jolly|1|252|31||
+ogerpon|VGC24 Offensive Redirector|Adamant|0|220|31||
+ogerponwellspring|OU Utility|Jolly|1|252|31||
+ogerponwellspring|OU All-Out Attacker|Adamant|0|252|31||
+ogerponwellspring|BSS Specially Defensive|Careful|0|60|31||
+ogerponwellspring|1v1 Charm|Jolly|1|152|31||
+ogerponwellspring|1v1 Specially Defensive|Careful|0|204|31||
+ogerponwellspring|1v1 Defensive|Impish|0|116|31||
+ogerponwellspring|VGC24 Offensive Redirector|Jolly|1|188|31||
+ogerponhearthflame|Ubers Swords Dance|Jolly|1|252|31||
+ogerponhearthflame|Ubers Swords Dance|Adamant|0|252|31||
+ogerponhearthflame|BSS Bulky-pon|Adamant|0|156|31||
+ogerponhearthflame|VGC25 Offensive Redirector|Adamant|0|188|31||
+ogerponcornerstone|OU Swords Dance|Jolly|1|252|31||
+ogerponcornerstone|VGC24 Offensive Redirector|Adamant|0|252|31||
+ogerponcornerstone|VGC24 Redirection Support|Jolly|1|0|31||
+archaludon|NatDex Rain Wallbreaker|Modest|0|176|31||
+archaludon|BSS Defensive Support|Impish|0|0|31||
+archaludon|BSS Pseudo-Sash|Modest|0|252|31||
+archaludon|BSS Pseudo-Sash|Timid|1|252|31||
+archaludon|Mono Choice Scarf (Steel)|Timid|1|252|31|Choice Scarf|
+archaludon|Mono Physically Defensive (Steel)|Bold|0|52|31||
+archaludon|NatDex Mono Physically Defensive (Dragon|Bold|0|16|31||
+archaludon|VGC25 Assault Vest|Modest|0|100|31||
+hydrapple|OU Nasty Plot|Bold|0|12|31||
+hydrapple|UU Offensive Nasty Plot|Modest|0|52|31||
+hydrapple|UU ThatBoldApple: Defensive Nasty Plot|Bold|0|0|31||
+hydrapple|UU Choice Specs|Modest|0|252|31||
+hydrapple|NatDex UU Nasty Plot|Modest|0|132|31||
+hydrapple|BSS Eject Pack Pivot|Relaxed|-1|0|0||
+hydrapple|1v1 Haban Berry|Modest|0|44|31||
+hydrapple|1v1 Yache Berry|Modest|0|96|31||
+gougingfire|BSS Offensive Dragon Dance|Adamant|0|252|31||
+gougingfire|BSS Offensive Dragon Dance|Jolly|1|252|31||
+gougingfire|BSS Choiced|Jolly|1|252|31|Choice Scarf|
+gougingfire|BSS Choiced|Adamant|0|252|31|Choice Scarf|
+gougingfire|BSS Bulky Dragon Dance|Impish|0|212|31||
+gougingfire|BSS Bulky Dragon Dance|Jolly|1|212|31||
+gougingfire|VGC24 Offensive Support|Jolly|1|164|31||
+ragingbolt|OU Calm Mind|Modest|0|252|31||
+ragingbolt|NatDex Calm Mind|Timid|1|252|31||
+ragingbolt|BSS Bulky Offense|Modest|0|0|31||
+ragingbolt|BSS Bulky Offense|Quiet|-1|0|31||
+ragingbolt|BSS Calm Mind|Modest|0|4|31||
+ragingbolt|1v1 Special Attack Booster Energy|Modest|0|136|31||
+ragingbolt|Mono Calm Mind (Dragon)|Modest|0|216|31||
+ragingbolt|Mono Calm Mind (Electric)|Modest|0|132|31||
+ironboulder|OU Swords Dance|Jolly|1|252|31||
+ironboulder|Mono Choice Scarf (Psychic)|Jolly|1|252|31|Choice Scarf|
+ironcrown|OU Choice Specs|Timid|1|252|31||
+ironcrown|BSS Offensive|Timid|1|252|31|Choice Scarf|
+ironcrown|BSS Offensive|Modest|0|252|31|Choice Scarf|
+ironcrown|BSS Offensive|Modest|0|252|31||
+ironcrown|1v1 Defensive Weakness Policy|Bold|0|28|31||
+ironcrown|1v1 Specially Defensive Weakness Policy|Modest|0|0|31||
+ironcrown|1v1 Speed Booster Energy|Timid|1|192|31||
+terapagos|Ubers Utility|Impish|0|4|31||
+terapagos|NatDex Offensive Utility|Timid|1|252|31||
+terapagos|BSS Double Dance|Modest|0|100|31||
+terapagos|BSS Choice Specs|Modest|0|60|31||
+terapagos|BSS Choice Specs|Timid|1|60|31||
+terapagos|Mono Offensive Entry Hazard Remover|Modest|0|252|31||
+terapagos|Mono Bulky Spin|Bold|0|28|31||
+terapagos|NatDex Mono All-Out Attacker|Modest|0|232|31||
+pecharunt|OU Pivot|Bold|0|28|31||
+pecharunt|OU Pivot|Timid|1|28|31||
+pecharunt|OU Nasty Plot|Timid|1|252|31||
+pecharunt|NatDex Nasty Plot|Modest|0|168|31||
+pecharunt|BSS Defensive Pivot|Bold|0|0|31||
+pecharunt|1v1 Air Balloon|Bold|0|32|31||
+pecharunt|1v1 Leftovers|Timid|1|88|31||
