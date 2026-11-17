@@ -62,8 +62,8 @@ public final class BuildInference {
 
     private static void checkBattle() {
         Object battle = CobblemonClient.INSTANCE.getBattle();
-        if (battle != trackedBattle) {
-            trackedBattle = battle;
+        if (!BattleKey.same(battle, trackedBattle)) {
+            trackedBattle = BattleKey.of(battle);
             ELIMINATED.clear();
             OFF_META.clear();
             CACHE.clear();

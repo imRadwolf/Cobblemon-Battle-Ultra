@@ -55,8 +55,10 @@ public final class TeamPreviewCapture {
     private static String lastLoggedScreen;
 
     /** One Pokemon item found in the lead-selection menu. */
-    private record Found(int row, int col, Species species, Set<String> aspects, String name, int level, String owner) {
+    private record Found(int row, int col, Species species, Set<String> aspects, String name, int level, String owner, boolean taggedOpponent) {
     }
+
+    private static final Pattern VS_PATTERN = Pattern.compile("\\bvs\\.?\\s+([A-Za-z0-9_]{3,16})", Pattern.CASE_INSENSITIVE);
 
     /**
      * Reads the opponent's team from the server's lead-selection menu (/challenge, /challengedouble4v4, /challenge accept...).
@@ -107,7 +109,21 @@ public final class TeamPreviewCapture {
                         }
                     }
                     Set<String> aspects = component.getAspects() != null ? Set.copyOf(component.getAspects()) : Set.of();
-                    found.add(new Found(i / 9, i % 9, species, aspects, name, level, owner));
+                    // lore line under the name, e.g. "Opponent" in CobbleGalaxy's "Doubles 4v4 vs X" menu
+                    boolean tagged = false;
+                    try {
+                        net.minecraft.class_9290 lore = stack.method_57824(net.minecraft.class_9334.field_49632);
+                        if (lore != null) {
+                            for (net.minecraft.class_2561 line : lore.comp_2400()) {
+                                String l = stripFormatting(line.getString()).toLowerCase(Locale.ROOT);
+                                if (l.contains("opponent") || l.contains("adversaire") || l.contains("rival")) {
+                                    tagged = true;
+                                }
+                            }
+                        }
+                    } catch (Throwable ignored) {
+                    }
+                    found.add(new Found(i / 9, i % 9, species, aspects, name, level, owner, tagged));
                 }
 
                 if (found.isEmpty()) {
@@ -120,19 +136,62 @@ public final class TeamPreviewCapture {
                 boolean titleMatch = lowerTitle.contains("lead")
                     || lowerTitle.contains("select") && (lowerTitle.contains("pokemon") || lowerTitle.contains("pokémon") || lowerTitle.contains("team"))
                     || lowerTitle.contains("team preview")
-                    || lowerTitle.contains("challenge");
+                    || lowerTitle.contains("challenge")
+                    || VS_PATTERN.matcher(title).find();
                 String me = myName();
                 Set<String> mySpecies = myPartySpecies();
 
-                // 1) owner names: everything not owned by you is theirs
                 List<Found> theirs = new ArrayList<>();
                 String rival = null;
+                Matcher vs = VS_PATTERN.matcher(title);
+                if (vs.find()) {
+                    rival = vs.group(1);
+                }
+
+                // 1) items tagged "Opponent" in their description
                 for (Found f : found) {
-                    if (f.owner() != null && (me == null || !f.owner().equalsIgnoreCase(me))) {
+                    if (f.taggedOpponent()) {
                         theirs.add(f);
-                        if (rival == null) {
-                            rival = f.owner();
+                    }
+                }
+
+                // 2) owner names: everything not owned by you is theirs
+                if (theirs.isEmpty()) {
+                    for (Found f : found) {
+                        if (f.owner() != null && (me == null || !f.owner().equalsIgnoreCase(me))) {
+                            theirs.add(f);
+                            if (rival == null) {
+                                rival = f.owner();
+                            }
                         }
+                    }
+                }
+
+                // 3) two halves split by the middle column (your team left, theirs right, or the other way round)
+                if (theirs.isEmpty()) {
+                    List<Found> left = new ArrayList<>();
+                    List<Found> right = new ArrayList<>();
+                    for (Found f : found) {
+                        if (f.col() < 4) {
+                            left.add(f);
+                        } else if (f.col() > 4) {
+                            right.add(f);
+                        }
+                    }
+                    if (!left.isEmpty() && !right.isEmpty() && left.size() + right.size() == found.size()) {
+                        int leftNotMine = 0;
+                        int rightNotMine = 0;
+                        for (Found f : left) {
+                            if (!mySpecies.contains(normalizeId(speciesId(f.species())))) {
+                                leftNotMine++;
+                            }
+                        }
+                        for (Found f : right) {
+                            if (!mySpecies.contains(normalizeId(speciesId(f.species())))) {
+                                rightNotMine++;
+                            }
+                        }
+                        theirs.addAll(leftNotMine > rightNotMine ? left : right);
                     }
                 }
                 boolean mineShown = false;
@@ -142,7 +201,7 @@ public final class TeamPreviewCapture {
                     }
                 }
 
-                // 2) no owner names: the column holding the most Pokemon that are not in your party
+                // 4) last resort: the column holding the most Pokemon that are not in your party
                 if (theirs.isEmpty()) {
                     Map<Integer, List<Found>> byCol = new HashMap<>();
                     for (Found f : found) {
@@ -225,8 +284,8 @@ public final class TeamPreviewCapture {
     }
 
     public static void applyToBattle(ClientBattle battle, ClientBattleSide opponentSide) {
-        if (battle != appliedBattle) {
-            appliedBattle = battle;
+        if (!BattleKey.same(battle, appliedBattle)) {
+            appliedBattle = BattleKey.of(battle);
 
             for (UUID actor : INJECTED_ACTORS) {
                 TeamBallClientData.remove(actor);

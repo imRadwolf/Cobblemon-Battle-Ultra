@@ -75,8 +75,8 @@ public final class BattleCounters {
 
     private static void checkBattle() {
         Object battle = CobblemonClient.INSTANCE.getBattle();
-        if (battle != trackedBattle) {
-            trackedBattle = battle;
+        if (!BattleKey.same(battle, trackedBattle)) {
+            trackedBattle = BattleKey.of(battle);
             STATES.clear();
             LAST_RATIO.clear();
             lastAttackSide = null;

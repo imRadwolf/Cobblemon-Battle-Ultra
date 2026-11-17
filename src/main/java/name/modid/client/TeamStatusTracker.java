@@ -71,8 +71,8 @@ public final class TeamStatusTracker {
     }
 
     private static void checkBattle(ClientBattle battle) {
-        if (battle != trackedBattle) {
-            trackedBattle = battle;
+        if (!BattleKey.same(battle, trackedBattle)) {
+            trackedBattle = BattleKey.of(battle);
             MONS.clear();
         }
     }

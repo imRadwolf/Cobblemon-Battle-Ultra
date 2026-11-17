@@ -42,8 +42,8 @@ public final class SpectatorStripRenderer {
     }
 
     private static void sync(ClientBattle battle, ClientBattleSide side) {
-        if (battle != trackedBattle) {
-            trackedBattle = battle;
+        if (!BattleKey.same(battle, trackedBattle)) {
+            trackedBattle = BattleKey.of(battle);
             SEEN.clear();
         }
 

@@ -20,8 +20,8 @@ public final class MegaTracker {
 
     private static void checkBattle() {
         Object battle = CobblemonClient.INSTANCE.getBattle();
-        if (battle != trackedBattle) {
-            trackedBattle = battle;
+        if (!BattleKey.same(battle, trackedBattle)) {
+            trackedBattle = BattleKey.of(battle);
             MEGA.clear();
         }
     }
